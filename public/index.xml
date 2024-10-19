@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homepage  on Blowfish</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in homepage  on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sat, 07 Sep 2024 16:48:33 +1000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My journey with Web technology</title>
+      <link>http://localhost:1313/techdocs/webtech/</link>
+      <pubDate>Sat, 02 Jul 2022 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/techdocs/webtech/</guid>
+      <description>Introduction # This records the resources that I discovered and used in getting a website constructed and deployed.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Hugo System: How does it work</title>
+      <link>http://localhost:1313/techdocs/hugoarch/</link>
+      <pubDate>Mon, 08 Jul 2024 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/techdocs/hugoarch/</guid>
+      <description>Overview # wibble The Hugo processor is a stand-alone application written in Go, and is downloaded as an executable.</description>
+      
+    </item>
+    
+    <item>
+      <title>Notes on Blowfish</title>
+      <link>http://localhost:1313/techdocs/blowfish/</link>
+      <pubDate>Sat, 07 Sep 2024 16:48:33 +1000</pubDate>
+      
+      <guid>http://localhost:1313/techdocs/blowfish/</guid>
+      <description>Overview # This note outlines how the Blowfish theme works, with an aim to showing how some elements of the theme can be modified.</description>
+      
+    </item>
+    
+    <item>
+      <title>Site documentation</title>
+      <link>http://localhost:1313/techdocs/site/</link>
+      <pubDate>Thu, 25 Jul 2024 15:04:26 +1000</pubDate>
+      
+      <guid>http://localhost:1313/techdocs/site/</guid>
+      <description>Site Documentation # Content architecture # specify sections</description>
+      
+    </item>
+    
+    <item>
+      <title>Notes on HugoPlate</title>
+      <link>http://localhost:1313/techdocs/hugoplate/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/techdocs/hugoplate/</guid>
+      <description>Overview # This note outlines how the example site for HugoPlate works, and the Hugoplate theme.</description>
+      
+    </item>
+    
+    <item>
+      <title>Molinari</title>
+      <link>http://localhost:1313/family/molinari/</link>
+      <pubDate>Thu, 25 Jul 2024 17:20:22 +1000</pubDate>
+      
+      <guid>http://localhost:1313/family/molinari/</guid>
+      <description>Introduction # My paternal grandfather is Giovan&amp;rsquo; Domenico Molinari (1882-1959).</description>
+      
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>http://localhost:1313/family/overview/</link>
+      <pubDate>Thu, 25 Jul 2024 16:31:30 +1000</pubDate>
+      
+      <guid>http://localhost:1313/family/overview/</guid>
+      <description> Overview # </description>
+      
+    </item>
+    
+    <item>
+      <title>DallAcqua</title>
+      <link>http://localhost:1313/family/dallacqua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/family/dallacqua/</guid>
+      <description>Introduction # My paternal grandmother is Giacinta Dall&amp;rsquo;Acqua(1983-1973).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

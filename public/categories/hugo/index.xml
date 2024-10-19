@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Blowfish</title>
+    <link>http://localhost:1313/categories/hugo/</link>
+    <description>Recent content in Hugo on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sat, 07 Sep 2024 16:48:33 +1000</lastBuildDate><atom:link href="http://localhost:1313/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Blowfish</title>
+      <link>http://localhost:1313/techdocs/blowfish/</link>
+      <pubDate>Sat, 07 Sep 2024 16:48:33 +1000</pubDate>
+      
+      <guid>http://localhost:1313/techdocs/blowfish/</guid>
+      <description>Overview # This note outlines how the Blowfish theme works, with an aim to showing how some elements of the theme can be modified.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
