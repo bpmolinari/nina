@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Blowfish</title>
+    <title>Docs on Molinari</title>
     <link>http://localhost:1313/techdocs/</link>
-    <description>Recent content in Docs on Blowfish</description>
+    <description>Recent content in Docs on Molinari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
+    <managingEditor>brian.molinari@gmail.com (Brian Molinari)</managingEditor>
+    <webMaster>brian.molinari@gmail.com (Brian Molinari)</webMaster>
+    <copyright>© 2024 Brian Molinari</copyright>
     <lastBuildDate>Fri, 26 Jul 2024 15:12:36 +1000</lastBuildDate><atom:link href="http://localhost:1313/techdocs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My journey with Web technology</title>
       <link>http://localhost:1313/techdocs/webtech/</link>
       <pubDate>Sat, 02 Jul 2022 05:00:00 +0000</pubDate>
-      
+      <author>brian.molinari@gmail.com (Brian Molinari)</author>
       <guid>http://localhost:1313/techdocs/webtech/</guid>
       <description>Introduction # This records the resources that I discovered and used in getting a website constructed and deployed.</description>
       
@@ -22,7 +24,7 @@
       <title>The Hugo System: How does it work</title>
       <link>http://localhost:1313/techdocs/hugoarch/</link>
       <pubDate>Mon, 08 Jul 2024 05:00:00 +0000</pubDate>
-      
+      <author>brian.molinari@gmail.com (Brian Molinari)</author>
       <guid>http://localhost:1313/techdocs/hugoarch/</guid>
       <description>Overview # wibble The Hugo processor is a stand-alone application written in Go, and is downloaded as an executable.</description>
       
@@ -32,7 +34,7 @@
       <title>Notes on Blowfish</title>
       <link>http://localhost:1313/techdocs/blowfish/</link>
       <pubDate>Sat, 07 Sep 2024 16:48:33 +1000</pubDate>
-      
+      <author>brian.molinari@gmail.com (Brian Molinari)</author>
       <guid>http://localhost:1313/techdocs/blowfish/</guid>
       <description>Overview # This note outlines how the Blowfish theme works, with an aim to showing how some elements of the theme can be modified.</description>
       
@@ -42,7 +44,7 @@
       <title>Site documentation</title>
       <link>http://localhost:1313/techdocs/site/</link>
       <pubDate>Thu, 25 Jul 2024 15:04:26 +1000</pubDate>
-      
+      <author>brian.molinari@gmail.com (Brian Molinari)</author>
       <guid>http://localhost:1313/techdocs/site/</guid>
       <description>Site Documentation # Content architecture # specify sections</description>
       
@@ -52,7 +54,7 @@
       <title>Notes on HugoPlate</title>
       <link>http://localhost:1313/techdocs/hugoplate/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      
+      <author>brian.molinari@gmail.com (Brian Molinari)</author>
       <guid>http://localhost:1313/techdocs/hugoplate/</guid>
       <description>Overview # This note outlines how the example site for HugoPlate works, and the Hugoplate theme.</description>
       

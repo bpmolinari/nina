@@ -10,13 +10,13 @@ This has all been collected into a site on the commercial MyHeritage site. While
 
 This page
 
-- tells the stories of my ancestors
+- tells the stories of my grandparents:
   - [Molinari](molinari)
   - [Dall'Acqua](dallacqua)
   - Atkins
   - Connole
   
-- tells the stories of my wife's ancestors
+- tells the stories of my wife's grandparents:
   - O'Hare
   - Raselli
   - O'Hanlon
