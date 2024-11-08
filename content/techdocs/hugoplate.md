@@ -1,5 +1,5 @@
 ---
-title: "Notes on HugoPlate"
+title: "Notes on the HugoPlate theme"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z

@@ -1,5 +1,5 @@
 ---
-title : 'Notes on Blowfish'
+title : 'Notes on the Blowfish theme'
 date : 2024-09-07T16:48:33+10:00
 categories: ["hugo", "theme"]
 author: "Brian Molinari"

@@ -1,5 +1,5 @@
 ---
-title : 'Docs'
+title : 'Technical Notes'
 date : 2024-07-26T15:12:36+10:00
 draft : false
 
@@ -9,6 +9,4 @@ cascade:
   hideFeatureImage: true
 
 ---
-
-hello sailor
 

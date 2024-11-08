@@ -1,5 +1,5 @@
 ---
-title: "The Hugo System: How does it work"
+title: "Notes on the the Hugo system"
 meta_title: ""
 description: "this is meta description"
 date: 2024-07-08T05:00:00Z

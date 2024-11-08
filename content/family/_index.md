@@ -22,4 +22,4 @@ This page
   - O'Hanlon
   - McMahon
 
-It also describes a range of resources.
+It also describes a [range](gennotes) of resources.

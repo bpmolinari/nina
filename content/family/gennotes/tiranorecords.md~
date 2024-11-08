@@ -1,0 +1,54 @@
+---
+title: "Tirano Records: Births, Marriages, Deaths"
+date: 2024-11-03
+weight: 9
+draft: false
+description: "a description"
+tags: ["example", "tag"]
+---
+
+## The records
+
+Civil records maintained by comune, by a local registrar. Two copies were made, with one copy kept in the comune and the other sent to the province center (in this case the town of Sondrio).
+
+The birth records for 1866 were kept in a volume, with each birth record enterd in sequence, and numbered. At the end of the year a name-number index was compiled, and written in the last pages of the volume. 
+
+
+
+## The Tirano records on microfilm
+
+I first became aware of the records through an article
+*Family history, a new resource for family historians: microfilms of vital records from the archivio tribunale* in 
+[Volume 14, Number 1](https://www.coasit.com.au/images/ihs/journals/IHSJ_vol14_n1_2006.pdf)
+of the Italian Historical Society Journal.
+The author, Alan Poletti, explained how these records for several provinces, including Sondrio, had been committed to microfilm by the Church of jesus Chris of the latter day Saints. To view them in 2005 he had to request that the physical microfilms were sent to a nearby Family History Centre of the Church.
+
+## The Tirano records online
+
+The Church now presents a very wide range of genealogy resources on the
+website [Family Search](https://www.familysearch.org/en/united-states/).
+It is strauightforward to open a (free) account, and this account is necessary
+to access most of the records.
+
+After some experiments I discovered that the microfilms had been scanned to digital images (jpeg format). A direct link is provided by
+[Tirano records](https://www.familysearch.org/search/image/index?owc=M7SY-ZTL%3A350267401%2C350275301%3Fcc%3D2043841&cc=M7ST-PWL:350267401?cc=2043841)
+Clicking on that link will trigger a log-in prompt before loading the page.
+
+There are nine microfilms, each represented by a data structure matching the sequence of images on the film. For example the record *Nati 1866-1886* contains 1,579 images. One can click through these in sequence (exactly as with a microfilm reader) but of more use is the ability to directly access an image by sequence number.
+
+An inspection shows that the 1897 volume occupies images 5 to 38, the 1898 volume occupies images 39 to 65, and so on. As I wanted work through most of the reords I identifed the location of each volume in the microfilm record. I also recorded the location of the annual index.
+
+### Matrimoni 1897-1910 Morti 1866-1902
+
+Registro degli Atti di Matrimonio
+
+| year | start | index |
+| --- | --- | --- |
+| 1897 | 5 |37 |
+| 1898 | 39 | 65 |
+| 1899 | 66 | 95 |
+| 1900 | 97 | 126 |
+| 1901| 128 | 162 |
+
+wibble
+
