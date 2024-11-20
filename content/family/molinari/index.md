@@ -6,10 +6,15 @@ draft : false
 
 ## Introduction
 
-My paternal grandfather is Giovan' Domenico Molinari (1882-1959). He was born in Tirano, Sondrio, Italy and emigrated to Perth, Western Australia in 1902.
-Three siblings (two brothers and a sister) migrated from Tirano, in Sondrio, to Perth in the first 15 years of the twentieth century. What was the context of them leaving at that time, and why Australia?
+My paternal grandfather is Giovan' Domenico Molinari (1882-1959). He was born in Tirano, Sondrio, Italy and emigrated to Perth, Western Australia in 1900.
+Three siblings (two brothers and a sister) migrated from Tirano to Perth in the first eight years of the twentieth century. What was the context of them leaving at that time, and why Australia?
 
 The family recorded history and oral history is rather weak. The sister died early (in 1941). The younger brother went back to Tirano in 1975. They didn't much write to one another, or at least didn't reply to letters.
+
+In 2021 I discovered that the civil records (births, marriages and deaths) for the province of Sondrio were available online (see
+[technotes](/family/gennotes/tiranorecords)).
+That has allowed a family tree for my Molinari ancestors to be constructed,
+and some of the family story to be identified.
 
 ## The Tirano Context ##
 
@@ -17,7 +22,7 @@ This is provided by
 
 Jacqueline Templeton, "From the Mountains to the Bush: Italian migrants write home from Australia, 1860-1962", University of Western Australia Press, 2003.
 
-This is a study of migration from the area of Italy. It constituted the great majority of migtarion in the 1880-1914 time. The area was agricultural and poor. The population was small landholders and poor. Land was in short supply. There was a tradition of younger sons working outside the area either seasonally or for a number of years. Money was sent back regularly, of accumulated until return. This happened in Europe (Switzerland, France) where unskilled farm labouring jobs were available. To some extent this system was transferred to Australia.
+This is a study of migration from the area of Italy. It constituted the great majority of migration in the 1880-1914 time. The area was agricultural and poor. The population was small landholders and poor. Land was in short supply. There was a tradition of younger sons working outside the area either seasonally or for a number of years. Money was sent back regularly, of accumulated until return. This happened in Europe (Switzerland, France) where unskilled farm labouring jobs were available. To some extent this system was transferred to Australia.
 
 The author has found access to a number of letters from the (single) sojourners in Austral back to Tirano. Many stories tell of isolation and loneliness. They tended to work together on small contacting arrangements, and the opportunities of interaction with the broader community were limited.
 
@@ -29,10 +34,21 @@ has a number of articles, and in fact lead me to find the Sondrio records.
 
 ## Bernardo Molinari (1842-1918) ##
 
-Look at family tree. 
-[molinari](BernardoMolinari.pdf)
 
-{{< pdf src="BernardoMolinari.pdf" width="100%" height="400px" >}}
+For the Molinari ancestors, it is convenient to show a
+family tree for my great-grandfather Bernardo. This is shown
+in-line, and it is best viewed at a zoom of 1005 or bigger.
+For convenience a link to a full=screen version is provided in the caption.
+
+
+{{< pdf src="BernardoMolinari.pdf"
+        width="100%" height="400px" >}}
+Family tree: Bernardo Molinari [fullscreen](BernardoMolinari.pdf)
+
+Bernardo was the youngest of five siblings.
+As far as we can see, his parents and his siblings were all born in Tirano
+and spent
+all their lives there.
 
 Bernardo (1842-1918) was married FOUR times. Wives and children:
 
@@ -49,7 +65,7 @@ Maria died  24 December 1871 in Tirano (obviously from complications), aged 30
 - Maria Domenica 24 Nov 1874 lived 6 days
 - Domenica Marta 27 Feb 1876 lived 2 days
 
-Marta died 20 Nov 1876 in Teglio, aged 38)
+Marta died 20 Nov 1876 in Teglio, aged 28)
 
 3. Maria Reghenzani (married 01 Mar 1878, age 33)
 
@@ -61,7 +77,7 @@ Marta died 20 Nov 1876 in Teglio, aged 38)
 - Bernardo 16 Nov 1886 "lived 10 minutes"
 - Bernardo 26 Nov 1887 (Uncle Barney)
 
-Maria died 22 Oct 1902 in Tirano, aged 56
+Maria died 22 Oct 1902 in Tirano, aged 57
 
 4. Maria Caterina Rossi (married 6 Mar 1904, age 36)
 
@@ -83,20 +99,24 @@ The baby Bernardo was not yet 1.
 
 - He was back in Tirano when Maria died in October 1902.
 
-No details of his stay in Australia have been found and no record of his return trip to Italy. There is a vague family story that this was his second trip to Australia. This can only be possible if he was back in Tirano by, say, 1867.
+No details of his stay in Australia have been found and no record of his return trip to Italy. There is a vague family story that there was a second trip to Australia, and indeed that he had another family there. If there was, indeed, a second trip he would have "abandoned" his fourth wife when in his early sixties.
 
+In any event, he was back in Tirano when he died in 1918.
 
- 
 
 ## Maria Reghenzani (1845-1902) ##
 
-
-Look at family tree. 
-[reghenzani](MariaReghenzani.pdf)
+It is convenient to show a separate family tree for my
+great-grandmother (as not all details can be mapped into
+a single tree).
 
 {{< pdf src="MariaReghenzani.pdf" width="100%" height="400px" >}}
+Family tree: Maria Reghenzani [fullscreen](MariaReghenzani.pdf)
 
-Maria  was married THREE times. Husbands and children:
+Maria was the oldest of four siblings. She was born in the comune of Teglio, some 10km down the valley from Tirano.
+Her parents and siblings were born in Teglio, and seemed to have spent their entire lives there.
+
+Maria  was married THREE times, each time in Tirano. Husbands and children:
 
 1. Giovanni D'Abbondi (haven't found the registro - records started in 1866)
 
@@ -111,33 +131,52 @@ Domenico died 1 Feb 1875 aged 54.
 
 3. Bernardo Molinari (see above)
 
+When Bernardo disappeared on his 12-year sojourn in Australia, Maria had in fact five children to look after, aged 15, 14, 8, 6 and 1 years.
+The older two were from her earlier marriage to Domenico Ferrari.
+It is not clear that she even knew where Bernardo was (see the above
+comment from his daughter Domenica's marriage certificate), so
+it is not clear that he regularly sent money back.
+By the time Bernardo returned the oldest three (all girls) were married and the next (my grandfather) had left for Australia.
+A family story has that his main childhood memory was of being hungry, with
+meat being afforded only several times a year.
 
-Life was clearly cheap in Tirano. By my reckoning Bernardo had 12 children, of whom only three reached maturity. Maria had 9 children, of whom five reached maturity.
+Life was clearly cheap in Tirano. By my reckoning Bernardo had 12 children, of whom only three reached maturity.
+Maria had 9 children (7 with Bernardo), of whom five reached maturity.
 
 There were a large number of Molinaris and Piantas and Ferraris in Tirano, but almost none in the next communes Villa di Tirano and Teglio. Clearly it was a tribal way of life.
 
+
+
 ## The Migrant Generation
 
-The three Molinari siblings migrated to Perth in close succession: Dom in 1900, Maria Domenina in 1907 and Bernardo in 1908. They left two half-sisters in Tirano (from their mother's earlier marriage). The second sister, Caterina Ferrari, had three children, of whom two also migrated to Perth: Eliza Ferrari in 1923 and Battista Del Torre in 1924. The first sister, Maria Giovanna Ferrari, stayed in Tirano and her family were the rather indistinct "Tirano relatives" of my chidhood. She had married Giovanni Molinari, so these relatives bore the Molinari surname (but from a different family).
+The three Molinari siblings migrated to Perth in close succession: Dom in 1900, Maria Domenica in 1907 and Bernardo in 1908. They left two half-sisters in Tirano (from their mother's earlier marriage).
+The second of those sisters, Caterina Ferrari, had three children, of whom two also migrated to Perth: Eliza Ferrari in 1923 and Battista Del Torre in 1924.
+The first sister, Maria Giovanna Ferrari, stayed in Tirano and her family were the rather indistinct "Tirano relatives" of my childhood. She had married Giovanni Molinari, so these relatives bore the Molinari surname (but from a different family).
 
 ### Domenico Molinari
 
-For the first time, we have a photograph. This is Domenico at his wedding in 1911, aged 29.
+For the first time, we have a photograph.
+This is Domenico at his marriage to Giacinta Dall'Acqua in 1911, aged 29.
 
-{{< figure src="DomenicoGiacintaMolinari.jpeg" >}}
+{{< figure src="DomenicoGiacintaMolinari.jpeg" 
+           caption="Domenico Molinari and Giacinta Dall'Acqua. Wedding. 1911" >}}
 
-He migrated to Perth in 1900. Married in 1911. Then owned a hotel in Day Dawn, in 1918.
+Then owned a hotel in Day Dawn, in 1918.
+
+[Naturalisation](https://recordsearch.naa.gov.au/SearchNRetrieve/Gallery151/dist/JGalleryViewer.aspx?B=12840&S=2&N=10&R=0#/SearchNRetrieve/NAAMedia/ShowImage.aspx?B=12840&T=P&S=5)
 
 {{< figure src="CosmopolitanHotelDayDawn1918.jpeg" >}}
 
 Then blacksmith in Cue. Gold possession. Retirement. My memories.
 
-### Domenica Pianta (nee Molinari)
+### Domenica Molinari and Giacomo Pianta
 
 Married Giacomo Pianta in Tirano. He moved to Perth in 1902, leaving Domenica and son behind. Do not have a photo of Domenica, but one of the brothers in law.
 
+{{< figure src="DomenicoMolinariGiacomoPianta.jpeg"
+           caption= "Domenico Molinari and Giacomo Pianta. 1911" >}}
 
-Sad story. Did not come out until 19xx. They run a diary farm. Husband was seriuosly injured and committed to a nursing home. Commits suicide in 1941.
+Sad story. Did not come out until 1907. They run a diary farm. Husband was seriously injured and committed to a nursing home. Commits suicide in 1941.
 
 ### Bernardo Molinari
 
@@ -163,6 +202,6 @@ Trip to Tirano in 1975. House vandalised after six months. Stays in Tirano.
 
 ### Jim Pianta
 
-{{< figure src="DomenicoMolinariGiacomoPianta.jpeg" >}}
+
 
 ### Roma Molinari
