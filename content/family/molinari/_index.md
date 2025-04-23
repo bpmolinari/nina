@@ -24,24 +24,21 @@ This is provided by
 
 Jacqueline Templeton, "From the Mountains to the Bush: Italian migrants write home from Australia, 1860-1962", University of Western Australia Press, 2003.
 
-This is a study of migration from the area of Italy. It constituted the great majority of migration in the 1880-1914 time. The area was agricultural and poor. The population was small landholders and poor. Land was in short supply. There was a tradition of younger sons working outside the area either seasonally or for a number of years. Money was sent back regularly, of accumulated until return. This happened in Europe (Switzerland, France) where unskilled farm labouring jobs were available. To some extent this system was transferred to Australia.
+This is a study of migration from the area of Italy. It constituted the great majority of migration in the 1880-1914 time. The area was agricultural and poor. The population was small landholders and poor. Land was in short supply. There was a tradition of younger sons working outside the area either seasonally or for a number of years. Money was sent back regularly, or accumulated until return. This happened in Europe (Switzerland, France) where unskilled farm labouring jobs were available. To some extent this system was transferred to Australia.
 
 The author has found access to a number of letters from the (single) sojourners in Austral back to Tirano. Many stories tell of isolation and loneliness. They tended to work together on small contacting arrangements, and the opportunities of interaction with the broader community were limited.
-
-A broader story is told in the book "Sojourners", for the Chinese migration to Australia in the nineteenth century.
 
 There is a considerable amount of Italian-Australian studies now available.  The journal
 [Italian Historical Society](https://www.coasit.com.au/italian-historical-society/ihs-journal)
 has a number of articles, and in fact lead me to find the Sondrio records.
 
-### Bernardo Molinari (1842-1918) ##
 
+### Bernardo Molinari (1842-1918) ##
 
 For the Molinari ancestors, it is convenient to show a
 family tree for my great-grandfather Bernardo. This is shown
 in-line, and it is best viewed at a zoom of 100% or bigger.
 For convenience a link to a full-screen version is provided in the caption.
-
 
 {{< pdf src="BernardoMolinari.pdf"
         width="100%" height="400px" >}}
@@ -172,7 +169,13 @@ There were a large number of Molinaris and Piantas and Ferraris in Tirano, but a
 
 The three Molinari siblings migrated to Perth in close succession: Domenico in 1900, Bernardo in 1908, and Maria Domenica in 1916. They left two half-sisters in Tirano (from their mother's earlier marriage).
 The second of those sisters, Caterina Ferrari, had three children, of whom two also migrated to Perth: Eliza Ferrari in 1923 and Battista Della Torre in 1924.
-The first sister, Maria Giovanna Ferrari, stayed in Tirano and her family were the rather indistinct "Tirano relatives" of my childhood. She had married Giovanni Molinari, so these relatives bore the Molinari surname (but from a different family).
+The first sister, Maria Giovanna Ferrari, stayed in Tirano and her family were the rather indistinct "Tirano relatives" of my childhood. She had married Giovanni Molinari, so these relatives bore the Molinari surname (but from a different family). 
+
+Some background information relevant to this generation is described separately.
+
+- [Cue, Day Dawn and the Cosmopolitan Hotel](murchison)
+
+- [York Coffee Palace, 553-559 Wellington Street](yorkcoffeepalace)
 
 ### Domenico Molinari (1882-1959)
 
@@ -190,7 +193,7 @@ It is convenient to show a timeline of where he lived and worked.
 {{< timeline >}}
 
 {{< timelineItem header="1900-1902 Mundaring" >}}
-It seems that his first job was on the constuction of Mundaring Weir.
+It seems that his first job was on the construction of Mundaring Weir.
 This was part of the largest public works program of the time in WA, and it was noted for the involvement of a large group of immigrant workers with poor English language skills.
 Noel Howieson's notes says that her grandfather was in fact in WA at the time, working on the dam project (he returned to Tirano). This may well have been the motivation for Dominic to choose WA.
 {{< /timelineItem >}}
@@ -201,7 +204,7 @@ for naturalisation says that he moved to Greenmount in 1902. He and Giacinta liv
 {{< /timelineItem >}}
 
 {{< timelineItem header="1916-1920 Day Dawn" >}}
-Dominic was the publican of the Cosmopolitan Hotel.
+Dominic was the publican of the Cosmopolitan Hotel. The next two children were born in Day Dawn.
 {{< /timelineItem >}}
 
 {{< timelineItem header="1920-1953 Cue" >}}
@@ -227,7 +230,7 @@ for naturalisation in 1911, soon after his marriage. As wife, Giacinta obtained 
 The
 [York Coffee Palace](yorkcoffeepalace),
 at 557-559 Wellington Street, Perth plays a key role in the affairs of Dominic, his brother Bernardo, and his brother-in-law Giacomo.
-Clearly, it finished up in the management (and presumed ownership) of Bernardo
+Clearly, it finished up in the management of Bernardo
 from about 1920.
 Family folklore has it that Dominic and Giacomo owned the business (but not the property), and that they were later bought out by Bernardo.
 Giacomo used his capital to buy a dairy farm about 1915, and Dominic used his capital to buy the
@@ -300,7 +303,7 @@ The second event was Dominic's
 
 >Dominic Molinari (70), married, blacksmith, was charged in the Cue Police Court today, before Warden Harwood. with having been in the unlawful possession of gold. He pleaded not guilty but was sentenced to three months' hard labour and fined £50. He pleaded guilty to a charge of having had unregistered appliances and was fined £25. Det.Sgt. Douglas, of the Gold Stealing Detection Staff, said that a search of Molinari's blacksmith shop had revealed 26 crucibles, five gold moulds and other equipment used for smelting. Molinari had claimed that certain material was brass, but on assay it proved to be 80 per cent gold. Evidence was given that some of the gold tailings which formed part of the charge assayed at a rate of 200 ounces a ton.
 
-Presumably he had been happy to take gold (in lieu of cash) for blacksmithing services. Gold, to a traditional Italian, would have been better than cash. Maybe he was regarded as a small-scale local "fence". In any event it was hardly a unique offence. A search of *The West Australian* for 1952 shows several dozen similar cases, all fairly small beer. Security in the gold mining and refining process was pretty weak, and this was offset making gold possession, ipso facto, a punishable offence. Three months hard seemed to be the minimum sentence.
+Presumably he had been happy to take gold (in lieu of cash) for blacksmithing services. Gold, to a traditional Italian, would have been better than cash. Maybe he was regarded as a small-scale local "fence". In any event it was hardly a unique offence. A search of *The West Australian* for 1952 shows several dozen similar cases, all fairly small beer. Security in the gold mining and refining process was pretty weak, and this was offset by making gold possession, ipso facto, a punishable offence. Three months hard seemed to be the minimum sentence.
 
 It was little spoken of in the family. Family legend had it that Dominic was extremely wary of banks. Cash was carefully buried (literally) rather than banked. This caused drama when the burial spot was temporarily mistaken. It was also suggested that not all the gold was seized by Sgt. Douglas.
 
@@ -454,15 +457,15 @@ Not much support for multiculturalism in 1919, then! This objection is trumped b
 
 >I respectfully report that this is the leading Wine saloon and restaurant kept and frequented by Italians in Perth. The place is well-conducted, and although exclusively frequented by Italians, could not be called an Italian Club. As the present licensee is an old man, it is probable that Molinari will apply for the license of these premises if his naturalisation is granted. Molinari always gave me every assistance in tracing Italians and other foreigners wanted for evasions of the War Precautions Act, and was always willing to assist in obtaining the required information.
 
-Perhaps Bernardo was unaware of these competing threads. In any event the objection was to no avail as his Certificate of Naturalisation was awarded on 20 January 1920.
+In any event the objection was to no avail as his Certificate of Naturalisation was awarded on 20 January 1920.
 
 This was just as well, for on 9 February 1920  both De Giovanni and Molinari were convicted of the charge
 
 >Each of you on January 11 were in possession of 68 bottles of Swan beer, seized at 559 Wellington Street, by virtue of a search warrant issued under the provisions of the Illicit sale of Liquor Act, 1913
 
-They didn't need to be caught selling beer in a wine saloon, mere possession was enough. One wonders if the Law had something better to do. Clearly Lieut. Colonel Peck was apoplectic. He promptly wrote to the Home and territories Department on 11 February, attaching the clipping from The Daily News, and doubling down his objection. The WA branch of the internal security service had little better to do than to note that an Italian had committed the un-Australian crime of being in possession of bottles of Swan Lager.
+They didn't need to be caught selling beer in a wine saloon, mere possession was enough. One wonders if the Law had something better to do. Clearly, Lieut. Colonel Peck was apoplectic. He promptly wrote to the Home and Territories Department on 11 February, attaching the clipping from The Daily News, and doubling down his objection. The WA branch of the internal security service had little better to do than to note that an Italian had committed the un-Australian crime of being in possession of bottles of Swan Lager.
 
-Bernardo managed to slowly finesse his problem. An application to transfer the license from De Antonio was refused on 26 April 1920. this seems to be rather moot, as dear old Antonio was 
+Bernardo managed to slowly finesse his problem. An application to transfer the license from De Antonio was refused on 26 April 1920. This seems to be rather moot, as dear old Antonio was 
 [buried](http://nla.gov.au/nla.news-article27679416)
 on 8 April. The license seems to have been transferred to the trustee of Antonio's estate and it was finally transferred from the trustee, Peter Porcelli, to Bernardo in September 1920.
 
@@ -536,7 +539,7 @@ Bernardo remarried in 1930, to Pierina Tognolini (who was born in Tirano in 1904
 {{< figure src="PierinaMolinari.jpg"
            caption= "Pierina Molinari" >}}
 
-Bernardo and Pierina established a substantial property at 168 Hertha Road, osborne Park. It could operate as a restaurant and as a reception centre. During the War, and through to the fifties it was the go-to place in Perth for fine Italian dining and hospitality.
+Bernardo and Pierina established a substantial property at 168 Hertha Road, Osborne Park. It could operate as a restaurant and as a reception centre. During the War, and through to the fifties it was the go-to place in Perth for fine Italian dining and hospitality.
 For example, the social pages of the *Sunday Times* of 23 March 1952 reported
 
 >DINNER Party on Thursday Night was given to Farewell Mrs. Milly Higgins of Mt. Lawley who leaves for England on the 'Dominion Monarch' tomorrow. Friends who arranged it at Molinari's Osborne Park, were ...
@@ -554,9 +557,9 @@ Bernardo sold the property in 1956.
 
 In his retirement, Bernardo made two return trips to Tirano. The first in 1955 was a solo trip. He arrived back in Fremantle on 27 August 1955, on the *Neptunia*. After Pierina died in December 1961, he made a trip with his daughter Roma, returning on the *Gallileo Galilei* on 28 November 1963.
 
-In 1975 Bernardo left with his daughter Roma on a trip to Tirano. They seemed to have left the property in Osborne Park vacant. After some months it was vandalised, and the valuable property (such as pierina's jewellery collection) stolen. Bernardo and Roma stayed in Tirano, and most the the property was sold for redevelopment and the house demolished. Bernardo died in Tirano in February 1984, aged 96.
+In 1975 Bernardo left with his daughter Roma on a trip to Tirano. They seemed to have left the property in Osborne Park vacant. After some months it was vandalised, and the valuable property (such as Pierina's jewellery collection) stolen. Bernardo and Roma stayed in Tirano, and most the the property was sold for redevelopment and the house demolished. Bernardo died in Tirano in February 1984, aged 96.
 
-Giovanni Della Torre eventually left the employ of Bernardo. He registered for
+Giovanni Battista Della Torre eventually left the employ of Bernardo. He registered for
 [military service](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=5886250)
 in December 1942 (showing his employment as a machine miner at Big Bell). He married Ivy Waterman in 1950. Ivy died in 1965 and Giovanni died in 1973. They had son, John Della Torre.
 
