@@ -33,7 +33,7 @@ For convenience a link to a full-screen version is provided in the caption.
 Family tree: Lorenzo Dall'Acqua [fullscreen](LorenzoDallAcqua.pdf)
 
 Giacinta was the second of six children born
-to Lorenzo Dall'Acqua and Poalina Torre.
+to Lorenzo Dall'Acqua and Paolina Torre.
 As far as we can see, her parents and grandparents were all born in
 Selva di Cadore, and spent their entire lives there.
 An inspection of the family tree shows that Lorenzo and Paolina were married just after the birth of their fifth child. The first four were carefully listed on the marriage certificate, the text making it clear that the children were thereby being made legitimate. Their births were all carefully registered, sometimes with both parent's names, and sometimes with just Lorenzo's.
@@ -54,12 +54,12 @@ Clearly, most of them were agricultural workers of one sort or another.
 | Manueto | offellieri | confectioner |
 | Gettrude Buogo | contadina | farmer |
 | Ricardo | bracciante| farm labourer |
-| Carolina Scardozan| casalinga | housewife |
+| Carolina Scardozan | casalinga | housewife |
 
 The distinction between agricoltore, villico, and contadino somewhat escapes me at the moment.
  
-Giacinta and her brother Ricardo arrived at Port Fremantle on 10 March 1911,  on the North German Lloyd ship Barbarossa. 
-Ricardo is on the passenger list for the North German Lloyd ship Bremen leaving Fremantle on xx, bound for Sydney. Whether he stayed in Sydney for a while, or went directly back to Italy is not clear.
+Giacinta and her brother Ricardo arrived at Port Fremantle on 10 March 1911,  on the North German Lloyd ship *Barbarossa*. 
+Ricardo is on the passenger list for the North German Lloyd ship *Koenigin Luise* leaving Fremantle on 9 December 1911, bound for Sydney. Whether he stayed in Sydney for a while, or went directly back to Italy is not clear.
 In any event, he was married in Selva di Cadore in about 1918.
 
 She married Domenico Molinari on 25 September 1911, in St Mary's Cathedral in the centre of Perth. Presumably Dom had made some money in his ten years in WA.
@@ -70,11 +70,11 @@ She married Domenico Molinari on 25 September 1911, in St Mary's Cathedral in th
     >}}
 
 A shipping notice in the West Australian shows that she left Fremantle
-on the ship Oronsay, on 28 May 1935, along with her sister-in-law Domenica
-Pianta. She returned on xxx. The following shows her passport photo,
+on the ship *Oronsay*, on 28 May 1935, along with her sister-in-law Domenica
+Pianta. She returned on 17 January 1936, on the ship *Romolo*. The following shows her passport photo,
 together with an entry from her passport.
 She had acquired Australian citizenship from the fact that her husband was
-naturalised in 1912. Along with all Australain citizens at that time, she was
+naturalised in 1912. Along with all Australian citizens at that time, she was
 issued with a
 [document](https://en.wikipedia.org/wiki/Australian_passport)
 that was labelled **British Passport**.
@@ -104,7 +104,7 @@ It is convenient to show the family tree for Giacinta's grandfather, Giacomo Tor
 Family tree: Giamomo Torre [fullscreen](GiacomoTorre.pdf)
 
 Clearly, Giacinta and Gerardo Callegari (1886-1937) were first cousins.
-Gerardo and his wife Oliva Dell'Andrea emigrated to WA, arriving at Port Fremantle on the North German Lloyd ship Bremen on 08 November 1908.
+Gerardo and his wife Oliva Dell'Andrea emigrated to WA, arriving at Port Fremantle on the North German Lloyd ship *Bremen* on 08 November 1908.
 Presumably, their presence in WA had a considerable bearing on Giacinta's decision to emigrate some two years later.
 
 Gerardo and Oliva had a large family - I have shown nine children

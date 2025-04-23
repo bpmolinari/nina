@@ -6,14 +6,23 @@ draft : false
 
 ## Overview
 
+The York Coffee palace occupied part of a building on the corner of Wellington Street and Queen Streets in the city business district of Perth. The main railway station is further along Wellington Street, perhaps 800 meters to the right.
+
 We have a pencil sketch of the building, from July 1926.
+It is proudly labelled the *Molinari Building*, being now owned by Bernardo Molinari.
+The ground floor advertises a Wine Salon, and the Caprera Restaurant and, somewhat incongruously, a produce merchant. The first story clearly provides residential accommodation.
+
 {{< figure src="WellingtonStreet1926.jpeg" >}}
 
-As can be seen, it is on the corner of Wellington Street and Queen Street.
-This is in the city business district of Perth. The main railway station is further along Wellington Street, perhaps 800 meters to the right.
+A [detailed history](https://inherit.dplh.wa.gov.au/public/inventory/printsinglerecord/d6bdb22a-d7fe-4388-8891-7d0fa9a136f7)
+of the building is available on the
+[WA Heritage Council website](https://inherit.dplh.wa.gov.au/Public/).
+The building was initially constructed about 1896. It was damaged by a fire in 1950, but repaired. The history finishes about 2015, at which stage it still provided budget accommodation.
+Google Maps (2025) shows everthing has been demolished and the complete block is a bare site waiting redevelopment.
 
-It is proudly labelled as the *Molinari Building*, being now owned by Bernardo Molinari.
-The ground floor advertises a Wine Salon, and the Caprera Restaurant and, somewhat incongruously, a produce merchant. The first story clearly provides residential accommodation.
+An architectural enthusiast has provided a
+[2014 photo](https://www.flickr.com/photos/49981828@N04/14942567952)
+of the building (in its backpacker hotel phase), together with another history.
 
 ## Coffee Palace
 
@@ -27,7 +36,7 @@ Perhaps they were somewhat simpler and cheaper to run, not needing to meet the o
 
 The first link to the institution is
 buried in page 8 of *The West Australian* of 6 February 1900.
-In an advertisement for the York Coffee palace (corner of Wellington and Queen Streets).
+In an advertisement for the York Coffee Palace (corner of Wellington and Queen Streets).
 Mrs. Bowes announces that she offers
 
 > First class accommodation. Single and double rooms. Mechanics and tradesmen will find the above a suitable home.
@@ -39,14 +48,14 @@ for the kitchen being unclean.
 On page 9 of *The West Australian* of 7 March 1905 one Michael Lavelle applied for an Eating-House licence for the premises.
 
 In February 1906 the then licensee Michael Lavelle went
-[bankrupt](http://nla.gov.au/nla.news-article82680239)
+[bankrupt](http://nla.gov.au/nla.news-article82680239).
 
 In page 17 of *The West Australian* of 10 March 1906, Giovanni Gettaz was awarded a colonial wine licence for the premises.
 
 
 Buried in page 2 of *The West Australian* of 16 January 1917 is a public notice to transfer both the Eating House Licence and the Australian Wine Lincnce associated with the York Coffee Palace, from Giovanni Gettaz to Giacomo Pianta.
 
-Buried in page 3 of *The West Australian* of 29 August 1917 is a similar public notice, seeking to transfer the same licences from Giacomo Pianta to one Antonio De Giovanni.
+Buried in page 3 of *The West Australian* of 29 August 1917 is a similar public notice, seeking to transfer the same licences from Giacomo Pianta to one Antonio De Giovanni. It seems that the application was successful.
 
 Buried in page 6 of *The West Australian* of 20 April 1920:
 
@@ -54,7 +63,7 @@ Buried in page 6 of *The West Australian* of 20 April 1920:
 of the Perth Licensing Bench (Mr. T. F.
 Davies, P.M.), an application was made
 for the transfer of an Australian wine licence
-from Antonia Giovanni to Bernardo
+from Antonio Giovanni to Bernardo
 Molinari. Mr. M. G. Lavan made the application.
 Inspector O'Halloran opposed
 the transference on the ground that the
