@@ -122,7 +122,7 @@ The [report](http://nla.gov.au/nla.news-article233358632) of the March 1902 meti
 We have a photo of the hotel in 1918.
 {{< figure src="CosmopolitanHotel1918.jpeg" >}}
 
-The hotel was owned from 1901 until 1915 by a remarkable character named Pietro Ceruti (1967-1921), as described at one of his
+The hotel was owned from 1901 until 1915 by a remarkable character named Pietro Ceruti (1867-1921), as described at one of his
 [bankruptcy hearings](http://nla.gov.au/nla.news-article26944119).
 He arrived in Albany with his family, in December 1896. After an
 [eventful](http://nla.gov.au/nla.news-article216689548)
@@ -149,7 +149,7 @@ The hotel then lost its licence, due to repairs being needed.
 By March 1915 it was 
 [open again](http://nla.gov.au/nla.news-article233273742),
 with a tricolour flag flying from its flagpole.
-Its publican (and perhaps owner) was one Urbain Martin was a Frenchman.
+Its publican was one Urbain Martin, a Frenchman.
 By later in the year he was selling up the complete contents of the hotel, notionally on the basis that he was a French Reservist and had been called up to serve in France.
 
 The hotel was taken over (in late 1915 or early 1916) by my grandfather, Dominic, with ownership being a partnership with his brother Bernardo.
