@@ -121,6 +121,7 @@ The [report](http://nla.gov.au/nla.news-article233358632) of the March 1902 meti
 
 We have a photo of the hotel in 1918.
 {{< figure src="CosmopolitanHotel1918.jpeg" >}}
+It is tempting to think that the man expansively leaning on the upright is the owner, my grandfather Dominic, and the boy next to him is my father Barney. The ages are about right.
 
 The hotel was owned from 1901 until 1915 by a remarkable character named Pietro Ceruti (1867-1921), as described at one of his
 [bankruptcy hearings](http://nla.gov.au/nla.news-article26944119).
@@ -178,3 +179,117 @@ In November 1919 he was again
 In November 1920 he arrived back in Fremantle on the ship *Charon*, in possession of a brand-new Italian passport that was issued in Singapore, and only valid for a one-way trip to Australia. It was promptly
 [confiscated](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=1329805)
 on arrival. He died in 1921.
+
+
+### Schools
+
+We have photographs of the 
+[two schools](https://www.outbackfamilyhistory.com.au/records/record.php?record_id=130&town=Cue)
+in Cue in 1906. The larger is the Cue State School. This was
+[opened](https://en.wikipedia.org/wiki/List_of_schools_in_rural_Western_Australia)
+in 1896, only three years after the town was gazetted. It is 
+[still open](https://www.det.wa.edu.au/schoolsonline/overview.do?schoolID=5127)
+in 2025 with 32 students (of which 7 are secondary students). There never seems to have been a high school.
+
+The smaller is the Dominican Convent School. This was founded in 1899, initially in a temporary building. The school moved in to new building in 1906. Surprisingly, the convent school moved into a 
+[new building](http://nla.gov.au/nla.news-article256004928)
+in 1949. It was certainly closed by 1971.
+
+There were corresponding schools in Day Dawn, five kilometres away. The State School opened in 1895 and lasted until 1929. The Dominican Convent School opened in 1902 and was closed by 1919.
+
+{{< figure src="DayDawnConventSchool1902.png"
+    default="true"
+	width="300" height="400" >}}
+
+Note that these were simply called *schools*. The state schools honoured the commitment that schooling was free and compulsory up until the school leaving age of 14. The convent schools were due to the fact that the Catholic Church hierarchy regarded the state schools as godless, to the extent that a completely separate school system was needed. This system was paid for by the parishioners, as there was no state support.
+They were not called primary schools because, at the time, there were no secondary schools as such. There were a small number of colleges in the State, mainly with church affiliation, supported by fees which provided what we now call secondary education.
+
+### The Dominican Nuns
+
+How did that icon, the convent school, arrive in Cue and Day Dawn?
+
+From Dublin in Ireland via Dunedin in New Zealand is one part of the answer. In 1899 a
+[steely-eyed](https://www.conventualsistersofstdominic.org/p/history.html)
+Irish nun in her sixties, Mother Gabriel Gill, arrived at Geraldton with five other Dominican nuns.
+In six years the number of nuns had grown to 20, and she had established a Mother house for the community at Dongarra (1901), and convents and associated convent schools at Cue(1899), Leonora (1903), Gwalia(1904) and Day Dawn(1905). 
+
+[biography](https://teara.govt.nz/en/biographies/2g8/gill-mary-gabriel)
+
+She died in Day Dawn in 1906.
+The *Murchison Advocate* (29 April 1905, page 3) published an obituary:
+
+>On Holy Saturday morning, the 22nd inst., there occurred at Day Dawn the death of the Rev Mother Gabriel, Prioress of the Dominican Order in this State. The cause of death was pneumonia, to which she succumbed in less than forty-eight hours after the commencement of the attack. The Deceased religious had a somewhat remarkable career. Brought up in a luxurious home and equipped with an education on which no expense had been spared, and which was broadened by much travel, she resolved, while still very young, to leave the world and devote herself to the service of God and her fellows in a Religious Order. In pursuance of this intention she entered the famous Dominican Convent of Sion Hill, near Dublin. Her high culture, her activity, and her talent for administration marked her out for office, and at an unusually early age she was chosen Superior of a branch of Missionary Nuns who sailed for New Zealand at the request of the late Bishop Moran. Her life thereafter was a particularly strenuous one, filled with such arduous labours as the wise ruling of the Order, journeys to Europe to augment their number, the establishment of Novitiates, the opening of schools and the foundation of branch convents. Her chief, and indeed it may be said her only motive, was the promotion of the true welfare of mankind and especially of the young, and she devoted herself to the various works which it involved with an eager and ceaseless, but with an ever prudent energy. In 1899, at the invitation of Bishop Kelly, she came to the new Diocese of Geraldton, accompanied by a community of her Order. Her life in this State was one of constant activity. Among her undertakings during this period may be enumerated the foundation of schools at the Back Flats and Gwalia, and of convents and schools at Greenough, Dongarra, Cue, Leonora, and Day Dawn. During her entire life her influence was widely and deeply felt and always made for good. She won easily and maintained the love, admiration and confidence of her pupils, and was the constant wise adviser of their elders. It is not too much to say that her death, which cut short her career in the full tide of its beneficent activity, will be felt as a distinct loss far beyond tbe bounds of the Religious Order to which she belonged. Her funeral on Sunday was attended by representatives of all sections of the community.
+
+How Irish nuns, in their medieval outfits, coped with the dust and the heat of the Murchison Goldfields one can only imagine. It is clear that once school was over for the year they decamped for the summer from the inland convents to the relative relief of Dongarra, near the coast.
+
+A [Heritage WA report (section 13.4)](https://inherit.dplh.wa.gov.au/admin/api/file/3decb741-b3e6-9f6a-f62a-af0e8149b3cb)
+relates the story of the Dominican convent at
+[Yalgoo](https://en.wikipedia.org/wiki/Yalgoo,_Western_Australia).
+It was constructed in 1921, and the report tells us
+
+>most of the materials for the new convent were acquired by relocating the old convent from the near derelict Goldfields town of Day Dawn.
+
+Also
+
+>The Yalgoo Courthouse had been erected in Day Dawn in 1904 and brought to Yalgoo in 1921 to replace the original Courthouse which had been destroyed in a storm.
+
+Clearly, the building stock of Day Dawn was being rapidly depleted.
+
+The convent at Yalgoo closed its doors at the end of 1949 because of a lack of students.  The convent was dismantled (again) and the material used to build a shearing shed on a nearby station.
+
+The Mother house at Dongarra and its associated Ladies College continued until 1971, when they were severely damaged by flood. The Mother house was moved to Perth. 
+A [monument](https://monumentaustralia.org.au/themes/culture/religion/display/109630-dominican-sisters/) records the spot.
+
+As the last schools closed the
+[final phase](https://www.santaclara.wa.edu.au/our-school/our-history/)
+occurred:
+
+>From 1972 until 1986, the Sisters conducted a Motor Mission with its base at Morawa from where they visited schools and homes at Morawa, Perenjori, Latham, Buntine, Mingenew, Dongara, Walkaway, Cue, Meekatharra, Yuna, Nabawa and, after the closure of the school at Three Springs in 1974, at Eneabba, Carnamah and Coorow.
+
+The remaining nuns moved to Perth. The gold rush was at a complete end.
+
+### Big Bell Mine
+
+On 1 December 1934 the *Murchison Times* reported:
+
+>IMPORTANT TESTING PLAN. American Smelting and Refining Company of New York has taken an option over the Big Bell gold mine and an area of 1,200 acres, two and a half miles long by three-quarters of a mile wide near Cue. Diamond drilling over the last two years has disclosed a low grade ore body 80ft. wide over a length of 1,000ft. If a grade of 3 1/2 dwt. a ton can be proved the American company is prepared to erect a treatment plant with a capacity of 1,000 tons a day and to expend £2,000,000 on development and equipment of the mine. The option is taken for 12 months and the company has agreed to spend at least £600 a month on testing the property.
+
+The mine itself had been developed in the halcyon days of the Cue goldrush, and had operated from 1913 to 1924. Various entrepreneurs had held the lease since then, and had eventually enticed American capital to investigate a large-scale mine. The State Government was an enthusiastic urger, for gold production meant employment and export earnings. The Depression still held the nation in its grip.
+
+A [report](http://nla.gov.au/nla.news-article58755547) of April 1935 showed the company had started this work. 
+
+A [long article](http://nla.gov.au/nla.news-article32962928) in *The West Australian* on 6 December 1935 reports a detailed tour of The Murchison, and puts the Big Bell project into the context of the other activities in the region.
+
+
+In the event, *The West Australian*
+[reported](http://nla.gov.au/nla.news-article25138003)
+on 5 March 1936 that the company had committed to the project, while the State Government had committed to build a rail link from Cue to the mine.
+The townsite was [surveyed](http://nla.gov.au/nla.news-article40728888) by June 1936, and land sales commenced the next month. More importantly, the licence for the town hotel was [awarded](http://nla.gov.au/nla.news-article40960316) on 17 September 1936.
+
+The mine and the railway were
+[opened](http://nla.gov.au/nla.news-article257506376)
+to great fanfare on 2 October 1937.
+
+The mine was [closed](http://nla.gov.au/nla.news-article47363183) in February 1943. Some of the larger pieces of equipment were taken away for the war effort.
+
+The mine [reopened](http://nla.gov.au/nla.news-article44836196) in October 1945. Three months later the mine was [still trying](http://nla.gov.au/nla.news-article50329604) to recover its main power plant. It was packed up and sent to darwin, never to be uncrated or used. A visitor's
+[report](http://nla.gov.au/nla.news-article46802614) of October 1947 gives a glowing account of the town and its associated facilities. It would seem to have been American capitalism at its best.
+
+The mine [closed](http://nla.gov.au/nla.news-article52969644) in early 1955. The entire assemblage of mining equipment was sold off in a [series of auction sales](http://nla.gov.au/nla.news-article266330051). The houses in the town were auctioned off for the value of the materials. The town soon became a 
+[ghost town](https://www.outbackfamilyhistoryblog.com/ghost-towns-gwalia-big-bell/). The only building that remains is the impressive art deco hotel. In the grand Australian tradition it was soon trashed beyond repair.
+
+[catholic education](https://ncec.catholic.edu.au/wp-content/uploads/2023/02/CE200_Q3-Quarterly-Magazine.pdf)
+
+[Reedy](https://outbackfamilyhistory.com.au/records/record.php?record_id=687&town=Reedy)
+
+[wa secondary education](http://kairosct.com/in-print/curriculum-change-western-australia/)
+
+[overview](https://core.ac.uk/works/33170860/)
+
+
+[ABS](https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/A75909A2108CECAACA2569DE002539FB)
+[current](https://www.det.wa.edu.au/schoolsonline/overview.do?schoolID=5127)
+
+[defunct schools](https://en.wikipedia.org/wiki/List_of_schools_in_rural_Western_Australia)
+
+[new norcia](https://australiancatholichistoricalsociety.com.au/wp-content/uploads/2023/01/achs-journal-43-2022.pdf)

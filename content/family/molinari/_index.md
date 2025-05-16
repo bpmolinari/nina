@@ -11,7 +11,7 @@ Three siblings (two brothers and a sister) migrated from Tirano to Perth in the 
 
 The family recorded history and oral history is rather weak. The sister died early (in 1941). The younger brother went back to Tirano in 1975. They didn't much write to one another, or at least didn't reply to letters.
 One resource we do have is some [notes](HowiesonNotes.pdf)
-made by my second cousin Noel Howieson. Much of the information she records was provided by our mutual first cousin Roma Molinari. It turns out that some of the details provided by Roma were incorrect.
+made by my second cousin Noel Howieson. Much of the information she records was provided by our mutual second cousin Roma Molinari. It turns out that some of the details provided by Roma were incorrect.
 
 In 2021 I discovered that the civil records (births, marriages and deaths) for the province of Sondrio were available online (see
 [Tirano Records](/family/gennotes/tiranorecords)).
@@ -236,11 +236,12 @@ Family folklore has it that Dominic and Giacomo owned the business (but not the 
 Giacomo used his capital to buy a dairy farm about 1915, and Dominic used his capital to buy the
 [Cosmopolitan Hotel](murchison) in Day Dawn about 1916.
 
-It is hard to pin this down. Perhaps a key event was in 1906, when Giovanni Gettaz acquired a *colonial wine licence* and hence opened a wine saloon on the premises.
+It is hard to pin this down. A starting point is 1906, when Giovanni Gettaz acquired a *colonial wine licence* and hence opened a wine saloon on the premises.
 It is possible that Dominic and Giacomo had built up some savings by then - it was certainly the Tirano ethos to do so.
 It seems clear that the York Coffee Palace, with its wine saloon and its accommodation, became a focus of the Italian community.
-My reading is that it was a three-way arrangement between Dominic, Giacom and Giovanni Gettaz.
-The only explicit link is that when Gettaz left the licence was shifted (briefly) to Giacomo.
+My reading is that it was a three-way arrangement between Dominic, Giacomo and Giovanni Gettaz.
+In the Electoral Rolls from 1912 to 1921 Giacomo Pianta is listed as a "wine-saloon keeper", of 559 Wellington Street. In other words, once Giacomo was naturalised in 1911, he registered to vote. Dominic doesn't appear on the roll until 1921. It was not compulsory to vote until 1924, so presumably it was not compulsory to register. Similarly, the Electoral Rolls from 1910 to 1917 show Giovanni Gettaz as a "wine saloon keeper", of 559 Wellington Street. Dominic is not listed until 1921 (in Cue).
+
 The story is taken in more detail in my discussion of Bernardo.
 
 The family machinations are much more evident for the Cosmopolitan Hotel.
@@ -351,11 +352,6 @@ That he had a close association with Dominic is clear from the fact he was the b
 {{< figure src="DomenicoMolinariGiacomoPianta.jpeg"
            caption= "Domenico Molinari and Giacomo Pianta. 1911" >}}
 
-We have the 1927 
-[naturalisation application](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=1507348)
-by Giacomo Pietro (Nino, also Jim). Although his father Giacomo had been naturalised in 1911, Nino was still resident in Italy and hence didn't inherit the status.
-On the other hand, Domenica *did* automatically obtain the status, as a wife.
-
 Giacomo and Domenica acquired a dairy farm on the
 [Glendalough Estate](https://en.wikipedia.org/wiki/Glendalough,_Western_Australia). 
 
@@ -385,6 +381,9 @@ of the inquest. The *Mirror* gives a more
 [lurid account](http://nla.gov.au/nla.news-article76002240).
 Reference is made to her invalid husband and to chronic asthma problems.
 A suicide note was written in Italian. Even after 25 years in Australia she had not developed good English written skills.
+
+We have her
+[will](DomenicaPiantaWill.pdf), made a month before she died.
 
 In June 1942 the farm was
 [advertised](http://nla.gov.au/nla.news-article94827806)
@@ -483,8 +482,7 @@ It seems that the accommodation side of the business (the old York Coffee Palace
 
 Bernardo featured in the lives of the two migrants of the next generation mentioned above, children of his half-sister Caterina. The first, Elisa Ferrari, was born in 1901 and arrived in 1923. Bernardo married Elisa in 1926. Sadly, the marriage was short-lived as Elisa (also called Elena) died of tuberculosis in September 1929. There were no children. We don't have any more than the bare facts. Presumably Elena was ill for some time. This was the era of the TB sanatoria. There was no cure.
 
-The second, Battista Della Torre, was born in 1907 and arrived in 1924. 
-We have his photograph
+The second, Giovanni Battista Della Torre, was born in 1907 and arrived in 1924. He seemed to be known as Battista to the family. We have his photograph
 
 {{< figure src="GiovanniBattistaDellaTorre.jpeg"
            caption= "Battista Della Torre. 1924"
@@ -561,22 +559,234 @@ In 1975 Bernardo left with his daughter Roma on a trip to Tirano. They seemed to
 
 Giovanni Battista Della Torre eventually left the employ of Bernardo. He registered for
 [military service](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=5886250)
-in December 1942 (showing his employment as a machine miner at Big Bell). He married Ivy Waterman in 1950. Ivy died in 1965 and Giovanni died in 1973. They had son, John Della Torre.
+in December 1942 (showing his employment as a machine miner at Big Bell). He married Ivy Waterman in 1950. Ivy died in 1965 and Giovanni died in 1973. They had two sons.
 
 
 ## The next generation
 
-### Mary Meotti
+### Mary Meotti (1912-2001)
 
-### Barney Molinari
+{{< figure src="MaryMolinari.jpeg"
+           caption= "Mary Molinari" >}}
+		   
+Mary attended the convent school at Day Dawn, and then at Cue (from perhaps 1920). The local papers carefully recorded the details of local events, and Mary is listed in various fancy dress parades and musical presentations.
 
-### Arthur Molinari
+Post school, she is listed in the period 1927-1932 as a keen tennis player, representing Cue against such tennis powerhouses as Meekatharra. 
 
-### James Molinari
+Presumably, Mary lived at home until she married, at age 25, Bob Meotti. Bob was a miner at Mt. Magnet (100 km south of Cue) and they seem to have lived in Mt magnet after their marriage. Their three boys Bernie, Bobby and Francis were born in the next five years.
 
-### Helen Molinari
+{{< figure src="BernieFrancisBobbyMeotti.jpeg"
+           caption= "Bernie, Francis, Bobby Meotti. c 1952" >}}
 
-### Jim Pianta
+During the War, Bob was technically an Enemy Alien as he was still an Italian citizen. family legend has it that he was interned in some sense. In any event he was naturalised on 21 June 1945. The file has not been digitised so we cannot check the details.
+
+By 1947 they were living in Harvey, and Bob was listed on the Electoral Roll as a "wood contractor". By the mid fifties he had a share in a timber mill at
+[Argyle](https://en.wikipedia.org/wiki/Argyle,_Western_Australia) and eventually was the sole owner. The family moved to Boyanup, to be closer to the mill.
+Bob died in 1984, aged 68. Mary moved to Bunbury, and died in 2001 aged 88.
+
+Bob Meotti's background is shown in the following family tree of his grandfather. 
+
+{{< pdf src="ClementeMeotti.pdf"
+        width="100%" height="400px" >}}
+Family tree: Clemente Meotti [(fullscreen)](ClementeMeotti.pdf)
+
+The family came from
+[Edolo](https://en.wikipedia.org/wiki/Edolo).
+Although it is in the next province, Brescia, it is only 32km from Tirano.
+Bob's father, Clemente, came out to WA in 1924 and must have supported his family from afar. He went back to Edolo at some stage, as he and Bob (then aged 18) arrived in Fremantle on the *Esquilino* in October 1934. Bob's mother and three sisters remained in Edolo.
+
+Clemente worked in WA until perhaps the early fifties. He went back to Edolo and died there at 1966. He was naturalised about 1941, but again his file has not been digitised.
+
+After the war, Bob sponsored the migration in 1949 of his cousin Pietro Moles. Pietro's wife and two children immigrated in 1952.
+
+A personal perspective.
+
+- Bob Meotti (Uncle Bob to me) was somewhat of a force of nature. Like many first-generation migrants he knew he wouldn't make much money working for a wage, as he would be very much at the lower end of the spectrum. Rather, he sought to work as a contractor or develop his own business, where harder work and longer hours resulted (with a bit of luck) in a higher income. Mary Meotti (Auntie Mary to me) was calm and relaxed, somewhat in contrast to her husband.
+
+- His sawmill was not far from Bunbury where we lived. You turned off the main road, and drove a kilometre or so up a little valley. Bob had also taken up horses, and he owned and trained trotters. He kept horses next to the mill, and had a training track there. On one visit he was showing us the stables and the tack room. "What are those bottles?", Dad asked. "Horse tonic" replied Bob. "But I won't give a horse anything that I won't take myself". And he got out a teaspoon and took a couple of samples.
+
+- His horses were trotters (harness racing with a sulky and driver). He raced them at local meetings and at higher stakes races in Perth. His horses certainly won now and again, but whether he made money overall is unclear. The sport was almost irredeemably corrupt. A compliant driver could lose any race at will, no matter how good the horse was, by getting boxed in. They only tried when the odds were good enough. The poor punters didn't have a chance.
+
+- He had a couple of 
+[kangaroo dogs](https://janedogs.com/kangaroo-dog-now-extinct/)
+at the mill. On one visit he let them go "for a run". Suddenly they were in full pursuit of a kangaroo fleeing for its life along the other side of the valley. As we watched, the dogs caught up to the kangaroo, and brought it down. We all went across and Bob put the poor roo out of its misery. Not a pretty sight. Such kangaroo hunting has long been illegal, and the kangaroo dog is deemed extinct. Good riddance, but not many people have seen them in action.
 
 
-### Roma Molinari
+### Barney Molinari (1913-1999)
+
+Bernard Dominic Molinari (Barney to all) was born on New Year's Eve, 1913.
+He lived in the Murchison Goldfields from about 1916 to 1948. From about 1935 to 1948 he worked at the Big Bell Mine (about 35km from Cue). In 1942 he married Lily Atkins. In 1948 they moved to Bunbury. Barney died in Bunbury, in 1999.
+
+{{< figure src="LilyBarneyMolinari.jpeg"
+           caption= "Lil and Barney Molinari. c 1950" >}}
+
+He probably started school at the Dominican Convent School in Cue, in 1920 and would have finished school at the end of 1927, having just turned 14. We have one photo of Barney during this time, as an altar boy at the Catholic Church in Cue.
+
+{{< figure src="BarneyMolinari1923.jpeg"
+           caption= "Altar Boys at Cue. Barney Molinari (center) 1923" >}}
+
+As the eldest boy and hence the first to leave school he would have worked with Dominic in the blacksmith shop. 1931 was the second year of the Great Depression, when commercial activity dropped 10% and when unemployment hit something like 30%. It was not a good time to be 17, in an ever-shrinking goldfields town.
+
+We have a 
+[record](BarneyMolinariWAGR.pdf)
+from the W.A. Government Railways that shows Barney employed from 9 March 1933, as a labourer. The pay was 13 shillings a day, and it may only have lasted for a week or so. The was *no* unemployment benefit in the current sense. Rather, the Federal Government gave money to the States, who provided employment short term. Below that, there was the [susso](https://en.wikipedia.org/wiki/The_Susso).
+
+As young men, Barney and his younger brother Arthur were sportsmen. The following
+[report](http://nla.gov.au/nla.news-article260144406)
+of Jun 1938 shows them on opposite teams.
+
+>CUE OVERWHELMED. HEAVY GROUND MARS GAME
+
+>At Big Bell on Sunday, the Bell team showed a complete reversal of the form they displayed at Reedy the previous week and simply overwhelmed Cue on what must be the heaviest ground on which football has ever been played. Apart from the interest in the number of goals O'Reilly might kick from his numerous shots, the main interest in the game was trying to solve the problem of who had the ball, as the perpetual cloud of dust during the game made vision very foggy. Although heu Cue team was a street or two behind in the scores, the play was not one-sided as might be thought. The ball was in front of the goal on numerous occasions, but lack of a forward to cope with the brilliant defence of Bill Gilbertson was responsible for the lowness of the score. At the other end of the ground Ivan O'Reilly was in a dashing mood and secured possession of the ball at will. Apart from these players the Bell had two match-winners in Giles and Howell, who were in their element plowing through the inches thick dust. Their experience underground must have stood them in good stead. Bonner was another effective man but was held in check during the second half of the game by Allan Plaisted, who is improving with each game. Barney Molinari proved a bit too much for brother Arty, but when changed to opposite wings, the latter gave his forwards plenty to do. Apart from those already picked out from the Bell team, there was not a passenger in that team, all pulling their ton of dirt, even the small men. For Cue, very few were able to get the measure of the bounce of the ball and were left standing by yards in a race for the ball. Bob Regan received a lot of attention and was interfered with on many occasions, but it must be said there was no malice attached to this attention. He gave invaluable service. Ned Doody was his usual solid self, even though he up against such a player as O'Reilly.
+
+> Norm Grenfell gave a good performance wherever placed and was invaluable. Of the others none were outstanding but came in for some useful play at times. The final scores of the game were: Big Bell 11 goals 18 behinds. Cue 3 goals 5 behinds. The game was umpired by G. Cream of Reedy, who gave a good exhibition, although some of his decisions were most unorthodox. His mistake of blowing the whistle for a mark and then calling play on was most disconcerting.
+
+By 1938 Barney seems to be playing for the Big Bell team in the local competition, but for the
+[Cue District team](http://nla.gov.au/nla.news-article260145514) in the district competition. 
+
+In 1932 both Barney and his brother Arthur were
+[winning](http://nla.gov.au/nla.news-article257499409)
+in the Sunday morning cycling competition.
+
+Finally, both Barney and Artie were members of the Cue Fire Brigade.
+{{< figure src="BarneyArthurMolinari1934.jpeg"
+           caption= "Cue Fire Brigade. Barney (left), Arthur (right, standing). 1935" >}}
+Volunteer fire brigades have developed a range of esoteric competitions, that continue to
+[this day](https://www.vfrs.asn.au/vfrs-competition-results).
+(On that site, look at the 2024 results to get an idea of the events.)
+
+
+Barney got lucky. Family legend has it that about this time an assessment of the old Big Bell mine was made by an American company. A small group of American engineers came through Cue and then camped at the site some 35 km away. Barney was hired as little more than a camp assistant. He sufficiently impressed them so that when they returned several years later to manage the development of the new mine, Barney was employed in the machine shop.
+In 1941 he gave his employment as a *welder*, and in 1942 as a *foreman welder*.
+
+
+The effects of the Depression were still being felt. *The West Australian* of 21 January 1937 reported
+
+>BIG BELL MINE. Warning to Unemployed. CUE, Jan. 18. Owing to false rumours being circulated of the wonderful opportunities of obtaining jobs at the Big Bell mine, numbers of men and youths continue to arrive at Cue in search of employment. In many cases these men use all their ready money to get here, and as there are practically no jobs available, they are in financial difficulties. The mine management has all the labour it needs and a long list of applications from experienced men, which is drawn on as required. Jobs on the mine are therefore few, more particularly for unskilled labour, but the men are not aware of the position until they arrive here. Business people and householders of Cue and Big Bell are being called upon every day to assist disappointed men with food and the bare necessities of life. Cases of men being stranded here could be quoted, and it is to be hoped that others who look on the Big Bell as their golden opportunity for a job will be saved the expense of the journey and the consequent disappointment by the true position being made known.
+
+In fact, Barney (who was working on the mine by then) related this situation with feeling, saying that the people were milling around the gates of the mine, begging for work.
+
+During the War Barney seems to have been called up twice, according to his
+[military record](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=5875918).
+A Mobilization Attestation Form was filled out on 8 May 1941 and a medical report done, but it was not proceeded with. No Oath of Enlistment was made.
+A second form was filled in on 5 July 1942 and an Oath of Enlistment made.
+The Mine closed in February 1943, and for the rest of the War a very small group of tradesmen (less than 10) maintained the mine equipment. Barney was one of that group. This seems to have been part of his war service. He was moved "To Reserve" in July 1944, and discharged on 15 October 1945. Family folklore has it that he was further promoted after the War, and was in charge of the machine shop on the mine. He was certainly on the staff, rather than being a standard employee. They lived in the "staff area" near the mine, in a company-supplied house.
+
+At the end of 1948, the family left Big Bell and moved to Bunbury. Barney took a position with the South West Co-Operative Dairy Company (known as SunnyWest). They had a string of milk depots, cheese factories and butter factories throughout the South West, from Harvey to Albany. Barney was foreman of a maintenance crew that supported the full collection of factories. The task was quite wide: the equipment ranged from boilers to refrigeration, from butter churns to butter-packing machines. Family legend has it that he was shocked when he got his first pay packet - it was much less than his last salary at the mine.
+
+[ incomplete ]
+
+Finally, I include the text of the
+[eulogy](BarneyMolinariEulogy1999.pdf)
+that I gave at Dad's funeral service.
+
+### James Molinari (1915-1942)
+
+James remains a somewhat indistinct person. The only photograph I have is one of the four siblings, in circa 1934. He seems to have played football but is only listed in the sports results several times, in contrast to his brothers Barney and Arthur.
+{{< figure src="MolinariSiblings1924.jpeg"
+           caption= "Arthur, Barney, James, Mary. c 1934" >}}
+
+We have his brief
+[military record](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=6496473).
+He enrolled on 8 May 1941, giving his address as "Cue", and his occupation as "truck driver".
+
+He was killed in a traffic accident on New Year's Day 1942. A
+[report](http://nla.gov.au/nla.news-article78577110) of the inquest on 23 February 1942 makes bleak reading. James was unlucky - a car pulled out in front of him and he ran directly into the side of the car. He was Absent Without Leave from the Army, was speeding, and the motor cycle he was riding was "stolen". Maybe it was an Army motorcycle. Presumably he was not wearing a safety helmet. He died in an army hospital several hours later.
+
+He was obviously deeply missed by the family. They placed memoriam messages in  *The West Australian* for the best part of a decade.
+
+### Arthur Molinari (1917-2008)
+
+Arthur would have attended the Dominican Convent School in Cue, and would have finished school in 1931, when he turned 14. It seems clear that he then worked for a while in the blacksmith shop with Dominic. He was an active sportsman like his elder brother Barney, in football, cycling and fire brigade. He 
+[married](http://nla.gov.au/nla.news-article38417166)
+Marjorie Hall in November 1939.
+
+{{< figure src="ArthurMolinariEnlistment1942.jpeg"
+           caption= "Arthur at Enlistment. 1942" >}}
+
+He was [working](http://nla.gov.au/nla.news-article260362847) in the blacksmith shop at Big Bell Mine in October 1939. The Electoral Roll for 1939 gives his occupation as a *striker*. This is a niche skill in the blacksmithing trade. An explanation is given in [this video](https://www.youtube.com/watch?v=sLod9xgQjgU). An historic demonstration of forge welding is given in
+[this video](https://www.youtube.com/watch?v=E7bnffUHYUI)
+(persevere until half-way through).
+
+His
+[military record](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=4936274)
+is informative. He applied for enlistment in the Air Force, on 29 December 1942, giving his trade background (page 48) as
+
+>I have spent over 4 years as a blacksmith striker and 12 months on light smithing and also 11 months doing lathe work.
+
+
+He also says he "was called up earlier and was exempted". On the basis of a trade test he was judged suitable as a Trainee Technical, and his enlistment was approved on 7 January 1941. In processing his application the Air Force requested of the Registrar General
+
+>will you please verify the undermentioned particulars. I enclose herewith the sum of Ninepence (9d), in payment of the necessary search fee
+
+His birth certificate showed he was registered as Erico Arturo, and he had to attest that he was that person. After training he had the rank of L.A.C. (Leading Aircraftman).
+
+His enlistment was standard: "for the duration", being for the duration of the war and twelve months afterwards. On 16 November 1945 the Office of Manpower wrote to the Air Force (page 31) saying that Big Bell Mines had requested the release of Arthur to facilitate the opening of the mine in the very near future. Technically, Arthur had to apply for release, which was approved on 24 November 1945.
+
+The family moved from Big Bell in about 1948, and Arthur took a job as a maintenance tradesman at the Boyanup butter factory. They later moved to Bunbury. Arthur died in Bunbury in 2008. Marge lived to the grand age of 100, and died in Perth in 2020.
+
+### Helen Molinari (1920-1920)
+
+Helen was born in 1920, and died in November 1920 at the age of about nine months. She may have died of Spanish influenza (which was prevalent in Cue and Day Dawn in 1919), or it may have been just one of the many conditions that then afflicted infants. She has a stainless steel plaque on her gravestone in the Cue-Day Dawn cemetery, constructed and installed by Arthur.
+
+Giacinta took the death hard. Arthur told me: "Mum was never the same again".
+
+## The cousins
+
+### Jim Pianta (1901-1980)
+
+Giacomo Pietro Pianta was born in Tirano in 1901. He arrived in Fremantle, with his mother Domenica, in April 1916. In Australia he was known as James Peter Pianta, as Nino to his family, and as Jim to us.
+
+In 1927 he submitted a
+[naturalisation application](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=1507348).
+His father Giacomo was naturalised in 1911, but at that time Jim was still in Tirano, and it was not clear whether he inherited British (i.e., Australian) citizenship from Giacomo. From that application we know:
+
+- the family lived in Perth for a year (perhaps at the ever-popular York Coffee Palace), and then from 1917 at the diary farm at Harbourne Street, Glendalough.
+
+- he described himself as a *self-employed dairyman*. It seems he ran a retail milk delivery round, while his parents ran the wholesale diary.
+
+He married Elaine Newton in 1928. They lived in Bencubbin from 1928 until about 1937, where he is listed as a "farmer".
+In the Electoral Rolls from 1939 to 1980 he is listed as a "farmer", residing at 283 Harbourne Street. The parents' diary farm was also in Harbourne Street. It is not clear whether Jim acquired a separate property in the same area, or whether it is one and the same property.
+
+He became interested in trotting while running his milk round (being a horse and cart), and seemed to be a keen owner and driver through the twenties. Later he became identified as a successful trainer and horse breeder. For
+example, we have a 
+[photo](http://nla.gov.au/nla.news-article38424207) on him in 1942, having won the Easter Cup.
+More details are given in
+[this report](http://nla.gov.au/nla.news-article39094604)
+
+In 1947 he spent six months in Italy, and
+[reported](http://nla.gov.au/nla.news-article80805480)
+on Italian trotting on his return.
+
+{{< figure src="JimElainePiantaBarneyMolinari.jpeg"
+           caption= "Jim and Elaine Pianta, Barney Molinari. 1966" >}}
+
+### Roma Molinari (1931-1921)
+
+Roma Molinari was born in Perth, in 1931. In 1975 she (and her widowed father Bernardo) left on a trip to Tirano, and stayed there. She died in Tirano in 2021.
+
+{{< figure src="RomaMolinariNotice2021.jpg"
+            >}}
+
+Roma was a glamorous young woman and often appeared in the social notes of the Perth newspapers. The following
+[photo](http://nla.gov.au/nla.news-article49634154)
+from 1954 is typical. She gave her occupation as "electro-cardiographer" and, I think, worked at Royal Perth Hospital.
+
+On a trip to Tirano she fell in love with Dario, and the 1975 trip was undertaken on the basis that it would take the form of a permanent relationship. In the end, it seems Dario never quite left his family. She gave English lessons to Italian speakers, and Italian lessons to English speakers, and was a well-known personality in Tirano.
+
+Over the years various relatives from Australia on a European trip would seek to "drop in on Roma in Tirano". Most of these relatives were second cousins at best, and Roma was somewhat defensive of her privacy.
+
+My brother Jim comments:
+
+>Roma always chose not to reply to email nor answer phone calls from outside of Italy. In 2015 when I was living in Sardinia I travelled to Tirano and appeared on her door step, calling her from there.  And having an Italian phone number I was able to have her respond.
+
+>Roma was very fit and well in 2015. She was very involved in teaching English to students and hiking around the Aprica Ski Resort.  She still referred to Perth as home.  
+
+>Since 2015 I have sent her many emails and haven't received a reply.
+
+{{< figure src="RomaDario2015.jpeg"
+           caption= "Roma and Dario. 2015" >}}
+
+
+ Roma was the last of the first generation born in Australia. With her passed the first-hand stories of the migrant generation. What I have been able to recover of these stories for these pages is but a poor alternative.
+
