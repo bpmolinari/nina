@@ -691,7 +691,12 @@ We have his brief
 He enrolled on 8 May 1941, giving his address as "Cue", and his occupation as "truck driver".
 
 He was killed in a traffic accident on New Year's Day 1942. A
-[report](http://nla.gov.au/nla.news-article78577110) of the inquest on 23 February 1942 makes bleak reading. James was unlucky - a car pulled out in front of him and he ran directly into the side of the car. He was Absent Without Leave from the Army, was speeding, and the motor cycle he was riding was "stolen". Maybe it was an Army motorcycle. Presumably he was not wearing a safety helmet. He died in an army hospital several hours later.
+[report](http://nla.gov.au/nla.news-article78577110) of the inquest on 23 February 1942 makes bleak reading. James was unlucky - a car pulled out in front of him and he ran directly into the side of the car. He was Absent Without Leave from the Army, was speeding, and the motor cycle he was riding was "stolen". Maybe it was an Army motorcycle. Presumably he was not wearing a safety helmet. He died in an army hospital several hours later. He was given a military funeral.
+
+{{< figure src="JamesMolinariFuneral1942.jpeg"
+           caption= "James Molinari's Funeral. 1942" >}}
+
+
 
 He was obviously deeply missed by the family. They placed memoriam messages in  *The West Australian* for the best part of a decade.
 

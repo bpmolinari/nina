@@ -11,14 +11,64 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "FamilyHistory"
+  pageref = "family"
+  weight = 10
+
+[[main]]
+  name = "Context"
+  pageref = ""
+  weight = 15
+
+[[main]]
   name = "TechNotes"
   pageRef = "techdocs"
   weight = 20
 
+# submenus
+
 [[main]]
-  name = "FamilyHistory"
-  pageref = "family"
+  name = "Molinari"
+  parent = "FamilyHistory"
+  pageRef = "molinari"
   weight = 10
+
+[[main]]
+  name = "Dall'Acqua"
+  parent = "FamilyHistory"
+  pageRef = "dallacqua"
+  weight = 20
+  
+[[main]]
+  name = "Atkins"
+  parent = "FamilyHistory"
+  pageRef = "atkins"
+  weight = 30
+
+[[main]]
+  name = "Murchison"
+  parent = "Context"
+  pageRef = "/family/molinari/murchison"
+  weight = 10
+
+[[main]]
+  name = "York Coffee Palace"
+  parent = "Context"
+  pageRef = "/family/molinari/yorkcoffeepalace"
+  weight = 20
+
+[[main]]
+  name = "Bunbury"
+  parent = "Context"
+  pageRef = "/family/atkins/bunbury"
+  weight = 30
+  
+[[main]]
+  name = "Scarborough"
+  parent = "Context"
+  pageRef = "/family/atkins/scarborough"
+  weight = 40
+
 
 #[[main]]
 #  name = "example sub-menu 1"
