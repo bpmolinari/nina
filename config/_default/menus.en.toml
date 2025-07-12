@@ -46,6 +46,12 @@
   weight = 30
 
 [[main]]
+  name = "Connole"
+  parent = "FamilyHistory"
+  pageRef = "connole"
+  weight = 40
+
+[[main]]
   name = "Murchison"
   parent = "Context"
   pageRef = "/family/molinari/murchison"
@@ -68,6 +74,12 @@
   parent = "Context"
   pageRef = "/family/atkins/scarborough"
   weight = 40
+
+[[main]]
+  name = "Sydney"
+  parent = "Context"
+  pageRef = "/family/atkins/sydney"
+  weight = 50
 
 
 #[[main]]

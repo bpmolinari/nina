@@ -87,11 +87,323 @@ Eliza was the oldest of six siblings, five of which reached maturity.
 
 ### William Cooke (1821-1883)
 
-(to be written)
+William Cooke was born in
+[Ewhurst, Sussex](https://en.wikipedia.org/wiki/Ewhurst,_East_Sussex)
+in 1821, the eldest of eight siblings. The entire family (parents and all eight children) arrived in Sydney in 1838. He married Mary Anne Murtagh in 1841. He died in Blakeville, Victoria in 1883.
+
+The family's arrival is well-documented. They travelled under an
+[assisted migration scheme](https://www.nma.gov.au/defining-moments/resources/assisted-migration)
+whereby the cost of their passage was paid for by the Colonial Government (from the proceeds of the sale of land in the colony). They arrived on the ship *Lady Nugent* 0n 28 November 1839. The ship seems to have been chartered for the purpose of assisted immigration, and as government money was involved a
+[careful passenger list](https://search.records.nsw.gov.au/permalink/f/1e5kcq1/INDEX3100431)
+was kept. The family is number 7 on the second page. Thomas Cook is said to come from "Salis" (which I take to be spelling of 
+[Salehurst](https://en.wikipedia.org/wiki/Salehurst)
+in Sussex), is a "labourer", his wife and seven children are indicated but not named (they missed one child), he is "Wesleyan", and he unique among the 47 families on the ship in not been already engaged to work. Perhaps he was the last to be assigned to the voyage. We also find there were 4 births and 2 deaths on the voyage (one old man and one infant), and 1 birth and three deaths after arrival.
+
+We also have the detailed immigration record for the family.
+{{< pdf src="ThomasCookeArrival1838.pdf"
+        width="100%" height="400px" >}}
+Cooke family Immigration. [fullscreen](ThomasCookeArrival1838.pdf)
+
+With a little effort this can be read. Thomas arrived by the ship *Lady Nugent* and was brought by the "Government". He is a native of "Salis, Sussex Son of Thomas Cook labourer of same place ", his calling is a "Labourer and Rough Carpenter", his health is "Good", his religion is "Wesleyan", he can "Read and Write" and there have been "Not any complaints". Mary Anne Cook is a native of "Ewhurst Sussex daughter of William Crouch shop keeper of same place", her calling is a "farm servant", her health is "good", her religion is "Wesleyan", and she can "read". All eight children are named, with ages.
+
+Sadly, Thomas died after little more than three months in the colony. He is buried in 
+[Cobbitty, NSW](https://en.wikipedia.org/wiki/Cobbitty).
+His gravestone was erected "in memory of Thomas Cook by his affectionate son Edmund".
+We have an obituary for Edmund which provides a little more detail:
+
+> Camden News (NSW : 1895 - 1954), Thursday 19 April 1900, page 4  
+Obituary  
+On the 7th inst passed away from our midst the late Edmund Cook, of The Oaks. The deceased arrived in Australia in the year 1838 with his parents who first settled at Kirkham under the employment of the late Mr. John Tooth, (Tooth and Co.) near the year 1842. The management of the farm was then under that of Mr. Sergeant, the deceased father died at Cobbitty and was buried in that old cemetery. Mr. Edmund Cook, blacksmith, was employed for many years by Mr. John Grundy of The Oaks. The deceased some 40 years ago was a blacksmith at Cawdor, near where the road turns off, subsequently occupying the blacksmithery premises now occupied by Mr. Liggins. Mr. Cook only survived his wife who died about a year ago. The funeral took place on Sunday the 8th inst and was largely attended.
+
+The mother, Mary Anne, was left with eight children (with five under the age of 10). She married again, in 1843, to 
+[George Simpson](https://convictrecords.com.au/convicts/simpson/george/85513)
+and had one further child. 
+
+William seems to have been a carpenter, like his father. At age 20, he married Mary Anne Murtagh, the daughter of convicts. They had 11 children, of whom 10 reached adulthood. At some stage they moved to Victoria and clearly lived in 
+[Buninyong](https://en.wikipedia.org/wiki/Buninyong). He died in
+[Blakeville](http://nla.gov.au/nla.news-article93140402), aged 72.
+
+We have his will. He left an estate of less than 70 pounds.
+{{< pdf src="WilliamCookeWill1888.pdf"
+        width="100%" height="400px" >}}
+William Cooke Will. [fullscreen](WilliamCookeWill1888.pdf)
+
 
 ### Mary Ann Murtagh (1821-1891)
 
-(to be written)
+Mary Anne Murtagh was born in Sydney in 1821, to Charles Murtagh and Mary Regan, both convicts. By 1829 both parents were dead. She spent the years 1828-1839 in the Female Orphans School in Paramatta. She married William Cooke in 1841. She died in 1891.
+
+Being genuine, gold-plated convicts there is a considerable amount of documentation available. It has been digitised and is available on-line.
+
+[Charles Murtagh](https://convictrecords.com.au/convicts/murta/charles/148347)
+(also Murta, Murtah) is listed in the
+[convictrecords.com.au](https://convictrecords.com.au/) database.
+From the *New South Wales, Australia Convict Ship Muster Rolls and Related Records, 1790-1849* we have the
+[ships list](MurtaTyne1819.jpg)
+for the convict ship *Tyne* which arrived January 1819. Charles (Chas. Murta) is the last on the page. He was convicted of *sheep stealing* in the Dublin County Court in February 1818, and transported for 7 years. Once the convicts arrived in Sydney they were moved by water to Paramatta for assigning.
+A [letter](MurtaghAssignmentList1819.jpg) of 13 January 1819
+from *New South Wales, Australia, Colonial Secretary's Papers, 1788-1825*
+lists convicts from two ships. Charles Murtagh is no 40, and is listed as being available for "general distribution". Other convicts are down for "Repairing Roads".
+
+It would seem that he was assigned in Paramatta. In June 1821 he was
+[granted permission](MurtaghReganPermissionToMarry1821.jpg)
+to marry Mary Regan (in a list of three couples).
+
+>List of Persons professing the Roman Catholic  
+Religion praying His Excellency the Governor  
+Permission to be married according to the  
+Rites and Ceremonies of the Catholic Church  
+Parramatta 9 June 1821  
+..  
+Charles Murtagh Prisoner Tyne  
+Mary Regan Prisoner Janus  
+(signed) John Joseph Therry  
+Approved (signed) James Erskine L.G.
+
+Here [John Joseph Therry](https://adb.anu.edu.au/biography/therry-john-joseph-2722)
+was one of the first Catholic chaplains granted permission to work in Australia. He arrived on the *Janus* in 1820 along with over 100 convicts (including Mary Regan).
+
+In 1822 we have a
+[petition for Ticket of Leave](MurtaghPetitionTOL1822.pdf).
+It says in part
+>The Humble petition of Charles Murtoch  
+Most Humbly sheweth  
+That Petitioner was tried at Dublin  
+in March 1818 and arrived in this Colony on  
+the transport ship Tyne 1819 under sentence  
+of banishment for the term of Seven Years ;  
+That Petitioner has been upwards of three  
+years in the service on Mrs Shelly, and has  
+been principally employed in the attendance of  
+the native Institution, under that lady's  
+management, and has most humbly to hope  
+that from his general line of conduct while  
+in the service of Mrs Shelly; for honesty, sobriety  
+and attention; your Excellency may be graciously  
+pleased to allow him to employ himself off  
+His Majesties stores, for the better support (?)  
+of his wife; by honest industry which shall be  
+acknowledged with gratitude and prayer by your  
+Excellency's Petitioner
+
+It is supported by Elizabeth Shelley (the teacher in charge of the
+[Parramatta Native Institution](https://dictionaryofsydney.org/entry/parramatta_and_black_town_native_institutions)), and one M. Laury. It would seem to have been granted. The kicker argument was the removal from the Government stores. Feeding convicts was an expensive business.
+
+The [1822 muster](https://www.bda-online.org.au/files/MC1822_Muster.pdf)
+gives us some information. Charles appears in the
+[general muster](https://nla.gov.au/nla.obj-1290367924/view) (he is number 8).
+He also appears in two returns for the Liverpool district. He is listed in the
+[population return](LiverpoolPopBook1822.jpg) (he is no 4 on the second page. He id T.L. (ticket of leave) and is a landholder). Mary Ann Regan is listed after him. She is a "convict" from the ship *Janus*, but is specified as the wife of Charles. maybe this was the system's way of keeping track of her. She seems to have 1 female child (which is correct).
+He is listed in the [land and stock return](LiverpoolStockBook1822.jpg).
+This is hard to read as he is last on the list. He occupies land originally granted to Mrs Shelly. He is resident on the farm. He appears to have 8 acres of wheat and one of potatoes, with 19 acres in all (all cleared). He has 2 horned cattle and 7 hogs. He doesn't have a registered brand for his cattle.
+
+The [1825 muster](https://www.bda-online.org.au/files/MC1825_Muster.pdf)
+provides a little more information. He is listed in the
+[general muster](MurthaConvictMuster1825.jpg) (he is no 12 on the page). He is now a landholder in
+[Bringelly](https://dictionaryofsydney.org/place/bringelly). This is somewhat further out, but presumably it meant he could have more land. I haven't managed to find out any details of the land he held (for example, whether it was land granted to him). His daughter Mary is next on the list but wife Mary is not there. Passing strange.
+
+We have his
+[pardon](Murtagh-Pardon1825.jpg) which he obtained once his seven years were up. We find out he is quite short (5ft 4in), is of ruddy complexion, has sandy flaxen hair and blue eyes. On receiving his pardon he had to surrender his ticket of leave. He now drops out of the official records.
+
+We now turn to Mary Regan. [Mary Regan](https://convictrecords.com.au/convicts/regan/mary/145097) also appears in the convictrecords.com.au database. She arrived in Sydney on 3 May 1820 on the ship *Janus*. We have a
+[document](Janus-ShipsList.jpg) dated 16 May 1820 stating she in a group of 43 women convicts transferred to the brig *Princess Charlotte* bound for Hobart Town. She is number 22 in the list, and we find she is aged 18, a kitchen-maid, was tried in London in July 1819 and sentenced to 7 years. 
+
+>Sydney Gazette and New South Wales Advertiser, Saturday 20 May 1820   
+Ship News.  
+Same day sailed for Hobart Town, the Government colonial brig Princess Charlotte, Captain Devine. She has on board to convey to that Settlement, most of the female prisoners that arrived by the ship Janus.
+
+It was a slow trip. We have a
+[report](PrincessCharlotteDelayed1820.jpg)
+that the *Princess Charlotte* set out from Sydney but returned due to adverse winds. She
+[called briefly](http://nla.gov.au/nla.news-article657970) at Port Dalrymple (Launceston) on 9 June.
+She [arrived](http://nla.gov.au/nla.news-article657998) in Hobart Town on 23 June. It was winter, and battling south to Launceston and then Hobart would not have been a pleasant trip.
+Lachlan Macquarie's [diary](https://www.mq.edu.au/macquarie-archive/lema/1820/1820july.html) tells us it arrived back in Sydney on 12 July.
+On her next trip to Hobart the *Princess Charlotte* left on 27 September and was 
+[never seen again](https://en.wikipedia.org/wiki/Princess_Charlotte_(1819_brig)).
+
+Mary Regan didn't last long in Van Dieman's Land. She has a 
+[record](https://libraries.tas.gov.au/Digital/CON40-1-7/CON40-1-7p243)
+in a list of female convicts.
+She seems to be called *Mary Ryan*, but it is certainly her.
+By 7 July she is reported for
+> Drunk and disorderly and neglect of duty as servant of Mr R. Lewis. Solitary cell 14 days on bread and water.
+
+On 2 September 1820 she has
+>Absconded from her master Mr R Lewis. Sentenced to be sent to the Factory at Port Jackson.
+
+Maybe that was what she wanted all along. Here
+[Richard Lewis](https://adb.anu.edu.au/biography/lewis-richard-2356)
+was the Government Auctioneer and a substantial merchant in Hobart Town.
+
+The above record comes from a remarkable document. Image 1 shows us that it is a leather-bound book. Image 2 describes it as:
+>Principal Superintendent of Convicts: Alphabetical record book of female convicts arriving in Van Dieman's land: M:1803-1835, N:1803-1835, O:1803-1835, P:1803-1835, Q:1803-1835, R:1803-1835
+
+It seems to be chronological inside each letter. Maybe the records were kept loose-leaf, two entries per page, and then bound later. It is entertaining to look at some of the other convicts. For example, Marion Patterson (image 232). Dear Marion was completely incorrigible.
+
+Mary didn't have to wait long. She was one of seven female convicts sent back to Sydney on the ship *Morley*. This ship had arrived in Hobart on 28 August from England carrying female convicts (99 days, which seems to be a fast trip for the time). She unloaded some convicts and left for Sydney on 14 September, with the rest of the convicts and the seven recalcitrants. The fact that Hobart effectively dumped the problem of the seven women back on Sydney was an issue of some discussion. An analysis of the issue is
+[available](https://femaleconvicts.org.au/convict-institutions/punishments?view=article&id=403:sent-to-parramatta&catid=69).
+
+We don't have a record of Mary in Parramatta. The Female Factory as we know it today was not opened until January 1821. Maybe she assigned out in October 1820. In any event she found Charles Murtagh in Parramatta as their
+[Permission to Marry](MurtaghReganPermissionToMarry1821.jpg) is dated June 1821. Once married she seems to drop out of the convict records.
+
+As just outlined, 1828 finds the family farming in Bringelly, some 25 km to the west of Liverpool. Events now take a completely Gothic turn.
+
+The key event is a criminal trial in the Supreme Court of New South Wales. It is
+described in a
+[legal report](https://www.austlii.edu.au/au/special/NSWSupC/1828/39.html)
+on the Australasian Legal Information Institute website.
+
+We are interested in the timeline.
+
+- 26 April: Charles Murtagh has a land-holding at Bringelly, as does one John Curtis. The latter adjoins a large holding by
+[D'arcy Wentworth](https://adb.anu.edu.au/biography/wentworth-darcy-1545). The Murtaghs seem to be living with Curtis in a house on the Curtis landholding. late on the 26 April, Curtis is alleged to have a killed a bullock belonging to Wentworth (finishing it off by drowning it in the Nepean river).
+
+- 27 April: The Chief Constable of Bringelly, Robert Smith, with two other constables turn up at Curtis's house with search warrants. They discover fresh cuts of beef in the house, and bullock remains outside. The bullock was identified as belonging to Mr Wentworth. All three (John Curtis, Charles Murtagh and Mary Muratgh) were taken into custody.
+
+- 29 May: John Curtis is tried for cattle stealing (a capital offence) and Mary Murtagh is tried for being an accessory after the fact. Charles Murtagh is stated to have died since the arrest (in jail, one would presume). After several minutes deliberation the jury finds Curtis guilty and Mary not guilty.
+
+- 6 June: After a suitable sermon, Curtis is sentenced to death.
+
+- 16 June: Attended by the Roman Catholic Chaplain (Reverend Mr Power) Curtis is executed. He left a wife and several children, and is said to have possessed property in land and cattle to the value of 1,500 pounds. He was 61 years old.
+
+I have not been able to identify John Curtis (there are many with that name in the Sydney records). His time in Sydney Goal is
+[recorded](CurtisEntranceBook1828.jpg) (he is number 17 on the page).
+
+We have a 
+[map of Bringelly](BringellyMap.jpg). The properties are labelled with the recipient of the original grant, even if the property was subsequently leased or transferred to someone else. Wentworth's estate *Elmshall Park* is clearly shown. The trial narrative make sense if the properties labelled J. Baly and J. Palmer were occupied by Murtagh and Curtis. The land to the west of the Nepean River had not been released in grants. This would have been Curtis's "cattle run". 
+
+The worst is yet to come - what happened to the four Murtagh children?
+The three eldest children (Mary Ann 8, Thomas 3, Henry 2) were admitted to the Girls Orphan School and the Boys Orphan School, respectively, in June. We have the 
+[application and supporting documentation](MurtaghChildrenPetition1828.pdf) which was put together on 17 June, and received by the Trustees on 20 June. It is worth making some details clear. The application itself says
+
+>The humble Petition of Mary Ann Murtah in behalf of Mary Ann, Thomas and Henry Murtah sheweth that the said are the children of Charles and mary Murtah. That the father died about six weeks since and that he has left nothing to support the said children whatsoever.
+
+It is signed by Mary, with her mark. She obviously could not write. Heaven knows what upbringing she had. A footnote says that the children were all christened by Rev Mr Therry (who had married the parents in 1821).
+
+There are two supporting statements.
+
+>Catherine Tribe wife of
+George Tribe Settler of
+Bringelly came before me John Coghill
+Esquire one of His Majesties Justices of
+the Peace for the said Territory and this
+day maketh oath and saith that at
+the time of Mary Murtagh's commitment
+for trial this deponent was requested
+by the Bench of Magistrates at Bringelly
+to take under her care three children
+belonging to the said Mary Murtagh
+that this deponent has had charge of the said
+children upwards of five weeks that 
+their mother Mary Murtagh has been
+acquitted of the charge that was against
+her and has been released from prison
+nineteen days but having never been
+to inquire after her children this deponent
+is of the opinion that she has forsaken them.
+Deponent further saith that the Father of
+the children is dead and there is no money
+of their support left  
+(signed) Catherine Tribe  
+Sworn before me this
+17 June 1828  
+(signed) John Coghill J.P.
+
+>Robert Smith Chief Constable
+of Bringelly came before
+me John Coghill Esquire one of His
+Majesties Justices of the Peace for the
+said Territory and this day maketh
+oath and saith that nineteen days since
+Mary Murtagh was tried at the Supreme
+Court and acquitted on a charge of cattle
+stealing that at the time of the said
+Mary Murtagh's committal for trial
+her three children were left in the care of
+Mrs Tribe of Bringelly that nineteen
+days having elapsed since she was
+acquitted and having never been near
+to enquire after her children this deponent
+believes she has forsaken them -
+deponent further saith that the father
+of the said children is dead, and the
+said Mary Murtagh their mother is a
+woman of a bad character  
+(signed) Robert Smith  
+sworn before me this
+17th day of June 1828  
+(signed) John Coghill J.P.
+
+The system had carted the parents off to jail but had at least looked after the three eldest children, and was now arranging their transfer to the Orphan Schools.
+
+The youngest, barely several months old, had obviously gone with the mother into custody if not into goal. The authorities in Sydney took the child off Mary and placed it in the Girls Orphan home. The
+[application](JohnMurtaghApplication1828.pdf) is undated and not made by Mary - maybe she had abandoned the child. It is, interestingly enough, signed by Mrs darling, wife of the Governor
+[Sir Ralph Darling](https://adb.anu.edu.au/biography/darling-sir-ralph-1956). In his biography it is said of Eliza Darling
+
+>Although occupied with her own nursery and painting, she still found time to entertain hospitably, to write comforting letters of sympathy and encouragement, and to preside over many benevolent committees.
+
+A [record](MurtaghAdmissionFOS1828.jpg) in the Admission Book for the Female Orphan School shows John was admitted on 20 October.
+
+The [census of 1828](https://mhnsw.au/guides/1828-census/)
+ (dated November) provides an entry for the
+[Murtagh children](MurtaghCensus1828.jpg). Thomas and Henry (numbers 3740, 3741) are in the Male Orphans School, Cabramatta and Mary Ann and John (numbers 3743, 3744) are in the Female Orphans School, Parramatta. Charles is dead, and Mary doesn't seem to be listed (at least, she is not in the index).
+
+Mary seems to have died in 1829 (there is a death record for Mary A Murtagh, for St. Mary's Church). In any event, she never reclaimed her children.
+
+Having identified how the children arrived at the Orphan Schools, how did they get out?
+
+The baby is, sadly, the easiest. John died in January 1829, and was buried in the cemetery of
+[St John's Church, Parramatta](https://stjohnsonline.org/burials/dataset/orphans/). Click *M* in the index and find *Murtagh*.
+
+The boys are listed as "quitting the school" on 12 Apr 1836, to "Mr John Burke". In fact more is available. We have an 
+[application](MurtaghApprenticeApplication1836.pdf) dated February 1836
+from a Mr John Burke, Catholic, Farmer of Fairfield, County Murray, for two boys to be trained in the calling of "farmer".
+
+Mr John Burke (born in Ireland) turned up in Sydney in 1830 with a family, from Rio de Janiero with a "Brazil fortune". Like most such immigrants, he applied for and was awarded a land grant.
+
+>(New South Wales Government Gazette, 17 Aug 1836)  
+Colonial Secretary's Office,  
+Sydney, 15th August, 1836.  
+GRANTS OF LAND.  
+THE following descriptions of Grants of Land, with the names of the Persons to whom they were respectively promised, are published for general information, in order that all parties concerned may have an opportunity of correcting any errors or omissions which may have been made inadvertently. And Notice is hereby given, that at the end of three months from this date, unless written Caveats be previously lodged at this Office, Deeds of Grant will be prepared accordingly.  
+MURRAY.  
+78 - JOHN BURKE, 2560, Two thousand five hundred and sixty acres, parish unnamed, at Krarwarre ; bounded on the south by a line west 326 chains, commencing at the north-east corner of G. C. Curlewis' grant ; on the west by a line north 60 chains ; and on the north by a line east 308 chains ; and on the east by the Shoalhaven River, to the north-east corner of G. C. Curlewis' grant as aforesaid.  
+Promised on 19th July, 1831, by Sir Ralph Darling, and possession authorised on the 27th September, 1831, as a Primary Grant.  
+Quit-rent, £21 6s. 8d. sterling, per annum, commencing 1st January, 1839.
+
+The farm was at the end of the known world, about 50 km south of Braidwood on the headwaters of the Shoalhaven River. Murray was one of the 19 counties of NSW. Official land grants applied inside the 19 counties; outside that were the squatters. 
+
+It was just to the north of Curlewis's grant. Curlewis was selling his farm in 1839. The following advertisement shows that real-estate optimism was as prevalent in 1839 as it is now.
+
+>(Sydney Morning Herald, 25 Dec 1839)  
+Extensive Estate and Homestead on the Shoalhaven River for Sale.  
+The valuable Estate of Krarwarre, in the County of Murray, the Properly of Mr. Curlewis, containing three thousand three hundred and thirty acres of Land; bounded on the east by the Shoalhaven River; to which it has a frontage of nearly two miles and a half; on the west by the Croomeir Creek a never-failing stream, which during the late drought always ran as strong as in ordinary seasons ; on the north by Mr. Burke's grant ; on the south by a line being the boundary of the Colony.  
+The whole of the Land is richly grassed, and there are cleared alluvial flats on the bank of the river, affording sufficient cultivation for the wants of a large establishment ; besides the running water at the east and west boundaries, there is a chain of ponds running through the centre of the Property. The District is remarkable for the certainty of the crops, the Proprietor last year, notwithstanding the failure of the harvest else-where, having reaped thirty bushels per acre, and in eight years having had but one failure, and that from frost. About seventy acres of Land are in cultivation ; there are upwards of a thousand rods of three and four-rail Fencing, and a large Grazing Paddock.  
+The Buildings consist of a comfortable slab Cottage, rough plastered inside and out, shingled and floored, having five rooms, a store and passage ; three of the rooms have stone chimneys. Also, of an unfinished stone Cottage, containing a dining room and a drawing room, each eighteen feet by fourteen feet, a hall, spacious verandah, six bedrooms, and a cellar ; there are fireplaces in six of the rooms The Cottage is roofed and shingled, and three of the rooms, with the hall, are floored, There is an excellent Garden of two acres, stocked with fruit trees in full bearing. Also, a temporary kitchen, a barn, men's huts, &c , and a large substantial five-rail stockyard, with milking bails, calf-pen, &c.  
+This Estate, being situate at the extreme limits of location, commands a most extensive and excellent run for Sheep and Cattle outside the boundaries, the right to which will be transferred to the Purchaser of the Property. The run is watered by four running streams, and upon it are erected a substantial five-rail stock yard for a thousand head of cattle, stockmen's and shepherds's huts, &c.  
+Terms - One thousand pounds in Cash, or approved bills with interest; the residue may remain at interest at ten per cent, per annum for seven years.  
+Title - Grants from the Crown; the primary Grant, two thousand five hundred and sixty acres, being subject to a quit-rent of £21 13s 4d. per annum ; the remainder free of quit-rent.  
+This Property would be very well suited lo any Immigrant of moderate capital requiring a Homestead, and a run sufficient to keep all his Stock immediately about him. It is situate about twenty-five miles from the sea, a fine view of which is to be had from the mountain in the rear. It is also about thirty miles from Maneroo by the mountain road. Should the contemplated road to Bateman's or Jervis' Bay be carried into effect, it will very materially enhance the value of the Property. Almost immediate possession can be given.
+
+Note: Maneroo is an old spelling of Monaro.
+
+Burke died in 1847 - he seems to have given up the farm by then.
+
+A 1872 [map](NSWmap19Counties1872.jpg) shows the counties and indeed shows Fairfield. Find Braidwood and go about 30 miles south. Fairfield was never a town, but was a postal area.
+
+On 01 Dec 1841, Thomas Murtagh "an Orphan" passes through Berrima Goal,
+[listed](ThomasMurtaghBerrimaGoalEntry1841.jpg)
+as coming from Braidwood Goal, and being transferred to Liverpool Goal on the next day. The
+[document](ThomasMurtaghBerrimaGoalDescription1841.jpg) provides a detailed description of Thomas (they didn't have photos). He is number 961. He is listed as "an Orphan Boy", while all the other prisoners on that page are convicts. Braidwood Court records aren't available, so we don't know his offence.
+
+He and Henry then disappear from the records. NSW death records start about 1850. Before that, churches kept burial records. But if you died in the bush, or on a remote farm, you would have been buried locally without any record.
+
+Mary Ann got lucky. She was one of a small group of girls who were kept on at the School to work (cheap labour) rather than being apprenticed out at age 12. This 
+[letter](MaryAnnMurtagh-FOS-1834.pdf) from 1834 lists her (at age 13) as "one of the girls who do the work in their turns of washing and cleaning .. ". She is listed as being able to read (but not write). In 1839 she is 
+[listed](https://search.records.nsw.gov.au/permalink/f/1ebnd1l/INDEX2885072) as a cook at the School. She was married two years later.
+
+We haven't any specific information about her after her marriage. This branch of the family was unknown to us when I was growing up, on the other side of the country. I am not sure that the identification of convict ancestors would have been then regarded as a plus. Now, it is a regarded as a considerable badge of honour.
+
 
 ## Great-Grandparent Generation
 
@@ -366,7 +678,7 @@ We have a photo of the eldest three siblings, dated about 1918.
 
 ### Murray Lewis Atkins (1912-1932)
 
-We have the following photo of Lily and Murray Atkins, dated about 1930. It shows the Australian enthusiam of shooting things that moved (and chopping down things that didn't). One doubts that the poor kangaroo was destined for the table.
+We have the following photo of Lily and Murray Atkins, dated about 1930. It shows the Australian enthusiasm of shooting things that moved (and chopping down things that didn't). One doubts that the poor kangaroo was destined for the table.
 
 {{< figure src="LilyMurrayAtkins1930.jpeg"
            caption= "Lily, Murray Atkins (from left). 1930" >}}
@@ -404,3 +716,8 @@ Colin said he had always been a beach lover. He was probably one of Scarborough'
 In the middle of the depression in 1934, Colin's family moved back to Bunbury.
 
 Editor's note: Colin travelled to Leederville to school, but his elder sisters and brother had already left school. He would have walked home *from* Osborne Park. The surfboards were 30cm *wide*, not thick. In fact, the photo of the Atkins Tearooms shows three youths heading for the beach with such surfboards. The surfer put their body *on* the board and rode the broken wave into shore. The surfer did not stand on these boards.
+
+
+[genea](https://genealogyatgenea.com/)
+
+[familysite](https://lynnesheritage.wordpress.com/)
