@@ -42,7 +42,7 @@ We have a 1859
 
 The Higgins were not agricultural labourers. They must have had capital, presumably from selling a family farm back in County Carlow. The land in Morphett Vale would have cost them £90. Initial land sales were controlled, at a fixed rate of £1 per acre, and at that early stage were the primary source of income for the colonial government. They would have needed more capital for animals and equipment, for materials for the first house on the farm, and to support themselves until the farm produced something. If you did not have such capital, you worked for a wage. Colonies were short of labour, not of land.
 
-Rose had a busy first year in Morphett Vale. By July 1841 she was eighteen, she had married Patrick Aherne and given birth to Ellen. We know Ellen's birthday reasonably well (January-February of 1841), so it looks at though she was pregnant when she arrived in the colony. Perhaps a shipboard romance. But we can't place Patrick on the ship's list. Passing strange. She had two further children, in 1844  and 1846. We know her husband died in 1847, and she is reported as dying in 1851 (though I cannot find any definitive record).
+Rose had a busy first year in Morphett Vale. By July 1841 she was eighteen, she had married Patrick Aherne and given birth to Ellen. We know Ellen's birthday reasonably well (January-February of 1841), so it looks at though Rose was pregnant when she arrived in the colony. Perhaps a shipboard romance. But we can't place Patrick on the ship's list. Passing strange. She had two further children, in 1844  and 1846. We know her husband died in 1847, and she is reported as dying in 1851 (though I cannot find any definitive record).
 
 Her brother Patrick married in Morphett Vale and had nine children, creating an extensive dynasty in South Australia (carefully documented in Joyce Higgins's memoir). 
 
@@ -82,7 +82,7 @@ Two weeks later he was dead. The *South Australian* of 14 September 1847
 
 ## Great-Grandparent Generation
 
-### Austin Connole 1830-1888
+### Austin Connole (1830-1888)
 
 Austin arrived in Port Adelaide in 1858. He is on the
 [passenger list](AustinConnoleShip1858.jpg) of the ship *Sir Thomas Gresham*.
@@ -102,7 +102,7 @@ The [inquest](http://nla.gov.au/nla.news-article47268064) tells us
 >SUICIDE AT MORPHETT VALE.  
 Mr. C. H. Myles. J.P., on Wednesday last, April 4, held an inquest at Morphett Vale upon the body of Austin Connole, which was the previous day found by some children, suspended to a tree near the township. The man, whose age was somewhat above 50 years, it appears had been for a short time before his death acting somewhat peculiarly, but had expressed no intention of destroying himself. The Jury's verdict stated that the deceased committed suicide by hanging himself whilst in a state of temporary insanity.
 
-### Ellen Aherne 1841-1936
+### Ellen Aherne (1841-1936)
 
 Ellen must have been possessed of a remarkable constitution. She was born in 1841 in Morphett Vale. She was orphaned at age 10. She married Austin Connole at age 18. By 1886 she had 12 children (9 survived), and two years later she was widowed (at the age of 47). She managed to bring up the children, and survived to the grand old age of 95.
 
@@ -117,7 +117,7 @@ of cases of destitution, along with the date 1855. Ellen's sister would have bee
 [report](http://nla.gov.au/nla.news-article49776462) in the *South Australian Register* of 8 June 1858 of the Destitution Board that says in part
 >MORPHETT VALE. Mr. Myles, Chairman of the District Council, recommended Sarah Patmore, with two children, deserted by her husband. Not entertained. Also, Ellen Higgins, whose husband died in the Hospital nine months ago. To be admitted into the Asylum.
 
-Not our Ellen, I think.
+Not our Ellen, I think. It seems that Mrs. Patmore was poor but not deserving.
 
 An [article](http://nla.gov.au/nla.news-article129270028) in the *News* of 14 March 1936 discusses surviving pioneers of South Australia. It says in part
 
@@ -168,7 +168,13 @@ They had six children.
 
 ### Rose Connole (1867-1896)
 
-Married the splendidly named Edward Tom Navarino Roberts, who was born at sea on the *Navarino* en route to Australia in 1854. Rose had four daughters (the first of which seems to precede the arrival of Edward). Died aged 28. Edward remarried.
+Married the splendidly named Edward Tom Navarino Roberts, who was born at sea on the *Navarino* en route to Australia in 1854. Rose had four daughters (the first of which seems to precede the arrival of Edward). Died aged 28. Family legend has that the four young girls were taken in by grandmother Ellen (whose own youngest was aged 10).
+
+Edward apparently remarried. He died a widower, in 1932.
+
+{{< figure src="HildaNitaLucyFlorence_Roberts.jpeg"
+           caption= "Hilda, Nita, Lucy, Florence. Daughters of Rose Connole. c 1950" >}}
+
 
 ### John William Connole (1870-1952)
 
@@ -176,6 +182,23 @@ Married Emily Maria Daly in Glenelg, SA. Apparently lived in Broken Hill for a w
 >William settled in Albury where he worked as a carrier and Emily ran a boarding house. At one time she was a midwife in the district.
 
 ### Hubert (Hughie) Connole (1873-1946)
+
+According to a
+[report](http://nla.gov.au/nla.news-article87095886)
+in the *Bunbury Herald* Hughie is in Bunbury in July 1898, playing football. The reporter was unimpressed with the standard.
+
+>The local teams met for the third time in association matches this season on Saturday last, when the red and whites added another easy win to their list of victories ; but the honor of the win was largely discounted by the utter lack of any approach to good football except in individual cases. Concerted play was entirely ignored and for the greater part of the afternoon the game resolved itself into a series of scrimmages.
+
+In January 1900 he is in York.
+>Eastern Districts Chronicle 3 February 1900:  
+Wednesday— (Before the R.M.)  
+Hugh Connole was summoned for leaving his horse and vehicle without proper attention in the public street. Cautioned, and ordered to pay costs 3/6.
+
+In February 1902 he is playing cricket in Guildford, showing that he is an expert bowler.
+
+>Swan Express 1 February 1902  
+COLONIAL STORES V. UPPER SWAN.  
+An all-day match between these teams was played on the ground of the Guildford Grammar School, kindly lent for the occasion, on Monday last. Play commenced at 11 o'clock, the Colonial Stores team batting first. C. Read was especially fortunate in his play, putting up a score of 84 runs before dismissal. Several of his hits being narrowly missed by Swanites in endeavoring to catch him out. He was eventually bowled by Connole, who also did the "hat trick," and just missed repeating the "trick" a second time. 
 
 The electoral roll has him from 1910 to 1937 as living in
 [Grass Valley](https://en.wikipedia.org/wiki/Grass_Valley,_Western_Australia),
@@ -192,18 +215,82 @@ Joyce Higgins comments:
 
 ### John Sylvester (Jack) Connole (1876-1934)
 
-He can justifiably called an adventurer. He moved from Morphett Vale to Bunbury, to the Boer War. He stayed in South Africa for five years and then moved to England. He served in the First World War as a Major. He died in England in 1934.
+He can justifiably called an adventurer. He moved from Morphett Vale to Bunbury, then to the Boer War. He stayed in South Africa for seven years and then moved to England. He served in the First World War as a Major. He died in England in 1934.
 
-{{< figure src="JohnConnole1900.jpeg"
-           caption= "John Connole. c 1900" >}}
+He may well have arrived in WA in 1896. There is a
+[report](http://nla.gov.au/nla.news-article66541611) of the ship *Nemesis* arriving at Albany on 4 August, with *Mr Connole* as disembarking passenger. You could catch a train from Albany to Perth, and it was probably cheaper and faster than continuing on the ship to Fremantle. In 1897 he is
+[present](http://nla.gov.au/nla.news-article87105147) at the naming of the South Bunbury Cricket Club. After that he appears in many reports of cricket matches (being identified simply as *Connole* in the convention of the time). 
+
+The *Southern Times* of 15 February 1898 tells us that there are two Connole cricketers from South Australia in town:
+
+>A cricket match which promises to cause
+a good deal of excitement will be played on
+the Recreation Ground to-morrow afternoon at 2 o'clock sharp. The teams to play are South Australia v All-Comers, and as there are a number of first-class players on both
+sides the match should be worth witnessing.  
+The teams will he selected from the following :— All-Comers: B. North, F. D. North, M. Mclnerny, W. W. Edwards, J. Hands, J. Teede, A. C. Plane, E. Hardy, B. Weiss, J. Hislop, C. Spencer, Nundle and E. Marshall.  
+South Australia : Buckenara, Connole (2),
+Polson, Hosking, Lakeman, Bell, Cook, Fry, Knole, Coombs and Ewart.
+
+In April 1898 both J Connole and A Connole are
+[reported](http://nla.gov.au/nla.news-article87095482) as playing for the South Bunbury team.
+
+We have a photograph and report from the *Western Mail* of 21 January 1898:
+
+{{< figure src="JackConnole_ThirdFromRight_1898.jpeg"
+           caption= "John Connole (standing, third from right). 1898" >}}
+
+>Following the example set them by the cricketers of the Eastern Districts, and at the invitation of the Western Australian Cricket Association, the
+South-Western Districts' Association for the first time sent a team to the metropolis to take part in the "country week." The eleven is, perhaps, more distinctly representative than the other, for among the players are included cricketers
+from far-distant Karridale and the other
+districts right up to Pinjarrah. Two aboriginal players, also, are among the number, and they both displayed special abilities in all departments of the game. The team were not successful in any of their matches, though in some departments of the game, and especially in ground fielding, they demonstrated that they were far in advance of metropolitan players.  
+Taken in order from the left in the photograph reproduced, they are - Nettup (Brunswick), Mr. Gibbs (scorer), McLean (Karridale), Morgan (umpire), Mr. Brown (manager and captain), Draper (Eastern districts' umpire), Connole (South Bunbury), Nundel (South Bunbury), Hands (Bunbury). Those in the front row, commencing from the left, are - Middleton (Karridale), Alderson (Pinjarrah), Henderson (South Bunbury), and Elliott (Bunbury).
+
+The *Southern Times* of 24 May 1898 tells us of the celebration of Queen Victoria's 80th birthday in Bunbury.
+
+> THE QUEEN'S BIRTHDAY.  
+Although to-day is being kept as a general holiday by most of the large stores, the employees have not benefited by the holiday in consequence of the state of the weather. From the first thing this morning rain has been falling and towards mid day after some heavy peals of thunder rain fell in torrents.  
+In consequence of the inclement state of the weather the parade of the Bunbury Rifle Volunteers which was arranged to have taken place in Mr. Spencer's paddock was held in the Drill Hall, where the men were put through exercises by Captain Woodrow, the Captain Commanding, and at mid-day they were marched into the open and fired the usual feu-de-joie. The attendance at the parade was good and 62 volunteers answered to their names.  
+Promotions were announced, including
+J Connole (207) to Corporal.  
+A smoke social in connection with the Volunteer Corps is to be held in the Mechanics' Institute this evening at which only members of the Corps will be present.
+
+A [smoke social](https://en.wikipedia.org/wiki/Smoke_night) was a popular event at the time, but now defunct.
+
+A month later John Connole is
+[mentioned](http://nla.gov.au/nla.news-article157538971) as attending a H.A.C.B. gathering.
+>During the evening songs, recitations and step dances were given by members of the order in a very creditable manner. Mr Connole gave some pleasing violin selections, which greatly added to the evening's enjoyment.
+
+Here HACB stands for the
+[Hibernian Australasian Catholic Benefit Society](https://en.wikipedia.org/wiki/Hibernian_Australasian_Catholic_Benefit_Society).
+It was one of many benevolent societies that people joined at the time. We will meet several more in Maggie Connole's story.
+
+Two years later, Jack is off to the Boer War!
+
+The selection of the troops is discussed breathlessly in the local press. Places seem to be rationed. The *Bunbury Herald* of 17 March 1900 tells us:
+
+>The Imperial Bushman's Corps.  
+We have been asked to state that the list for this contingent is closed for the present, the R. M. (Resident Magistrate) having received on intimation that only 10 volunteers would be required from this district, and that number has been reached. Several of the volunteers who were examined by the committee on Tuesday last, proceeded to Perth by yesterday's train to go into camp at Karrakatta. Yesterday afternoon the committee tested 5 other applicants at the rifle range. The riding tests were satisfactory, but the shooting, with the exception of two, was not very good, Corporal Connole, of the Bunbury Rifle Volunteers, who holds a marksman's badge, and who has seen two or three years' service in the mounted rifles in South Australia, passed the tests satisfactorily and will proceed to Perth this morning. This makes the tenth man. The other men will be given a pass to Perth and will be taken on should there not be sufficient applicants from the other districts.
+
+>An Aged Patriot.  
+During the recent enrolment of volunteers for the Imperial Bushmen's contingent, Mr G. Burrows, a farmer at Harvey, who is 64 years of age, decided to volunteer remarking that he could stop a Boer bullet as well as anyone else. Accordingly he saddled up and rode to the Brunswick, but there he became unwell and had to return home again. We are pleased to be able to state, however, that Mr Burrows is now improving.
+
+There was about two months training. Part way through, the *Bunbury Herald* of 31 March 1900 tells us.
+>A Visit to Karrakatta.  
+Mr W. H. Timperley, R. M., paid a visit to the camp at Karrakatta on Wednesday, arriving there about 4 p.m just as the men were putting up their horses after drill.  Mr Timperley met four of the Bunbury men — Ewins, Page, Plunkett and Connole — but did not see Larkin or Hales. The men, having just come back from drill, were that begrimed that he hardly knew them, but they were in excellent spirits and congratulated themselves that they had not been rejected.  
+The complement of men was filled, but it was anticipated that there would be further rejections as the examination at the camp was very strict. Five candidates had been rejected in consequence of heart disease. The Bunbury men said they had been greatly amused at the exhibition of horsemanship given by some of the candidates, to whom it appeared to be a simple matter to fall off a horse.
 
 The *Western Mail* of 12 May 1900 gives a
 [full list](http://nla.gov.au/nla.news-article33185728) of the Fourth WA Contingent, bound for the Boer War. It includes in the non-commissioned officers:
 
 >60. John Connole, 24 years, born in South Australia, farmer, recently of
-Bunbury. Served three years in South Australian Mounted Rifles and three years in Bunbury Rifles.
+Bunbury. Served three years in South Australian Mounted Rifles and three years in Bunbury Volunteer Rifles.
 
-This would indicate that he moved to WA around 1898. The list specifies that many of the contingent had served in various colonial military forces. The various such groups in WA are
+We have a photograph from about this time.
+
+{{< figure src="JohnConnole1900.jpeg"
+           caption= "John Connole. c 1900" >}}
+
+The list specifies that many of the contingent had served in various colonial military forces. The various such groups in WA are
 [described here](https://www.wamdl.com.au/WAMDL/index.php?title=Colonial_Forces).
 That website also provides a copy of the
 [Official Records of the Australian Miltary Contingents to the War in South Africa](https://www.wamdl.com.au/WAMDL/index.php?title=Official_Records_of_the_Australian_Military_Contingents_to_the_War_in_South_Africa).
@@ -211,7 +298,34 @@ From there we find
 
 >The Contingent left on 8 May 1900, comprising 7 officers, 120 others with 132 horses. Three were killed; one officer promoted from the ranks; 3 officers and 35 others struck off in South Africa; 5 officers, 81 others returned to Australia (arriving in Albany on 20 July 1901).
 
+Jack wrote letters back to Bunbury, several of which were published in the local press. They are worth providing in full.
+
+>Bunbury Herald 8 September 1900:  
+Mr W. H. Timperley, R.M., has received a lengthy letter from Sergeant J.Connole (W.A.I.B.C.) The communication was written from Redefort, and is dated 29th July. It is altogether too long for reproduction in our columns, but we give several readable extracts:—  
+We arrived at Beira on the 27th May. It is a low-lying country with the trees growing out into the water. The town is rather pretty. The houses have all red tiled roofs with green lawns in front. The population is principally Portuguese and Greeks. It would take a week to relate every thing. We had some trouble with the authorities there. They used to come off in boats selling fruit and fish, and one of them cheated one of our men of some money and the men pelted them with spuds. At all events the local police came off from the shore about it, but the potatoes had not run out and as soon as they came within range they got a volley. They jabbered in Portuguese but it was no use, they had to retire, collecting the spuds, I suppose as evidence.  
+We remained at Beira a week and were then ordered to Durban, which we reached in three days steaming. We disembarked for two days then embarked again for Port Elizabeth. The people there gave us a grand reception. We can never forget the kindness shown us by them. We started for the front the same night and were three days and four nights in the train, going through Naauport, Colesberg, Arundel, and Rensburg, where the Victorians were cut up; we saw their graves and the famous Coles Kop, which is very steep; one would hardly think the Boers could mount their big gun on it. We stayed a few hours at Bloemfontein which is very busy as a base of supply. It is situated on a plain and one can understand its not being hard to take.  
+From there we went on to Kroonstadt. There we detrained our horses in the afternoon and next morning were out at five to escort a convoy of food and ammunition to the troops at Lindley, 40 miles distant. We had a company of Yorks, one of Buffs, a troop of Imperial Yeomanry and ourselves, with three guns. On the third morning we had our baptism of fire. The Boers started firing on us from a kopie on our left. We dismounted and took up a position on a rise. We were firing for about an hour till the guns came up. We then charged them with the bayonet, but when they saw the steel they cleared leaving three dead and several wounded. One of the wounded was a German student who said he came out to learn military tactics, and another was a Russian officer. Our men behaved splendidly, as cool as possible. They evidently meant to have our convoy as next morning they attacked us in force with two big guns. They kept at us till nightfall. The Yorks lost rather heavy. The South Australians had four wounded and three prisoners and losing a good many horses. We got into Lindley that night and rested next day.  
+We started again next morning with about 2,000 men, under General Paget. We met them about four miles and drove them back on to a strong position where they had two long range guns mounted. Our 12-pounder could not reach them. The West Australians were sent straight at them to get a closer position while our guns advanced. We galloped all we knew with the shells bursting around us till we got within rifle range when they dropped a few more shells amongst us. I was struck by a chip, but was not hurt much. As soon as our guns started they fled to another position at long range, and fired shells at us till night. We camped on the position vacated by them. Next day they were at it again. They crawled through a maize field up to our guns, shot Major Oldfield, his lieutenant, and many gunners, They were right up to our guns when we advanced on them. It was then Major Rose and Ewins were wounded. The major is quite well again, but I am afraid poor Ewins will not fare so well. He was left behind at a farmhouse, so I cannot find out how he is. We took Bethlehem after two days' fighting. There we met the First West Australians. There are only the Shaw brothers and Birch of the Bunbury men there; North has joined a corps of Engineers, and Bird is somewhere down in Natal, having recovered from his wound.  
+We have since chased De Wet about 180 miles, and now have him blocked near the Vaal River. Our casualties up to date are one killed and. five wounded. The First West Australians, who are still with us, had a bad time the other day, which you will have seen in the papers. I have all the Bunbury boys in my troop. They are all well, and in looting a Boer farmhouse are not slow. I have just this moment had a note from Charley Ewins. He is in the Scottish Hospital at Kroonstad, and I am pleased to say he is getting on the road to recovery. The Boers are not the crack shots they are reputed to be; as marksmen, I think we can give them a start, Their artillery fire is good, but their shells do not burst well. They are using black powder.  
+This is a splendid fertile country, grass six inches high for miles, and well watered; also a fine country for game, plenty of springbok, hares, ducks, guinea fowl and wild pigeon. The great failing is timber. For fencing they all use stone posts, with barbed wire. The only cereals grown seem to be Kaffir corn and maize, very roughly cultivated. These serve for food for man and horse. We find it makes very good porridge crushed. Our Army service supplies consist of three biscuits and 1lb of meat per day, but our larder is kept well supplied generally from the farm of the Boer whose patriotism has led him away to fight his country's battles. I saw one of our men come in the other day. He had three geese, a concertina, two tins of coffee, three bottles of St. Jacob's Oil, two of scent, one shirt, a tin of mustard and a large tea kettle. This is only a sample of many. One brought in an organ that tormented us till some hero put a bayonet into it; he had no ear for music, I suppose. The Kaffirs have wholesome hatred for the Boers. We took sixteen prisoners the other day. Our natives all collected to jeer at them, and said, "Better shoot them all, boss." The natives are a fine stalwart race and very good-natured. I have seen the women carry water on their heads some distance to give an abandoned horse a drink. I wish I could get a cinematograph film of our men in a Boer farmyard: about a dozen racing for one pig, others after fowls and ducks. The Lancers generally got the pigs with their lances. Our first contingent are all talking of home, and expect to go in September.
+
+>Bunbury Herald 11 September 1900.  
+Sergeant J. Connole, of the West Australian Bushmen's Contingent, writes from the Rhenoster River, under date 23rd July, to Mr T. Stokes of this town. Connole has evidently seen plenty of fighting and rather appears to enjoy it. He says :  
+I have had plenty of fight since we came to the Colony. Fourteen engagements in five days is not too bad. We went by train from Port Elizabeth to Kroonstad, and our first job was to escort a convoy of food and
+ammunition to the troops at Lindley. The second day out we had our baptism of fire. The Boers fired on us from a hill just at sunrise. We dismounted and got to them. They stood it for about an hour, then we fixed bayonets and charged the hill, but they went like the devil, leaving four dead and four or five wounded. Next day they again attacked us with two guns, but we repelled them again. They shot a good many of our horses, wounded four South Australians, and took two prisoners. Myself, with four men, captured a Boer. He put up a while flag when he saw we had cut him off. We made him turn a bit green when we threatened to put a bayonet through him. We followed them up for 35 miles to Bethlehem, their stronghold, which we took after a day's fight. We had a good time looting the Boer houses, getting all sorts of things, including ducks, geese, shirts, clothing of all sorts, and an organ which we had to leave at the camp. We then joined the first Wests under General Hamilton. We have since followed up the Boers under De Wet for over a hundred miles warming up his rear guard. We had a pretty good go with them the other day which you will see an account of in the papers, when Major Moor was killed. Our major has nearly recovered from his wound. We have four wounded, including young Ewins, from Bunbury, who was shot through the body. He was left behind at a farmhouse. I am afraid he will not recover. I got hit with a chip of a shell, but was not hurt. We have all had about enough of this life; up at four and in the saddle on three biscuits is not too nice. I think a lot of people imagine we have tents. A great mistake. We have not slept in a tent since we came, but lay on the ground with the rain pouring down. I am all right so far ; Shaws and Birch are with us and are very sick of it too.  
+July 28. — We have followed up the Boers now to a place called Vredefort. We had a good go at them near the town, capturing five wagons and killing forty. We were right in it, and lost one killed and three wounded. They very much outnumbered us. We had to retire with the wagons. As we started to retire our "pom-pom" jammed, which made it worse for us. A "pom-pom," as you know, is a Vickers-Maxim, a quick firer carrying a pound shell. We are now supposed to have De Wet surrounded, and are having trenches dug. We could hear General Broadwood having a go at him yesterday.  
+July 29. — I had to stop rather abruptly yesterday as the Boers started potting at our outposts, and we had to stand to arms. Major Rose told me this morning that we have De Wet quite surrounded. We have lost about a hundred horses and can only mount 45 men, but are expecting remounts from Kroonstad. We sent 20 prisoners down, and the horses are to come back with them. Old Fraser is here, but we do not know what position he occupies, as he never fights. There are only 30 of the first West Australian contingent left here, what with sickness and wounded. We do not get fed too well, only when we get on to the Boer farms. When we passed the railway line the other day we gladly paid 5s for a loaf of bread. We make porridge out of the mealie we get from the Kaffirs.
+
+We have a family photograph of this time in South Africa
+
+{{< figure src="JackConnole_centre_BoerWar1900.jpeg"
+           caption= "John Connole. c 1900" >}}
+
 Jack Connole was one of those who were "struck off". While this commonly indicates professional misconduct, I think in this case it simply meant that 38 of the 124 remaining simply decided to stay in South Africa. Having tasted adventure, why go back to an unexciting job in WA?
+
+>Bunbury Herald 25 October 1900:  
+Sergeant J. Connole, writing from Pretoria to Mr J. J. Johnston, of this town, says :  
+I am staying here. I have got a position as Sergeant of Police, and am having a toff's life. £20 a month with food and uniform is not too bad. I belong to the Transvaal Constabulary . Let us now change the words 'Sons of the Empire' to 'Policemen of the Empire.' 
 
 This
 [record](JohnConnolePTC1901.jpg)
@@ -226,7 +340,7 @@ and a
 (again shamelessly acquired from the web). Jack is an "agent", and Margaret a "spinster". They both reside at "Wilton House" (which
 [still exists](https://www.wiltonguesthouses.co.za/) as an upmarket guest house).
 
-On 20 February 1906 Margaret gave birth to a daughter. Tragically Margaret died six weeks later, of "puepural septicemia". We have the
+On 20 February 1906 Margaret gave birth to a daughter. Tragically Margaret died six weeks later, of "puerperal septicaemia". We have the
 [death record](MargaretCallawayDeath1906.jpg).
 
 Sometime in the next year John took the infant back to England, to make contact with Margaret's family. In September 1907 he married Gertrude May Callaway in Plymouth, Devonshire. Gertrude was Margaret's younger sister! They had nine children.
@@ -237,7 +351,7 @@ He died in Devonshire in 1934.
 
 Joyce Higgins comments:
 >John "Jack" was born in Morphett Vale. He worked as a farmer before going to WA. in 1900 Jack enlisted as a sergeant in the 4th Mounted Infantry for service in the Boer War. After the war Jack remained in South Africa for a year or so, having married Margaret Callaway, who died young leaving him with a young child. He took the child to England, to see her grandmother Callaway, and remained in England. After a brief spell as a farmer, he joined the duke of Cornwall's Light Infantry in 1914 and served in World War I until 1919.  
-He practiced as an auctioneer and estate agent until his death in 1936. Jack was talented in music, playing several instruments. Of the nine children of his second marriage, eight served in World War II.
+He practised as an auctioneer and estate agent until his death in 1936. Jack was talented in music, playing several instruments. Of the nine children of his second marriage, eight served in World War II.
 
 ### Arthur Patrick Connole (1879-1957)
 
@@ -256,10 +370,41 @@ We have a photograph of Arthur and his younger sister Annie.
 
 ### Margaret Connole (1881-1956)
 
-Maggie moved to Bunbury around 1900. Her older brothers Augustine, Hughie and Jack were already in Bunbury (or at least WA) by then. Family legend has it that in Bunbury she worked as a domestic for the Stokes family, who were
+Margaret (Maggie) followed her older brothers to Bunbury in about 1898. She married Les Atkins in 1908, and spent almost all thier life in Bunbury. They had four children.
+
+It looks as though Maggie was in Bunbury by June 1898. There is a
+[report](http://nla.gov.au/nla.news-article87095634)
+of the *Bunbury Herald* that has a "Miss Connole" attending a Plain and Fancy Dress ball for the Convent Building Fund. 
+She was barely seventeen when she moved from Morphett Vale, but her older brothers Augustine, Hughie and Jack were already in Bunbury (or at least WA) by then.
+Her mother Ellen had been widowed a decade by then, and there must have been pressure on the youngest girls to find independent employment.
+
+Family legend has it that in Bunbury she worked "in service" for the Stokes family, who were
 [local worthies](https://inherit.dplh.wa.gov.au/public/inventory/printsinglerecord/19db5594-9e80-4e13-b7ce-49e595904a55). The Stokes family provided de facto family support at the time of her wedding to Les in 1908.
 
-She was a staunch Catholic while Les was at best a lapsed Congregationalist. The children were educated in Catholic schools and they saw themselves as good Catholics to the end.
+It needs to be remembered that 1898 was before movies and well before radio. It seems that in a small town everybody took part in communal activites. People joined various benevolent societies. They seem to spend a lot of their time organisng picnics and balls. Indeed, in Bunbury there was a "ball season". The local newspapers were the social media of the day, and reported these events in breathless detail.
+
+We have seen Jack Connole at an event organised by the 
+Hibernian Australasian Catholic Benefit Society. Maggie, too was a joiner, and was a member of
+[International Order of Good Templars](https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars)
+and the [Ancient Order of Feresters](https://en.wikipedia.org/wiki/Foresters_Friendly_Society). The following is a typical report of an A.O.F. meeting.
+
+>Southern Times 22 October 1901  
+FORESTERS  
+The following official report has been received from the secretary, Mr A North:  
+The fortnightly meeting of Court Wellington, A.O.F., was held in the I.O.G.T. Hall on Thursday evening. All the officers and abont 60 members were present. The minutes of the previous meeting were adopted. Sick pay was voted to one member. A lot of correspondence was dealt with and then the banner question was discussed, and it was finally resolved that the secretary write to London for a patent woven banner, 8x7, with all appurtanances thereto, to cost about £20. The motto selected by the committee, "Our aim is to relieve distress" was adopted, and the design, as per illustration, was adopted. The banner should arrive hereabout the middle of January next.  
+A committee, consisting of Bros D Sinclair, B Weiss and A North, was appointed to value the furniture and goods of the Court, so as to include the valuation in the report to the High Court in England. A committee
+was then instructed to procure a cupboard for certain of the furniture.  
+The next business was discussion with regard to a picnic, and after a couple ot hours' talk it was arranged that a picnic should be held on the last Wednesday in November at "The Blunders", across the Estuary, and it was decided that a charge be made to the male members, the female members and wives of members to be admitted free, and the kindred societies to be invited. A strong committee, comprising Bros J J Barrett, W Wallrodt, B Weiss, John White, Joseph White, A Gibbs and H W Sharpe ; Sisters Mesdames Ramsay, Gunst, McKernan, and Misses Alison, Lawrence, Connole, and Fitzner, was duly elected to carry out the whole affair and endeavour to make it a success.  
+The item for next meeting will be 'parlour games'. The Court closed at 11 p.m ".
+
+At the [Fire Brigade Ball](http://nla.gov.au/nla.news-article157500459) in 1907 the following were listed amoung the attendants:
+
+>Miss Lily Stokes, evening dress.  
+Miss Connole, white muslin evening dress, crimson roses.
+
+Family legend always had it that my mother Lily and her sister Ivy were named after members of the Stokes family.
+
+Maggie was a staunch Catholic while Les was at best a lapsed Congregationalist. The children were educated in Catholic schools and they saw themselves as good Catholics to the end.
 
 From my mother's telling, Maggie did not have an easy life. As described elsewhere, Les was an enthusiastic but not particularly successful businessman. Most of his enterprises involved hard work for Maggie, and she was the one who kept the family together.
 
@@ -277,7 +422,7 @@ The *Advertiser* of 4 May 1906 reported.
 
 > MOTOR FATALITY.  
 The inquest as to the cause of the death of Frank Connole, who was killed by a motor accident early on Tuesday morning, midway between Willunga and Morphett Vale, was opened on Tuesday night at the Court house, before Mr. T. McMurtie, and a jury. After formal evidence had been given, the inquest was adjourned until 2 p.m. on Wednesday and it was concluded that night. Connole was chauffeur to Dr. C. Newland, of Morphett Vale, and he was found dead on Tuesday morning, his body lying underneath the overturned motor. At the enquiry Mounted Constable Wells watched the proceedings on behalf of the police.  
-A large number of witnesses were examined. The evidence showed that Con-nole, accompanied by John O'Neil and John Fitzgerald, left Morphett Vale in the car, which had been procured from Dr. Newland's residence, at about 11 o'clock on Monday night to find a horse of which O'Neil had charge and which was the property of Aldam Bros., of Willunga. The horse broke the bridle, and bolted from the Emu Hotel, where the men had been drinking together. They travelled to MacLaren Vale, and called at the Bellevue Hotel, and had a few drinks. Thence they proceeded to Willunga, called at the Alma Hotel, and searched Aldam Bros.' paddock. Then they started on the return journey. At the Cross roads on Goss' Hill the car ran off the main road and capsized, the off front wheel being completely smashed. Frank Connole, according to the medical evidence, was killed instantaneously. O'Neil was severely injured, but Fitzgerald escaped with a shaking. When the accident occurred O'Neil and Fitzgerald cleared out, leaving Connole crushed under the car. They did not inform any one of the accident.  
+A large number of witnesses were examined. The evidence showed that Con-nole, accompanied by John O'Neil and John Fitzgerald, left Morphett Vale in the car, which had been procured from Dr. Newland's residence, at about 11 o'clock on Monday night to find a horse of which O'Neil had charge and which was the property of Aldam Bros., of Willunga. The horse broke the bridle, and bolted from the Emu Hotel, where the men had been drinking together. They travelled to MacLaren Vale, and called at the Bellevue Hotel, and had a few drinks. Thence they proceeded to Willunga, called at the Alma Hotel, and searched Aldam Bros.' paddock. Then they started on the return journey. At the crossroads on Goss' Hill the car ran off the main road and capsized, the off front wheel being completely smashed. Frank Connole, according to the medical evidence, was killed instantaneously. O'Neil was severely injured, but Fitzgerald escaped with a shaking. When the accident occurred O'Neil and Fitzgerald cleared out, leaving Connole crushed under the car. They did not inform any one of the accident.  
 The jury returned a verdict that the deceased, Frank Connole, came to his death by the accidental upsetting of a motor car on the main road near Willunga on May 1, 1906, and they added the following rider:  
 "We wish the coroner severely to censure the witnesses, O'Neil and Fitzgerald, for the cowardly and unmanly way in which they left the deceased after the accident. "  
 Fitzgerald was called before the jury and censured by the coroner but O'Neil was not present as he is still confined to his bed suffering from injuries received as a result of the accident. Fitzgerald as previously stated, escaped without any injury. Connole's widowed mother lives at Morphett Vale, to which place the body was taken yesterday for interment.
@@ -289,7 +434,13 @@ His gravestone was erected by members and friends of the Morphett Vale Cricket C
 Annie married Percival Bond in Adelaide in 1908. Joyce Higgins comments:
 >Percival was one of the Bonds who were builders at Tralee.
 
+{{< figure src="AnnieConnole1910.jpeg"
+           caption= "Annie Connole. c 1910" >}}
+
 They had two girls, Doris and Rita. Annie and Maggie, being the two youngest girls, kept in close contact. Doris and Rita, of my mother's many Connole cousins, were the ones she maintained contact with.
+
+{{< figure src="Doris_Rita_Lily_1960.jpeg"
+           caption= "Doris, Rita, Lily. c 1960" >}}
 
 Percival Bond committed suicide in 1931.
 The *Advertiser and Register* of 31 July 1931 reported:
@@ -299,5 +450,3 @@ The *Advertiser and Register* of 31 July 1931 reported:
 The Great Depression may well have had a drastic effect on his business.
 A [copy](PercivalBondEnquiry1931.pdf) of the Coroner's enquiry is available.
 
-
-£

@@ -8,9 +8,9 @@ draft : false
 
 My maternal grandfather is Leslie William Atkins. Of *his* four grandparents, three arrived in Australia as free settlers from England. The fourth, Mary Ann Murtagh, was born in Sydney in 1821 to parents who were both transported convicts from Ireland.
 
-{{< pdf src="LesleyWilliamAtkins.pdf"
+{{< pdf src="LeslieWilliamAtkins.pdf"
         width="100%" height="400px" >}}
-Family tree: Lesley William Atkins [(fullscreen)](LesleyWilliamAtkins.pdf)
+Family tree: Leslie William Atkins [(fullscreen)](LeslieWilliamAtkins.pdf)
 
 ## Great-Great Grandparent Generation
 
