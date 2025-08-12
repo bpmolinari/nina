@@ -52,6 +52,12 @@
   weight = 40
 
 [[main]]
+  name = "O'Hare"
+  parent = "FamilyHistory"
+  pageRef = "ohare"
+  weight = 50
+
+[[main]]
   name = "Murchison"
   parent = "Context"
   pageRef = "/family/molinari/murchison"

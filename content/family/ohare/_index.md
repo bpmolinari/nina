@@ -29,8 +29,7 @@ The spelling of the surname was not standardised at the time. Other spellings in
 
 John O'Hare was born in about 1805 in the town of Ennis, County Clare in Ireland. We do not have a baptism certificate. We know the names of his parents (Daniel Hehir and Margaret Meade) and he may have had two brothers. What we do know is that only he came to Australia, and that contact has been lost with any relatives who stayed in Ireland.
 
-John O'Hare married Margaret Hassett in Ennis, in 1831. We have an accurate date, but seem not to have copy of the marriage record. They had four children in Ennis.
-
+John O'Hare married Margaret Hassett in Ennis, in 1831. We have an accurate date, but seem not to have copy of the marriage record. They had three children in Ennis that we know of.
 
 Honor Pusenjak tells us:
 
@@ -156,8 +155,6 @@ The family then selected land in Barwo at the same time as the O'Hares. He died 
 		   
 *Two* of William's brothers also came to Victoria.
 
-[arrival](https://libraries.tas.gov.au/Digital/CB7-12-1-6/CB7-12-1-6P211)
-
 Patrick Commons (1827-1910) arrived first in Hobart, on the *Sir W F Williams* which arrived on 2 December 1856. We have a
 [list of assisted passengers](PatrickCommonsArrival1856.jpg).
 He is fifth on the page. He says he is 27 (close enough), he is Roman Catholic, can read (but not write), comes from County Tipperary, is a "farm labourer", 
@@ -165,7 +162,7 @@ he was sent out on the application of "William Commons", he has a pale broad fac
 
 In February 1858 he
 [travels to Melbourne](PatrickCommonsMelbourne.pdf)
-on the steamship *Royal Shepherd*.
+on the steamship *Royal Shepherd*. Scroll down to the second page.
 
 The following is probably him.
 

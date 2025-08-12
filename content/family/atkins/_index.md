@@ -91,6 +91,11 @@ William Cooke was born in
 [Ewhurst, Sussex](https://en.wikipedia.org/wiki/Ewhurst,_East_Sussex)
 in 1821, the eldest of eight siblings. The entire family (parents and all eight children) arrived in Sydney in 1838. He married Mary Anne Murtagh in 1841. He died in Blakeville, Victoria in 1883.
 
+We have a photograph, taken from the web.
+{{< figure src="WilliamCooke.jpeg"
+           caption= "William Cooke" >}}
+
+
 The family's arrival is well-documented. They travelled under an
 [assisted migration scheme](https://www.nma.gov.au/defining-moments/resources/assisted-migration)
 whereby the cost of their passage was paid for by the Colonial Government (from the proceeds of the sale of land in the colony). They arrived on the ship *Lady Nugent* 0n 28 November 1839. The ship seems to have been chartered for the purpose of assisted immigration, and as government money was involved a
