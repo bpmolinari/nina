@@ -425,6 +425,9 @@ The *Gympie Times and Mary River Mining Gazette* 19 February 1916 tells us:
 "Kotoro" was a facility in Gympie that provided midwife services. These were common before public hospitals were better developed and trusted. The placename
 [Wolvi](https://en.wikipedia.org/wiki/Wolvi,_Queensland) lets us locate the farm a little more accurately. It is about 10km north of Kin Kin, on the road to Gympie.
 
+{{< figure src="MartinOHareMartinGympie.jpeg"
+           caption= "Martin Patrick O'Hare, with son Martin Patrick. c 1918" >}}
+
 In 1926 Martin fell seriously ill, and it was believed that he was suffering from TB. He moved back to Natalia, leaving his wife to endeavour to sell up the farm. In the end most of the furniture was sold (for a song), and the land was broken up slowly. The whole family was reunited at Snugborough.
 
 The family moved to a small location called
@@ -508,6 +511,9 @@ are Philip and Patrick (Buddigower), John (Nathalia), Martin (ex-RAAF, Melbourne
 Her mother lives in Queensland.  
 The funeral at West Wyalong on Wednesday afternoon, which left St. Mary's Church, was a large and representative one, and there was a wealth of floral tributes. The service at the graveside was read by Father Lynch, and the interment
 was made in the Roman Catholic portion of the Wyalong Cemetery.
+
+{{< figure src="PhaetonNathalia.jpeg"
+           caption= "The phaeton, Snugborough" >}}
 
 ### Sarah O'Hare (1886-1965)
 
