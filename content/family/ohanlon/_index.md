@@ -521,7 +521,25 @@ Mr Eager stated that the question for determination was whether the executor sho
 COURT'S DECISION  
 The judge decided that £10 a year bequeathed to the parish priest at St. Francis's Church, Melbourne, for 21 years, should be paid in full until it appeared certain that the estate would not be sufficient to meet all demands upon it. The same direction, he said, applied to an annuity of £150 to Maureen Duff. No special provision need be made for any contingent legacies or annuities hereafter payable, except the reservation, by the executor, of the whole of the estate not required for payment of the annuities immediately payable. No portion of the surplus income of the estate should be paid out to the nephews and nieces until it was clear that there would be a residue available for them.
 
-That little finding would not have come cheaply, with the various barristers and solicitors involved. The report refers to five nephews and nieces. I have only been able to identify three in the family tree. 
+That little finding would not have come cheaply, with the various barristers and solicitors involved. The report refers to five nephews and nieces, but does not name them. Some more information is provided by the
+[catalogue entry](https://prov.vic.gov.au/archive/FB5040D1-F329-11E9-AE98-7DDF6D2EBE8A#) in the Public Records Office of Victoria. The defendants in the case are identified as:
+
+>Maureen Duff, Helena Galligan, Maria OHanlon, Theodore Stevens, Maxwell Stevens, Jocelyn Maria Stevens, Sheila Marie OHanlon, Richard OHanlon, Henri Lachance
+
+The record seems silent about the identity of Maureen Duff - she may have been a long-serving employee of his firm. 
+Henri Lachance 
+was the priest in charge of
+[St. Francis' Church](https://www.stfrancismelbourne.com/post-1929/). From its website:
+
+> In 1929, St Francis’ Church became a eucharistic shrine in the pastoral care of the Blessed Sacrament Congregation of priests and brothers, members of the French (now international) religious institute founded by St Peter Julian Eymard (1811-1868).  
+At the invitation of Melbourne’s Archbishop Daniel Mannix (1864-1963), the Congregation initially posted five priests and two brothers to St Francis’ from the United States and Canada. The pioneer group, led by 44-year- old French Canadian Fr Henri Lachance (1885-1963), arrived at St Francis’ on All Saints’ Day in 1929.  
+Almost from that moment, St Francis’ Church began to be transformed by the culture of eucharistic devotion that the Congregation transplanted to Melbourne. Exposition and perpetual adoration brought people into the church during the day. The number of masses increased and demand for confessions was sometimes overwhelming.
+
+It may be that Edward George had a serious religious bent. We are also told:
+
+>In 1949, a seriously ill Melbourne woman experienced a spontaneous and complete recovery from an incurable heart condition after a novena of prayers at St Francis’ Church requesting the intercession of the Congregation’s founder. Her cure was ultimately accepted by the Catholic Church as a miracle – the first in Australia to be accepted by the Church – and its authentication led to Eymard’s canonisation as a saint in 1962.
+
+It is not every family narrative that can reference a genuine accepted miracle! But back to the defendants. Helena Galligan and Marie O'Hanlon are Edward's sisters and must have been nominated for a bequest. The other five are nieces and nephes, and are in the family tree above. In order, they died in 1984, 1992, 2014, 2019 and 1982. In particular, Sheila outlived Uncle Eddie by 87 years.
 
 ### Patrick Dennis Kavanagh O'Hanlon (1873-1943)
 
@@ -577,10 +595,9 @@ shows she joined up in December 1916. She was sent to India later that month, an
 
 Dr Steven followed them to Australia. He was 
 [registered to practice](http://nla.gov.au/nla.news-article220078738)
-on 9 February 1921. They lived for some time in Gladesville, Sydney. It would seem they eventually separated. Arthur moved to Queensland, and then to Melbourne. Elizabeth died in Sydney, in 1959.
+on 9 February 1921. They lived for some time in Gladesville, Sydney, and had two more children. It would seem they eventually separated. Arthur moved to Queensland, and then to Melbourne. Elizabeth died in Sydney, in 1959.
 
-Helena Josephine married Michael Galligan in St Kilda in 1917. They lived in Sydney. The arithmetic of "Eddie's will" would suggest they had two children. I have not been able to determine any details.
-
+Helena Josephine married Michael Galligan in St Kilda in 1917. They lived in Sydney. They do not seem to have had any children.
 
 ## Parent Generation
 

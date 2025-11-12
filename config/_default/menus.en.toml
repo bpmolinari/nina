@@ -69,6 +69,12 @@
   pageRef = "ohanlon"
   weight = 70
 
+[[main]]
+  name = "McMahon"
+  parent = "FamilyHistory"
+  pageRef = "mcmahon"
+  weight = 80
+
 
 [[main]]
   name = "Murchison"
