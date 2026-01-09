@@ -6,19 +6,21 @@ draft : false
 
 ## Introduction
 
-Kerry's maternal grandmother is Eily Erine McMahon. Her father is John McMahon who was born in Maynooth, Ireland, and who emigrated to Melbourne in 1865.
+Kerry's maternal grandmother is Eily Erina McMahon. Her father is John McMahon who was born in Maynooth, Ireland, and who emigrated to Melbourne in 1865.
 Her mother is Jane Givan who was born in County Tyrone, Ireland and who emigrated to Melbourne in 1859. They were married in Melbourne in 1870, and had 10 children.
-The following is a family tree of Eily Erine McMahon's ancestors and descendants.
+The following is a family tree of Eily Erina McMahon's ancestors and descendants.
 
 {{< pdf src="EilyErineMcMahon.pdf"
         width="100%" height="400px" >}}
-Family tree: Eily Erine McMahon [(fullscreen)](EilyErineMcMahon.pdf)
+Family tree: Eily Erina McMahon [(fullscreen)](EilyErineMcMahon.pdf)
 
 We have a family memoir to help us:
 
 - Trish Meldrum, "Maynooth to Melbourne - Descendants of Matthew Luke Mahon and Margaret Duffy of Maynooth", 2011 (privately published).
 
-This is a very detailed and comprehensive work, and incorporates a great deal of primary sources and family stories. 
+This is a very detailed and comprehensive work, and incorporates a great deal of primary sources and family stories.
+
+Sheila O'Hanlon (a granddaughter of John and Jane McMahon) compiled an extensive set of notes on the McMahon family. She inherited a small collection of letters and documents from her mother, Eily McMahon. I have digitised these and included them in this narrative.
 
 ## Great-Great-Grandparent Generation
 
@@ -33,7 +35,7 @@ The family tree of his descendants is quiet impressive.
 Family tree: Luke Mahon [(fullscreen)](LukeMcMahon.pdf)
 
 Luke Mahon was born and resided all his life in the town of
-[Maynooth](https://en.wikipedia.org/wiki/Maynooth), which is 24 km west of central Dublin. In 1795, Maynooth was selected to be the site of St Patrick's college, established to train the Catholic clergy. This institution, commonly known as
+[Maynooth](https://en.wikipedia.org/wiki/Maynooth), which is 24 km west of central Dublin. In 1795, Maynooth was selected to be the site of St Patrick's College, established to train the Catholic clergy. This institution, commonly known as
 [Maynooth College](https://seminary.maynoothcollege.ie/about/a-brief-history)
 was by 1850 the largest seminary in the world. The student body fluctuated between five and six hundred. This was clearly a good place to be a tailor, as there was a large pool of customers for standard outfits for seminarians and for newly-ordained priests. It was the Oxford and Cambridge culture of "town and gown", writ small.
 
@@ -83,9 +85,9 @@ Of the five surviving children, the oldest, Matthew, stayed in Maynooth and carr
 
 ### Robert Givan (1790-1878)
 
-The record allows us to reconstruct quite a detailed story about Robert Givan and his wife Jane Patterson.
+The record allows us to reconstruct quite a detailed story about Robert Givan and his wife Jane Patterson. They were married in county Tyrone, in Ireland, in 1836. They had four children. The family migrated to Melbourne in 1859.
 
-The family tree of his descendants is quite impressive.
+The family tree of Robert's descendants is quite impressive.
 
 {{< pdf src="RobertGivan.pdf"
         width="100%" height="400px" >}}
@@ -96,9 +98,29 @@ A [discussion board entry](https://irelandxo.com/ireland-xo/history-and-genealog
 surmises that the Givans were originally 
 [Ulster Plantation Scots](https://en.wikipedia.org/wiki/Ulster_Scots_people). 
 
-Robert Givan came from the
-townland of
-[Gortnacreagh](https://www.townlands.ie/tyrone/strabane-upper/cappagh-upper-strabane-portion/mountjoy-forest-west/gortnacreagh/), in the Electoral Division of Mountjoy, in the Civil parish of Cappach, in the County of Tyrone. This is just outside the hamlet of Mountjoy, itself about 10km north of the town of Omagh. He married Jane Patterson in 1836. Secondary sources give a precise date, but I have been unable to verify it. They had four children.
+The Givan family brought
+[two testimonials](GivanDocuments1858.pdf) with them, which have survived.
+
+The first testifies their marriage:
+
+>These are to certify that on the 29th day of August 1836 Jane Patterson of Fernaghandrum was married to Robert Givan of Gortnacreagh according to the form of marriage of the Presbyterian Church by the Rev Archibald Armstrong late Presbyterian Minister of Clogherny and in the presence of Mr Matthew Moore of Ballyhasky and Mr John Patterson of Fernaghandrum.  
+Joseph MCasker  
+Presbyterian Minister  
+24 September 1858
+
+Here
+[Gortnacreagh](https://www.townlands.ie/tyrone/strabane-upper/cappagh-upper-strabane-portion/mountjoy-forest-west/gortnacreagh/) is a townland, in the Electoral Division of Mountjoy, in the Civil parish of Cappach, in the County of Tyrone. This is just outside the hamlet of Mountjoy, itself about 10km north of the town of Omagh.
+[Fernaghandrum](https://www.townlands.ie/tyrone/clogher/clogher/cecil/fernaghandrum/) is a townland in the County of Tyrone, some 10km south-east of Omagh.
+[Clogherny](https://www.townlands.ie/tyrone/clogherny/) is a parish between Omagh and Fernaghandrum.
+[Ballyhasky](https://www.townlands.ie/donegal/raphoe-north/allsaints/castleforward/ballyhasky/) (if I have transcribed it correctly) is a townland in the neighbouring county of Donegal.
+
+The second testifies their good standing as Presbyterians:
+
+>This is to certify that Mr Robert Givan and family are respectable members of the Presbyterian Congregation of Cross Roads near Omagh in connexion with the General Assembly of the Presbyterian Church of Ireland and our heartfelt prayers and wishes are for their own and their family's prosperity spiritual and temporal in the land of their adoption, and may Providence preserve and convey them in health and in safety to the place of their destination.  
+Dated at Cross Roads near Omagh this 1st October 1858.  
+John Hamilton.
+
+There is a Presbyterian church in Mountjoy, at the junction of two main roads.
 
 The family emigrated to Victoria in 1859. We have the
 [passenger list](https://prov.vic.gov.au/archive/3B0DE06F-F96C-11E9-AE98-4BA0F0071BF0?image=230#) for the ship *Greyhound*. They are half-way down the second page, as
@@ -119,11 +141,6 @@ The *Argus* of 10 January 1859 reported
 >January 9  
 Greyhound, Black Ball ship, 1,412 tons, John Davies, from Liverpool October 9. Passengers—cabin : Misses Young (2), Miss Hatchell, Sir E. Poole, Bart. ; Messrs. Smith, Burke, J. Farmer, Miller, Goode, Beggs, Reddeth ; and 310 in the intermediate and steerage. Mackay, Baines, and Co., agents.
 
-It is clear that the family were strong Presbyterians. Trish Meldrum provides the following letter of introduction:
-
->This is to certify that Mr Robert Givan and family are respectable members of the Presbyterian Congregation of Cross Roads near Omagh in connexion with the General Assembly of the Presbyterian Church of Ireland and our heartfelt prayers and wishes are for their own and their family's prosperity spiritual and temporal in the land of their adoption, and may Providence preserve and convey them in health and in safety to the place of their destination.  
-Dated at Cross Roads near Omagh this 1st October 1858.  
-John Hamilton.
 
 The family lived in South Yarra. Rate books give us the following information:
 
@@ -143,7 +160,26 @@ Robert rented the first property, but is listed as the owner of the second prope
 South Yarra borders the 
 [Royal Botanical Gardens Victoria](https://en.wikipedia.org/wiki/Royal_Botanic_Gardens_Victoria). The site was chosen in 1846, and were well underway in the 1860s. Perhaps Robert Givan worked there as a gardener. I take that the occupation of "gentleman" meant that he was no longer working and was living, presumably, on his investments.
 
-His wife Jane died in 1862. Robert would have brought up the two younger girls, who were barely teenagers when Jane died. His children married in 1865, 1867, 1870 and 1881, and presumably lived at home until they married. Robert himself died in 1878, at the remarkable age of 88.
+His wife Jane died in 1862, after only three years in Melbourne. We have a
+[brief note](JanePattersonDeath.pdf)
+by her daughter Jane:
+
+>Grandfather Patterson's crest is two eagles (back to back).  
+My mother died on Sunday morning at 3 o'clock November 29 1862
+of sunstroke one weeks illness. At Davis St., South Yarra.
+
+Robert would have brought up the two younger girls, who were still teenagers when Jane died. His children married in 1865, 1867, 1870 and 1881, and presumably lived at home until they married. Robert himself died in 1878, at the remarkable age of 88.
+
+Sheila's collection includes a curio, namely, a
+[nice example](Patterson.pdf) of a 
+[Victorian Valentine card](https://fiveminutehistory.com/valentines-day-in-the-victorian-era/).
+It seems to be addressed to
+
+>Miss A Patterson  
+Clogher
+
+Here [Clogher](https://www.townlands.ie/tyrone/clogher1/) is the civil parish containing Fernaghandrum.
+It does not carry a postage stamp, so predates the modern postal era (1840). It may have been hand-delivered. The logical conclusion is that it was sent by Robert to Jane, before their marriage.
 
 ## Great-Grandparent Generation
 
@@ -238,7 +274,7 @@ The *Argus* of 21 January 1901 reported
 
 We have his
 [will](https://prov.vic.gov.au/archive/295FB593-F539-11E9-AE98-35EC1C8BBD79?image=1#).
-He left the considerable sum of £8500, He left a property portfolio, including the "General Gordon Hotel" in Brunswick Road, Fitzroy, split carefully between his wife and his sons. In the probate documentation he is described as "William Sullivan, Gent". I take this to mean that he had retired, and lived on his investments.
+He left the considerable sum of £8500, He left a property portfolio, including the General Gordon Hotel in Brunswick Road, Fitzroy, split carefully between his wife and his sons. In the probate documentation he is described as "William Sullivan, Gent". I take this to mean that he had retired, and lived on his investments.
 
 Margaret's bachelor brother Patrick came to live with her after her husband died. Patrick died in 1913 and Margaret died in 1931 at the age of 90.
 
@@ -263,32 +299,105 @@ We have
 
 - an [article](http://nla.gov.au/nla.news-article146022337) in *Table Talk* of 10 May 1889, that provides a biographic summary to that date.
 
+- a [profile](http://nla.gov.au/nla.news-article146597702) in *Table Talk* of17 October 1901, in its series a *Anecdotal Photographs*, no. XIX.
+
+This profile attests:
+
+>Among the most prominent of public men who have attained municipal, though not yet parliamentary distinction, may be classed John M'Mahon, the popular ex-Mayor of Fitzroy. Though the sphere of his operations has been limited to local requirements, nevertheless he has succeeded in impressing his individuality on a much larger area, and it is safe to say that few men are more intimately known in Melbourne.
+
+It gives a generous character assessment:
+
+>John M'Mahon needs little introduction to those who are at all acquainted with the public men of Melbourne. Few indeed are better known than the genial, rollicking Irish man, who retains the best characteristics of this energetic race. What does it matter if all his opinions are not agreed to? what does it matter though he insists on them with true Celtic exaggeration ? Everyone must recognise the sincerity and enthusiasm of the man, who always fights fairly and squarely, without fear or favour. John M'Mahon has not reached middle age, but he still retains all the fire of his youth. He has a rich flow of language, and a still richer flow of humour; he has travelled much, and has read more; he has a distinctly original personality; and though he has accomplished much, there is every probability that he will accomplish still more.
+
+It provides a brief financial summary:
+
+>For the first nineteen years of his business career he made satisfactory financial progress. During the whole period he never renewed or discounted any man's bill or forfeited money payments. With Mr. Sam Lyons and Sir George Turner (now Treasurer of the Commonwealth), he made many speculations in the land boom, among others building his mansion house in Alfred Crescent. However, he eventually lost the savings of a lifetime, which were considerable, and to-day he stands practically in the same position as when he first landed in Victoria. But Mr. McMahon faces adversity squarely, and his Irish temperament admits of no defeat.
+
+It provides several personal anecdotes.
+
+>Mr. M'Mahon takes a great pride in his library. "I never part with a book," he says, "and I have all the works I bought in early youth. I have never bothered about novels, and though I have a fairly wide selection of literature, I have not a single yellow back on the shelves. I believe that I possess the best Ruskin library in Victoria, and my favourite studies are history, social science, travel and poetry." Lawrence Sterne is one of Mr. M'Mahon's greatest favourites, and at a municipal meeting, after some discussion, he told of the origin of a "cock and bull" story which occurs
+in Sterne. "Adam Lindsay Gordon is Australia's best poet," says the ex-Mayor, who is never tired of quoting the dashing
+lines of the melancholy Englishman who
+interpreted the spirit of the Australian bush
+so sympathetically. Mr. M'Mahon says
+that sometimes, after chapel on Sunday, he will sit by a window and read for about twelve hours at a stretch, sometimes forgetting even his meals.  
+His only other hobby is angling, and he is an enthusiastic member of the Anglers' Club. He is content to sit all day, by a river's side, provided he only gets an occasional
+nibble.
+
+The following is now regarded as rather hair-raising, but would not have been so regarded at the time:
+
+>Mr. M'Mahon holds decided views on the subject of a "White Australia." He points out the enormous increase of the Black race in America, and predicts a war of race in the future. He indicates their offences against womanhood, their cannibalism and unbridled passion. "How can anyone who would not allow his own daughter to marry a Black desire anyone else's daughter to do so ?"
+
 The year 1889 is a good time to take stock of John McMahon.
 
 John, an Irish Catholic, married Jane Givan, who had been brought up as an Irish-Scot Presbyterian. This was a "mixed marriage", and usually discouraged by both family and church. The fact that John's family was back in Maynooth and that only Jane's father was still alive (at the age of 80) would have minimised the family objections. The churches were finessed by having two marriage ceremonies. One, according to the rites of the Catholic Church,  was in St. Mary's Church, St. Kilda and one, according to the Rites of the Presbyterian Church, was in Robert Givan's house in South Yarra. It is not clear to me that the two priests were aware of the arrangement. Two Certificates of Marriage were filled out, surely not what the Victoria Legislature had in mind. John and Jane's ages on one record were slightly different to their ages on the other. Was this to muddy the record trail a little?
 
 By 1889 Jane had given birth to nine children, first seven girls and then two boys. Two girls had died of diphtheria in 1876, aged three and one.
 
-His primary commercial activity was a tailoring business in Fitzroy. His main passion was local politics, and he was elected to the Fitzroy Council in xx and was Mayor for 1881-1883. Both were covered in the
+His primary commercial activity was a tailoring business in Fitzroy.
+The size of this business is indicated by the following report in
+the *Age* of 7 January 1879:
+
+>The annual picnic given by Mr. John M'Mahon, Fitzroy, to his employees, took place on Thursday, the 2nd January, at Mordialloc. The company numbered over twenty-five. Cricket, dancing and other outdoor amusements were freely indulged in. The company returned to town by the half-past ten train, having thoroughly enjoyed themselves. 
+
+His main passion was local politics, and he was elected to the Fitzroy Council in 1877 and was Mayor for 1881-1882. Both were covered in the
 *Fitzroy City Press* of 8 September 1883:
 
->Visitors of Brunswick-street would lose nothing by giving a look at Mr. J. McMahon's window, Victoria House. It contains a very fine show of tweeds, coats, ings, scarves, ties, hats, studs, cricketing pants, braces etc., and is most artistically decorated. At night his massive and handsome chandelier lends a very pretty appearance to the display.
+>Visitors of Brunswick-street would lose nothing by giving a look at Mr. J. McMahon's window, Victoria House. It contains a very fine show of tweeds, coatings, scarves, ties, hats, studs, cricketing pants, braces etc., and is most artistically decorated. At night his massive and handsome chandelier lends a very pretty appearance to the display.
 
 >The arrangement for a presentation to Cr. McMahon have now been completed, and, we are glad to announce, most satisfactorily. A really magnificent gold watch, chain and locket have been purchased, valued at £110, and will be presented on Thursday evening next. The watch, which is a Waltham one of the finest description, is jewelled in every hole, with chronometer stop movement . The chain is of 18 carat gold, and weighs about six ounces. The locket has been specially made for the occasion, and raised on one side is the monogram of the recipient, whilst in the obverse an emerald has been set. Altogether the presentation is one that any man might feel honored in receiving, and worthily marks the esteem in which ex-Cr. McMahon's past services are hold by many prominent citizens.
 
 He had in fact lost his seat of the Council, due largely to a whiff of secularism (he being an Irish Catholic). He went out in style, giving a lavish dinner to his supporters. This was
-[reported in detail](http://nla.gov.au/nla.news-article66454459) in the loyal Fitzroy City Press of 18 August 1883. The dinner featured jeroboams of *Creme de Bouzy*, perhaps the first Australian champagne. Brickbats were thrown at the *Age* newspaper, which was regarded as strongly anti-Irish.
+[reported in detail](http://nla.gov.au/nla.news-article66454459) in the loyal *Fitzroy City Press* of 18 August 1883. The dinner featured jeroboams of *Creme de Bouzy*, perhaps the first Australian champagne. Brickbats were thrown at the *Age* newspaper, which was regarded as strongly anti-Irish.
 
 In the same year he was instrumental in the foundation of the
 [Fitzroy Football Club](https://www.fitzroyfc.com.au/latest-news/celebrating-140-years-of-fitzroy-football)
 and was the first club president for the period 1884-1887 (a signal achievement in Melbourne terms). Fitzroy was merged into the Brisbane Lions.
 
-In 1888 he regained his seat on the Fitzroy Council, and again gave a dinner for his supporters (this time in the Temperance hall, sans champagne). The
+In 1888 he regained his seat on the Fitzroy Council, and again gave a dinner for his supporters (this time in the Temperance Hall, sans champagne). The
 *Mercury and Weekly Courier* of 24 August 1888 reported the speeches, which included:
 
 >After the usual loyal toast had been proposed and honored, Cr. McMahon proposed "Continued prosperity to Fitzroy." The prosperity of Fitzroy during the last ten years was remarkable. He remembered well about sixteen or seventeen years ago chasing a hare on the very spot where the Temperance Hall stood. Warming's Hotel was then spoken of as being in the far North. That big hotel, the Park View, was offered to him (Cr. McMahon) at a rental of 10s. per week, and a guarantee that if he took a lease of it for five years he could have the first year's tenure without payment. Well, later on that hotel was sold for £1200, then it changed hands a few years afterwards for £12,000, and now £20,000 would be refused for it. (Cheers). All this only showed how the district had been going forward. Land had increased wonderfully in price, and he trusted that the progress of the district in the future would be equal to that of the past. (Cheers).
 
-The land boom of the eighties clearly had everybody excited, as there was easy money to be made.
+The land boom of the eighties clearly had everybody excited. John McMahon's activities can be identified, at least partially.
+
+In a brief
+[obituary](http://nla.gov.au/nla.news-article242506696) the
+*Herald* of 2 April 1918 tells us
+
+>In the land boom time Mr M'Mahon, in conjunction with the late Mr Samuel Lyons (Lyons and Turner, solicitors), placed a number of properties, which they had acquired, on the market. These properties were
+mostly about Fairfield, Northcote and adjoining districts, and when they were sub-divided and offered for sale, attracted considerable attention.
+
+A roving columnist for the *Fitzroy City Press* of 24 October 1885 relates an auction of land by McMahon and Lyons. 
+
+>AN AFTERNOON AT A LAND SALE, " What is there in a name" someone has asked. Well, there is a good deal, and one that I have seen recently struck me as peculiar. On the hoardings, on placards, on handbills, in advertisements, cropping up before me where ever I went, I came across "Woolton Park."  
+I resolved to see what there was attractive in the name of Woolton, and accordingly I volunteered as an inside passenger in the comfortable four-horse drag provided by the vendors. This with about half a dozen other vehicles, on the day of sale drove round Fitzroy, Carlton, and Melbourne, and to the ground by way of the Heidelberg Road and High-street, Northcote. As we slowly climbed Rucker's Hill a fellow passenger commenced to distant upon the wonderful transformation which the new Merri Creek bridge will effect. Imagine, he said, "a straight line from Preston, yes, from Whittlesea to Melbourne. Imagine all hills done away with. Imagine a new city, the centre of which is Woolton Park and Thornbury Park. Imagine people locking to the most salubrious spot near Melbourne, and you will get an idea of what will follow on the heels of the new bridge." "You seem to think a lot of that bridge, my friend," I said. "I should rather think so. That is what's bringing me out today. I can see that the bridge and the township which comes within fifty yards of the bridge, are going to make the district over the creek. I expect to get some of this Woolton Park land for about 30s a foot, and I would like to know where you will buy land within a similar distance of Melbourne for anything like the money." "Hold hard," I cried, " don't sing the praises of the locality so loud." "Have you ever seen the place" he asked? "Never," I answered, with which he was off again, and in a few moments he was in the midst of a glowing description of the gentle slope, the magnificent drainage, the splendid depths, the frontages to St. George's Road and to High street, the grand views to be obtained from the crown of the hill, the enhancement of value that would ensue from the making of the Whittlesea railway, which passes beside the land, in close proximity to which the station is to be, and certain other advantages possessed by the famous Woolton. "Ah,"I remarked, sceptically, "you seem to take a great interest in this land." "I do take an interest in it. I know a good thing when I see it, and I mean to be in it if I can. I am one of those who have suffered by the neglect which this district has experienced all along from the Government, and I am glad to see the revolution which is now taking place. I want to make up for lost time. too, and I think buying this cheap land the best way of doing it. It's bound to rise, because it is now at its lowest ebb. The advantages which it will shortly have are only beginning to be appreciated, and do not command anything like the value which they will have before very long." The end of this speech brought us to the ground, and I may say for the benefit of my readers that my friend afterwards bought no less than ten lots, thus fully confirming his opinion by his action.  
+On the ground I found a fine booth erected, with the flag of Messrs Langridge and Son, the auctioneers, proudly floating overhead. The vehicles discharged their loads with remarkable rapidity, and with an equal haste the crowd made for the booth. "Why all this hurry," I queried. "Lunch and whisky," laconically explained a tall, lank individual, as he dived under the canvas. The way those sandwiches and liquor disappeared was truly awful, and the first ten minutes were devoted to the caterer with a singleness of purpose which earned my unqualified admiration. Nothing like a contented stomach for making a contented mind, I moralised, and the arrangement no doubt is a happy one for all concerned.  
+Looking round. I espied the two vendors, Mr. John M'Mahon and Mr. S. Lyons. Mac--, his impulsive nationality coming to the surface under the influence of the occasion, was beaming all over his countenance; evidently he anticipated a good sale. "Don't spare the whisky, boys," he cried. " Give the land a good soaking," adding, sotto voice, "the harvest will be all the better for it." Lyons, complacent and phlegmatic, sauntered about, and took things comfortably.  
+In a little while the Hon. G. D. Langridge, who conducted the sale in conjunction with Messrs Bliss and Perryman, mounted the rostrum, and with a few short taps of his hammer secured attention. The assemblage immediately occupied the seats provided, and I found there was an excellent attendance. The auctioneer rapidly got through the conditions of sale, and commenced the actual selling.  
+On Saturday afternoon last he realised £6680 for the vendors, which was not a bad three hours' work. In securing this result he had the active assistance of one of the vendors, the irrepressible M'Mahon, letting his voice be heard from time to time with no uncertain sound. Now in one corner, now in another, he was to be seen, expostulating, cajoling, chaffing, tempting, and explaining, his hands going as well as his tongue ; sometimes his whole body on the move at once, as he indignantly denied something, or in persuasive tones sketched the advantages of the site, the easiness of the terms, or the sure prospect of a profit to the buyers. I thought as I watched him he has mistaken his vocation. He would make a grand auctioneer, for I verily believe he would persuade the handle off a saucepan.  
+The crowd was very good-humored, and the bidding pretty brisk. The appearance of the ground, and the fact that the roads had been formed, and one of them partly metalled (since entirely done) seemed to satisfy the buyers that the investment was a safe one, and the lots were disposed of at very satisfactory prices to the vendors, but still at figures which give purchasers ample opportunity of making money. The frontages to High-street brought from £3, those in St. George's-road from £3 5s., whilst those in Woolton Avenue and Shaftesbury Parade realised from £2 to £1 8s per foot. Twenty-eight shillings was the lowest price taken, and some laughter was created by the firm manner in which the vendor refused 27s 6d for the three final allotments, which were passed in by the auctioneers, though they were afterwards sold before the booth was cleared. In a few minutes the vehicles were filled, whips cracked, and we were off again.  
+If my readers have any desire for a little mild excitement, some very fair fun, coupled with the chance a cheap lot of land; let them go out to the sale at Woolton Park this afternoon. They can get a ride out and back, as I did, and a lunch into the bargain.
+
+An
+[article](http://nla.gov.au/nla.news-article65648098) in the *Fitzroy City Press* of 5 December 1885 gives a summary of the project. McMahon and Lyons paid 
+£12,000 for the land in September 1885, and had sold the great majority of the subdivided blocks for double that amount. Even with the overheads of whisky and sandwiches for lunches, a good profit would have been realised.
+
+
+In March 1886, John McMahon was
+[giving a champagne lunch](http://nla.gov.au/nla.news-article65648398)
+to celebrate his purchase of Job Smith's estate on the banks of the Merri Merri Creek. It seems that he provided some of this land, at a very cheap price, to the [Little Sister's of the Poor](http://nla.gov.au/nla.news-article193394428).
+
+The *Fitzroy City Press* of 3 September 1887
+
+>Another extensive land purchase has been made in Northcote by Messrs McMahon and Lyon's, the Hon. J. Beaver's estate of between 30 and 40 acres having changed hands to them yesterday. This estate lies between High-street and St. George's-road, which is at present being very substantially made, and will thoroughly open up the district. The estate has a street on every side, and is one of the most valuable blocks in Northcote. It will shortly be offered to the public in building lots, and should find ready buyers. This is another instance of the enterprise of Messrs McMahon and Lyons's, and of their confidence in the district.
+
+With remarkable efficiency, the land was being 
+[put to auction](http://nla.gov.au/nla.news-article65650388)
+some six weeks later. The sale was apparently a success:
+
+>Mr F. L. Flint reports having held a sale this afternoon of the property known as the "Heart of Northcote" (lately the residence of the late Mr. F. L Beaver), under instructions from Messrs M'Mahon and Lyons. Two thousand persons were present, and 159 lots were readily sold at the following prices:
+High street, £10 to £13 10s. per foot, St George's road, £4 17s 6d to £8 per foot. Beaver and Gladstone streets, Beaconsfield avenue, 47s., to 62s. 6d. The total sale was £18,572 17s 1d.
 
 As well as property in North Fitzroy, he had built a country retreat
 at [Gembrook](https://en.wikipedia.org/wiki/Gembrook), some 65km south-east of the Melbourne CBD. The
@@ -322,14 +431,14 @@ The *Argus* of Saturday 11 May 1889 reported, inter alia
 
 >The University Senate has again discussed and rejected the proposal that Greek should be no longer a compulsory subject at the University, and has
 thereby given in its adhesion to the continued reign of the classics.  
-The R.M.S.S. Orient, of the Orient line. Captain J Ridler, left for London yesterday with mails, passengers freight, and specie. The Orient has a full list of passengers, and took away specie of the value of £180,000
+The R.M.S.S. Orient, of the Orient line, Captain J Ridler, left for London yesterday with mails, passengers, freight, and specie. The Orient has a full list of passengers, and took away specie of the value of £180,000.
 
 I, for one, had no idea that Greek was a compulsory subject at university. I thought that some Latin was required for entry.
 The "Orient" was an
 [interesting ship](https://collections.museumsvictoria.com.au/articles/10734).
 When launched in 1879 it was the second-largest ship in the world (after the financially unsuccessful [Great Eastern](https://en.wikipedia.org/wiki/SS_Great_Eastern)). It was the first successful steamship on the Australian run. It initially had three masts for sails to augment the steam power, although these were eventually done away with. By the time the McMahons sailed on her, she had electric light. The full
 [Lloyds Register](https://hec.lrfoundation.org.uk/archive-library/ships/orient-1879-oric)
-documentation is available. The days of sailing ships, for passenger purposes, was rapidly coming to an end. 
+documentation is available. The days of sailing ships, for passenger purposes on the Australia run, was rapidly coming to an end. 
 
 An indication of John McMahon's energy is given by the fact that he committed to writing a detailed report of his trip for episodic publication in the *Fitzroy City Press*. The whole series was subsequently published as a book: "Over The Wide Waste of Waters Blue". 
 
@@ -385,9 +494,9 @@ On his return he resumed his political interests, and was mayor of Fitzroy for a
 [Avonmore](https://vhd.heritagecouncil.vic.gov.au/places/93866), at
 75 Alfred Crescent, North Fitzroy. This included a large stained-glass window that John had imported form Ireland. Apparently he imported two windows (in case one was broken in transit).
 
-And then the financial crash of 1893-1895 hit. A number of the banks and lending associations in Victoria went under. John lost his mansion in North Fitzroy and his rural retreat in Gembrook. The family moved back to his tailoring premises and lived above the shop (though he still named his residence as "Victoria").
+And then the financial crash of 1893-1894 hit. A number of the banks and lending associations in Victoria went under. John lost his mansion in North Fitzroy and his rural retreat in Gembrook. The family moved back to his tailoring premises and lived above the shop.
 
-It seems clear that he lost all his investment land holdings, but perhaps he technically did not go bankrupt. He regularly advertised his tailoring business for the next decade, so it must have been his main source of income. It was enough to educate his family of eight children. The girls were educated to Matriculation level at the Academy of Mary Immaculate, in Nicholson Street, North Fitzroy, while the three boys were educated to Matriculation, at St Patrick's College, East Melbourne. They all then graduated in Medicine from the University of Melbourne. For parents who finished school at fourteen or so, this was an impressive commitment to realising the opportunities of education. For other the families in this overall narrative, university education was still two generations away.
+It seems clear that he lost all his investment land holdings, but perhaps he technically did not go bankrupt. He regularly advertised his tailoring business for the next decade, so it must have been his main source of income. It was enough to educate his family of eight children. The girls were educated to Matriculation level at the Academy of Mary Immaculate, in Nicholson Street, North Fitzroy, while the three boys were educated to Matriculation, at St Patrick's College, East Melbourne. The boys all then graduated in Medicine from the University of Melbourne. For parents who finished school at fourteen or so, this was an impressive commitment to realising the opportunities of education. For other of the families in this overall narrative, university education was still two generations away.
 
 He never recovered his Fitzroy mansion. It was taken over by the Salvation Army and established as a "Foundling Home and Refuge" called
 [The Haven](https://www.findandconnect.gov.au/entity/the-haven/). It closed in 1988 and is once again a
@@ -399,11 +508,11 @@ He did recover his rural retreat of Kincora. The
 
 >A large gathering of prominent gentlemen took place on Tuesday evening last at the Fitzroy Town Hall for the purpose of tendering a farewell social or smoke night to Mr John McMahon, J.P., who, after a residence of 35 years in Fitzroy, has decided to follow up rural pursuits.
 
-In the 1903 Electoral Roll, John and Jane are resident at 115 Brunswick St Fitzroy, as "cutter" and "home duties", along with Etheldreda (operator) and Margaret Mary (accountant).
+In the 1903 Electoral Roll, John and Jane are resident at 115 Brunswick St., Fitzroy, as "cutter" and "home duties", along with Etheldreda (operator) and Margaret Mary (accountant).
 In the 1906 Electoral Roll John and Jane are listed as resident at Pakenham, both of "independent means".
 
 Meldrum relates that the family moved back to Toorak in 1907-1908. Maybe rural life didn't suit a man with as many interests as John.
-In the 1914 Electoral Roll, they are resident at 2 Evelina Rd. John is a "valuer", Jane is "home duties", Eily is a "clerk", Etheldreda is a "civil servant", Frank and Leo are "students".
+In the 1914 Electoral Roll, they are resident at 2 Evelina Rd., Toorak. John is a "valuer", Jane is "home duties", Eily is a "clerk", Etheldreda is a "civil servant", Frank and Leo are "students".
 
 His interests ran to early Australian History. He committed his studies to print in the *Fitzroy City Press* over many instalments in 1910-1912, under the title "Sketches of the Early History of Australia 1787-1850". Some of it was published as a book in 1913, under the title "Fragments of the Early History of Australia, "
 It was given given an excellent
@@ -421,12 +530,129 @@ He died in April 1919, at the Uxbridge House private hospital in Fitzroy. The ev
 We have his 
 [will](https://prov.vic.gov.au/archive/75786329-F555-11E9-AE98-BF49F75AF877?image=2#), written several days before his death. He simply leaves everything jointly between seven of his children. His eighth child, Geraldine, had taken the cloth with the Presentation Sisters and, presumably, was not in need of earthly treasure.
 
-The [probate](https://prov.vic.gov.au/archive/3DCF9304-F22B-11E9-AE98-91A6468EE98D?image=1#) documents show that he had largely disposed of his assets. He owned no house or furniture. He owned several vacant blocks in Gembrook and Marybinong (partly mortgaged), some personal effects, and his beloved library of Australiana (which he was in the process of donating to Newman College).
+The [probate](https://prov.vic.gov.au/archive/3DCF9304-F22B-11E9-AE98-91A6468EE98D?image=1#) documents show that he had largely disposed of his assets. He owned no house or furniture. He owned several vacant blocks in Gembrook and
+Maribyrnong (partly mortgaged), some personal effects, and his beloved library of Australiana (which he was in the process of donating to Newman College).
 
 
-[land boomers](https://collections.museumsvictoria.com.au/articles/2676)
+#### The Heart of Preston Estate Company Ltd.
 
-[pathology of insolvents](https://www.austlii.edu.au/au/journals/AUJlLegHist/2004/5.pdf)
+This company was established in 1888, at the height of the land boom, and was liquidated in 1894, in the crash that followed the boom.
+It brought farm land in
+[Preston](https://en.wikipedia.org/wiki/Preston,_Victoria)
+(about 9km north-east of the Melbourne CBD) and sold it as subdivided allotments.
+John McMahon and Samuel
+Lyons owned half the shares, and were directors. It seems to be where he lost most of his money. The details are an interesting view into the Melbourne of that time. It involves some of the notorious land boomers.
+
+It gets a mention in Michael Cannon's "Land Boomers" (chapter 34):
+
+>Two boom companies which flew the Munro and 
+[Baillieu](https://adb.anu.edu.au/biography/baillieu-william-lawrence-willie-5099) flag lost large amounts of money for the partnership: The La Rose Land Co Ltd and The Heart of Preston Estate Co Ltd. Mention either name to a "specker" of the period and he would turn away with an ashen face.
+
+> La Rose was incorporated in 1888 with capital of  £64,000, to buy from Barnett Altson 135 acres of land in the Parish of Jika Jika. Altson's title to the land was converted into 16,000  £1 shares in the company. After its liquidation in 1892, Altson got back precisely  £18 13s 8d as his first and final dividend.
+
+>Heart of Preston was formed in October 1888 by the Munro-Baillieu-Fink group to take over 87 acres of land at Preston owned by 
+[Edward Latham](https://adb.anu.edu.au/biography/latham-edward-3997) (W.L. Baillieu's father-in-law). Latham, Baillieu, and 
+[B.J. Fink](https://adb.anu.edu.au/biography/fink-benjamin-josman-3516) each held 600 of the  £10 shares, and the firm of Munro and Baillieu held another 400. By a judicious process of writing up the value of the unsold blocks, the company was able to claim a £33,000 profit in 1889, and pay dividends accordingly. When it collapsed three years later, not a penny remained to pay off the creditors. A.S. Baillieu acted as liquidator.
+
+The company sprang into action soon after its incorporation. There were four sales on successive weekends. 
+The *Argus* of 17 September 1888 reported on the first sale (15 September):
+
+>COMMERCIAL INTELLIGENCE.  
+Mr F L Flint reports having sold, in conjunction with Messrs Patterson and Sons and Munro and Baillieu, on behalf of Messrs. M'Mahon and Lyons, the Heart of Preston Estate. The whole of the 161 lots were quickly sold at the following prices: High street, from £16 to £23 10s. per foot¡ Station street £3 2s 6d to £3 15s per foot, William street and West-street from £3 to £3 9s 6d per foot. Grand total, £30,679 3s. 6d.
+
+The advertisement for the second sale included the claim:
+
+>that our leading politician and Premier of the colony, Mr. Duncan Gillies, whilst debating the question of the direct route for the Preston railway to the Flinders street station, freely admitted that all property in the immediate vicinity of this line would be increased in value to the extent of 25 per cent, at
+least.
+
+With terms of "£5 DEPOSIT, with Balance up to Two Years, At 6 Per Cent."
+who could resist.
+
+An informal report of the third sale is provided
+[here](http://nla.gov.au/nla.news-article241512811).
+Cabs were provided for prospective buyers, as well as cigars and whisky. The reporter was of the opinion that nearly all the blocks were bought as a speculation for later resale, all on the £5 deposit.
+
+The last advertisement (in the *Argus* 26 November 1892, four years later) seems to be for a fire sale. It is not clear that they made any sales.
+
+>SATURDAY, DECEMBER 17  
+HEART of PRESTON  
+PATTERSON and SONS have received instructions
+from the directors of the Heart of Preston Estate Company Limited to SELL by AUCTION
+Some of the remaining allotments, to close
+accounts.  
+An upset price of 25s. per foot has been fixed by the directors in order to see all classes an opportunity of securing desirable residential allotments in the light of this beautiful and healthy suburb.  
+The terms are exceptionally liberal only £2 10s. deposit on each allotment balance extending over a period of two years at 5 percent. Size of allotments 17ft frontage by a depth of 113ft to a right-of-way 10ft.
+wide.  
+This estate is within five minutes walk of the Murray-road railway station, and adjoins the shire site upon which the municipal buildings are to be erected (the design having been adopted by the council).  
+Good drainage. Splendid sandy soil for fruit or flower gardens.  
+One allotment at the upset price only costs £21 5s. and the payment is made so easy that a few shillings each week saved would soon pay for a block and be money well invested.  
+When the proposed direct railway through Fitzroy is completed it is confidently expected that property in this district will treble itself in value.  
+Plans at the office of Patterson and Sons, auctioneers, 475 Collins street (The Olderfleet)
+
+A notice of liquidation for the company appeared in the
+[Law Notices](http://nla.gov.au/nla.news-article193427062)
+of the *Age* of 26 May 1893.
+
+The company owed money to the 
+[Federal Bank](https://en.wikipedia.org/wiki/Federal_Bank_of_Australia), which itself went bust in a spectacular fashion, closing its doors on 30 January 1893. The managing director of the Bank was
+[James Munro](https://adb.anu.edu.au/biography/munro-james-4271), father of Donald Munro (the Munro in the real estate firm of Munro and Baillieu).  In reporting the bank accounts 
+the *Argus* of 7 October 1893 told us:
+
+>Heart of Preston Estate Company Limited, £13,700. This account was opened in early part of 1889 with a limit of £5,000, against
+bills for collection unsupported, the advance increasing from time to time, and in June 1890, when the overdraft was £21,039,
+security was lodged, consisting of deeds of about 30 acres of land at Preston and bills for collection. About £15,000 was also then held representing land sold. The unsold land then held by the bank was valued by the company at £36,000. A great portion of the bills given by the various purchasers were not met, and in nearly every case those that have met their bills have taken titles. Mr. Arkle valued the land still held by the bank (unsold) in January, 1893, at £20,458. The company is now in liquidation ; shareholders worth little or nothing. The directors were Samuel Lyons, John M'Mahon and others. W. L. Baillieu was a shareholder, and the office of the company was originally at his office, one of his brothers acting as secretary.
+
+The following letter from John McMahon to the *Argus* of Tuesday 10 October 1893 clarifies things a little:
+
+>Sir. Our names being mentioned in connection with the Heart of Preston Estate Company, it may be well to state a few facts in connection therewith. The land belonging to the company cost £60,000. About one third was sold, leaving the balance to be provided to get the title about £15,000. At the time this was advanced the unsold land was valued at £40,000, and good bills for at least £10,000 were deposited with the title. The other facts as stated are correct. We owned half the company, and have lost over £10,000. Yours &c.,  
+SAML. LYONS  
+JOHN M'MAHON  
+Fitzroy Oct 9
+
+The "good bills" referred to would seem to be the allotments sold on £5 deposit. By now the bills were uncollectable, and hence valueless.
+
+The directors were nonetheless pursued by the Federal Bank liquidator. They gave the liquidator the title deeds, to make the problem go away.
+*Table Talk* of 9 March 1894 tells us
+
+>The liquidator of the Federal Bank of Australia,
+Mr. Priestley, has obtained the sanction of Chief
+Justice Madden, on application in Chambers, to accept a compromise offered by the Heart of Prospect
+Estate Company in respect of its indebtedness to the bank. The affidavit stated that the company
+owed the bank £15,197, secured by mortgage over land at Preston, and by promissory notes and bills of exchange. The land was valued in January of this year at £15,459. The compromise accepted was that the company would abandon its right to the equity of redemption in the land mortgaged, and in addition would transfer a small strip of land, advantageous as an easement to property. The
+company also agreed to pay to the bank £600,
+payable £400 in cash and £200 by promissory notes. The bank is to consent to an adjournment of the hearing of a petition for the winding up of the company. 
+
+John McMahon must have been grateful. He dedicated his next book to Justice Madden.
+
+What went wrong? They only sold (that is, got paid for) 30% of the land and the remainder was now worth very little.  A
+[heritage report of the Heart of Preston Estate](https://vhd.heritagecouncil.vic.gov.au/places/27346/download-report)
+tells us that few houses were built on the estate before 1920.
+A longer 
+[Darebin heritage report](https://www.darebin.vic.gov.au/files/assets/public/v/1/planning-and-building/documents/heritagestudy2007stage4volume4bprestoncentralheritageplacecitationspdf.pdf)
+tells us
+
+>Preston’s distance from Melbourne and lack of efficient transport systems isolated most of
+Preston from suburban settlement until after the First World War. Entrepreneurs took
+advantage of this isolation to set up industries that were classed as noxious - industries,
+such as tanning, wool scouring, meat processing and boiling down works that caused
+unpleasant odours and water pollution. The availability of water along the pipeline from
+the Yan Yean Reservoir was also an important incentive for these industries coming into
+the area. By the end of the nineteenth century a large number of tanneries and bacon
+factories occupied south central Preston. These industries attracted workers and the
+beginnings of an urban population amongst the small farms. The Whittlesea railway
+through Northcote and Preston, opened in 1889, and the cable tram system to the Preston
+border at Dundas Street, also encouraged a little suburban development. Although
+Preston, like the rest of Melbourne, was swept up in the land boom of the 1880s, few of
+Preston’s boom subdivisions were successful before the economic crash of the early 1890s,
+and many estates remained as open paddocks for two or three decades more.
+
+#### The Black Book
+
+John kept a small notebook, bound in black cloth, about 110 mm x 180 mm. There are about 300 pages, unruled. I have
+[scanned the contents](McMahonBB.pdf) - most of the pages are blank. John recorded the details of their children. He also recorded various
+details of the fund-raising and expenses of 
+[St Bridgid's Church, Fitzroy](https://www.melbcatholic.org/s/fitzroynorth). In his inimitable way, he was Honorable Secretary of the Parish Committee. His daughter Eily recorded the death of her parents. It was taken over by Eily's daughter Sheila, who established the births, marriages and deaths of the McMahon clan, and included various newspaper clippings. This was pre-Trove and pre-Ancestry.com. The book is now held by Sheila's daughter Kerry.
+
 
 ### Ann Givan (1838-1923)
 
@@ -565,18 +791,74 @@ Jane Givan was ten years old when she arrived in Melbourne in 1859, the youngest
 Jane had ten children, first seven girls and then three boys. Two of the girls died young (in October 1876) of diphtheria.
 
 Trish Meldrum's memoir reports that Jane was an invalid for her last three years, and lived with her medical doctor son John Joseph towards the end (presumably for in-house medical care).  She died in 1915, aged 67.
- 
+
+We have a small collection of mementos and letters that passed down from Jane, to her youngest daughter Eily, to Eily's daughter Sheila, and are now held by Sheila's eldest daughter Kerry.
+
+The first is an
+[acrostic poem](JaneGivan1865.pdf)
+written to Jane by her brother John, and dated 3 November 1865. Jane would have been 17. It shows that John had a very good hand, and indicates that they were well-educated back in County Tyrone.
+
+The second is a pair of 
+[dance cards](DanceCard1868.pdf)
+from a Grand Ball and Supper held by the St. Patrick's Society on 17 March 1868
+(St. Patrick's Day).
+
+>Tickets:- Double, 20s,; Gentleman's, 15s.; Ladies', 10s. Mr Denning and his Quadrille band has been engaged.
+
+Clearly, one corresponded to John and the other corresponded to Jane. About half their programme was taken up with each other. Jane must have kept them as a souvenir of their courting.
+
+It was the time of a significant political event. On 12 March (five days before) an
+[assassination attempt](https://en.wikipedia.org/wiki/Henry_O%27Farrell)
+was made in Sydney on
+[Prince Alfred](https://en.wikipedia.org/wiki/Alfred,_Duke_of_Saxe-Coburg_and_Gotha),
+the second son of Queen Victoria, who was making the first royal tour of Australia. The would-be assassin, James O'Farrell, self-identified as a
+[Fenian](https://en.wikipedia.org/wiki/Fenian_Brotherhood). Justice was nothing but swift. He was tried, sentenced, convicted and hanged by 21 April.
+
+The event triggered considerable feedback against the Irish-Australian community. In Sydney, the St. Patrick's Day ball was cancelled. In Melbourne, they stressed their loyalty. The third toast at the Supper was *The speedy recovery, health and happiness of Prince Alfred*. The toast was made by
+[Charles Gavan Duffy](https://adb.anu.edu.au/biography/duffy-sir-charles-gavan-3450), and
+[reported in full](http://nla.gov.au/nla.news-article5811340) in *The Argus*.
+*The Herald* of 20 March 1868 was
+[unimpressed](http://nla.gov.au/nla.news-article244959029).
+
+The third is a 
+[dance card](McMahonReturnBall1881.pdf)
+asscoiated with a *Complimentary Return Ball* on 2 August 1881. This seems to be  a ball given *by* the Fitzroy City Council *to* the mayor. It seems to follow an earlier *Invitation Ball* that was given by the mayor, perhaps at his own expence.
+
+The *Australasian Sketcher with Pen and Pencil* of 16 July 1881 reported briefly
+
+>A BRILLIANT ball was given by the mayor of Fitzroy, Mr. McMahon, in the local town-hall on July 5. 
+
+In the event the
+[return ball](http://nla.gov.au/nla.news-article65664960)
+was a great success. There were 246 guests, they enjoyed a "very excellent supper" at midnight, and after speeches returned to the dance floor until 4:00 am. The citizens of Fitzroy, it seems, didn't do things by half.
+
+Finally, we have a small collection of
+[letters](JaneGivanLetters01.pdf) written by Jane to her youngest daughter Eily. They relate various family doings, but contain not a mention of her husband John. It seems that they were estranged in some sense.
+
+The *Argus* of 21 September 1915 reported:
+
+>McMAHON. On the 18th September, at the residence of her son, John, 15 Princess street, Kew, Jane, beloved wife of John McMahon, and dearly loved mother of Margaret, Annie, Ethel, Geraldine, Eilly, John, Leo, and Frank. (Interred privately, September 20.)   
+Rest in peace
+
 ## Grandparent Generation
 
 ### Margaret Mary McMahon (1871-1951)
 
-### Annie Catherine McMahon (1871-1939)
+### Annie Catherine McMahon (1873-1939)
 
 ### Etheldreda McMahon (1877-1971)
 
+{{< figure src="NettFrankSchieblich1949.jpeg"
+           caption= "Nett, Frank Schieblich. Melbourne. 1949" >}}
+
 ### Geraldine McMahon (1881-1970)
 
-### Eily Erin McMahon (1883-1956)
+{{< figure src="NettGeraldineMcMahon1930.jpeg"
+           caption= "Sisters Nett and Geraldine McMahon. 1930" >}}
+		   
+The photograph is annotated: 8 January 1930. Near "Black Rock", NSW. 104F in the shade.
+
+### Eily Erina McMahon (1883-1956)
 
 
 {{< figure src="EilyMcMahon1919.jpeg"
@@ -592,3 +874,6 @@ Trish Meldrum's memoir reports that Jane was an invalid for her last three years
 ### Leopold Luke McMahon (1888-1957)
 
 ### Frank Fitzroy McMahon (1889-1954)
+
+{{< figure src="McMahon1936.jpeg"
+           caption= "Frank (junior), Eily, Alice (Frank's wife), Frank, Nett, (front) Peter. Lilydale, c 1936" >}}

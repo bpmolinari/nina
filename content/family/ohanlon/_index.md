@@ -15,7 +15,7 @@ His mother was born in Cavan, County Cavan, Ireland and emigrated to Victoria in
 Family tree: Michael John O'Hanlon [(fullscreen)](MichaelJohnOHanlon.pdf)
 
 
-## Great-GrandParent Generation
+## Great-Grandparent Generation
 
 ### Timothy O'Hanlon (1841-1886)
 
@@ -93,7 +93,7 @@ The *Nathalia Herald* of 4 May 1926 provided the following obituary:
 >It is with regret we have to record the demise of Mrs M. A. O'Hanlon, which occurred at her late residence, 16 Lindsay Avenue, St. Kilda, in the early morn of Tuesday, April 27th. The late Mrs O'Hanlon resided at Kotupna from 1880 to 1915, in the latter year leaving to reside at St. Kilda. Perhaps no one better known (and most favorably, too) ever lived in the Goulburn Valley. She was one of the great pioneers who with her late husband, Mr T. O'Hanlon (who predeceased her about 40 years ago), came along and accepted the hard knocks, as well as the easy ones, so familiar to the illustrious pioneers who blazed the track of this great southern land. Many are the experiences that could be related of those early days. For instance, Nathalia was then known as Barwo, and had only a few residences (if they could be called such). The Blakes, the
 Manifolds and the Kostadts were there, and a street now bears the name of each of those people, also some others who came along about the same time as the O'Hanlon family. The kangaroos, the emus and the wild horses (then named the "fizzers") roamed at large, and the Kotupna plains were a favourite place for them. Now what a transformation! A beautiful plateau from the Goulburn to the Murray in verdure and in green!  
 The late Mrs O'Hanlon did her part nobly and well. The deceased lady came from stalwart stock: the Kavanaghs from Cavan in the North of Ireland. Her father there occupied a good position, and took his share of interest in public affairs. This strain is kept well alive to-day by one of her sons, whose efforts and ambitions are known to most people around Nathalia. Again, the Kavanaghs had literary gifts, and the late Mrs O'Hanlon was a poetess of no mean order. Mrs O'Hanlon was married to the late Mr Timothy O'Hanlon at Bendigo in the seventies, and for a time they lived there, and afterwards at Top Creek, Rochester. Then her late husband selected land between Nathalia and McCoy's Bridge. The sudden death of her husband in 1886 was a great blow, and all the more so because of being left with seven children. Notwithstanding she prospered, and reared a family to manhood and womanhood that do her credit. A second great grief was the death of a daughter in 1894, but through all her spirit never failed - she worked on and succeeded against droughts, floods and other visitations.  
-The late Mrs O'Hanlon possessed a kind and benevolent disposition and many can tell of her hospitality . Every weary traveller was welcomed and "the cup that cheers" given to them. Again, she possessed the true Christian spirit of a broad tolerant christianity. A strict Catholic, she loved her church, and the Numurkah and Nathalia Catholic Churches owe much to her generosity. She most regular attendant the whole of her life.  
+The late Mrs O'Hanlon possessed a kind and benevolent disposition and many can tell of her hospitality . Every weary traveller was welcomed and "the cup that cheers" given to them. Again, she possessed the true Christian spirit of a broad tolerant Christianity. A strict Catholic, she loved her church, and the Numurkah and Nathalia Catholic Churches owe much to her generosity. She most regular attendant the whole of her life.  
 Mrs O'Hanlon has left six surviving children, viz., Mr P.D.K. O'Hanlon who lives at and owns the family homestead at Kotupna ; Mr E.G. O'Hanlon (J. L. Jeffers and Co.) The Olderfleet, Melbourne ; Mr M.J. O'Hanlon, of Elwood ; Miss Marie, who tenderly nursed he mother in her last illness ; Mrs Stevens, wife of Dr Stevens, of Gladesville, Sydney ; and Mrs M.J. Galligan, of Anthony Horden's Emporium, Sydney, whose husband is an old employee of the firm. All her children visited her prior to her death.  
 Her remains were conveyed to Numurkah by the early morning train from Melbourne on Wednesday last, and then by special train to Nathalia. Considering the short notice, a very large assemblage met and followed "all that was mortal" to the Nathalia cemetery. The pall bearers were her three stalwart sons, Mr Henry Kavanagh (nephew), and Messrs Alex. McDonell and John Broom, old friends of the family. The councillors of the Namurkah Shire were largely in attendance out of respect to her and sympathy for her councillor son. The Rev Father Murphy officiated at the Graveside, and Messrs A B. Binger and Sons had charge of the mortuary arrangements.
 
@@ -254,9 +254,9 @@ Later, the  *Age* of 11 April 1901 reported:
 >WILLS AND BEQUESTS  
 The will of William Kavanagh, late of Cavan Hotel, Fitzroy, licensed victualler, has also been lodged for probate. Testator executed his will on 5th February last year, and died on the 7th of last month. The real estate was valued at £4500, and the personal at £790, all of which was devised to the widow and children.
 
-## GrandParent Generation
+## Grandparent Generation
 
-When their father Timothy died in 1886, the seven children were brought up by thier rather indomitable mother Mary Ann, on the family farm. They existed as a family collective (somewhat like the O'Hares at Snugborough) with the three boys working the farm. The farm, enlarged over time, was divided in some way between the boys. Edward and Michael sold their shares about 1915, and set up business in Melbourne. Patrick took over the original family farm, and continued to farm.
+When their father Timothy died in 1886, the seven children were brought up by their rather indomitable mother Mary Ann, on the family farm. They existed as a family collective (somewhat like the O'Hares at Snugborough) with the three boys working the farm. The farm, enlarged over time, was divided in some way between the boys. Edward and Michael sold their shares about 1915, and set up business in Melbourne. Patrick took over the original family farm, and continued to farm.
 
 ### Michael John O'Hanlon (1878-1958)
 
@@ -437,7 +437,7 @@ Family legend has it that "grandfather crashed" in the depression.
 Perhaps the "crash" predated the Depression.
 The elements of the saga seem to be
 
-- Late 1928. Three English confidence men, John Fergus Stone, Henry Barnes and Henry Harding, came to town. They took an expensive flat, and entertained lavishly. They started by floating a local shell company. 
+- Late 1928. Three English confidence men, John Fergus Stone, Henry Barnes and Henry Harding, came to town, claiming to represent "big London investors". They took an expensive flat, and entertained lavishly. They started by floating a local shell company. 
 The *Argus* of 8 November 1928 tells us
 
 >Commercial and General Investment Trust Pty. Ltd. Registered Office, 405-407 Collins street, Melbourne. Capital £100,000 in £1 shares. Names subscribed to memorandum:- John Fergus Stone, 1 share; Henry Barnes, 1 share.
@@ -531,7 +531,7 @@ Henri Lachance
 was the priest in charge of
 [St. Francis' Church](https://www.stfrancismelbourne.com/post-1929/). From its website:
 
-> In 1929, St Francis’ Church became a eucharistic shrine in the pastoral care of the Blessed Sacrament Congregation of priests and brothers, members of the French (now international) religious institute founded by St Peter Julian Eymard (1811-1868).  
+> In 1929, St Francis’ Church became a Eucharistic shrine in the pastoral care of the Blessed Sacrament Congregation of priests and brothers, members of the French (now international) religious institute founded by St Peter Julian Eymard (1811-1868).  
 At the invitation of Melbourne’s Archbishop Daniel Mannix (1864-1963), the Congregation initially posted five priests and two brothers to St Francis’ from the United States and Canada. The pioneer group, led by 44-year- old French Canadian Fr Henri Lachance (1885-1963), arrived at St Francis’ on All Saints’ Day in 1929.  
 Almost from that moment, St Francis’ Church began to be transformed by the culture of eucharistic devotion that the Congregation transplanted to Melbourne. Exposition and perpetual adoration brought people into the church during the day. The number of masses increased and demand for confessions was sometimes overwhelming.
 
@@ -546,6 +546,14 @@ It is not every family narrative that can reference a genuine accepted miracle! 
 When he died in 1943 the *Age* of 18 September 1943 reported a simple death notice.
 
 >O'HANLON. On September 15, at Kotupna (suddenly). Patrick Dennis Kavanagh, eldest son of the late T. and M. A..O'Hanlon, beloved brother of Edward (deceased). Michael (W.A.), Cissle (deceased), Marie, Elizabeth (Mrs. Stevens, Sydney). Helena (Mrs. Galligan, Sydney). R.I.P. 
+
+I have the following obituary from the *Nathalia Herald* of 21 September 1943. this was taken from a photocopy somehow acquired by Sheila O'Hare. Only the years 1925-1929 have been digitised by Trove.
+
+>Obituary.  
+Cr. P.D.K. O'Hanlon  
+The news that Cr. Patrick Denis Kavanagh O'Hanlon had died suddenly at his residence, Kotupna, on Wednesday afternoon came as a shock to district residents, as only the previous day he had been in Nathalia apparently in good health. As far as is known, the last person to see Mr. O'Hanlon alive was Mr. Albert Rathbone, of Kotupna, who called at his residence at about 1:30 pm on Wednesday on his way onto Nathalia to deliver some eggs that Mr. O'Hanlon had ordered on the previous day. At that time, Mr. O'Hanlon was well and cheerful. Returning to Kotupna in the evening shortly after five o'clock Mr. Rathbone noticed that Mr. O'Hanlon was lying on the ground near a gig, and on investigating found that he was dead. Indications were that Mr. O'Hanlon had loaded up his gig preparatory to driving into Nathalia and had collapsed and died when about to harness up the horse.  
+The eldest son of the late Mr. and Mrs. Timothy O'Hanlon, who selected land at Kotupna in 1880, Mr. O'Hanlon was born at Kangaroo Flat in 1877. He was elected to the Numurkah shire council as one of the Moira riding councillors in 1899, and with the exception of two short breaks had been a member of the council ever since, being president in 1904 and again in 1936. Throughout his long municipal life he took a leading part in furthering many progressive moves, and it was largely through his advocacy that the Murray Valley Highway took its present route through the shire. He was a member of the executive of the Goulburn Valley and North-Eastern Council Development Association at the time of his death, and was widely known in municipal circles throughout the State. While he made municipal work his hobby, he took a leading part in many district organisations and for a long period was the Nathalia Agricultural Society's representative on the Chamber of Agriculture. He twice unsuccessfully sought to enter parliament, in 1936 contesting the Federal seat of Echuca as a Labor candidate, and on the retirement of the late Colonel Bourchier  from the State Parliament was a candidate for the Goulburn Valley seat as a Country Party representative.  
+He leaves three sisters and a brother, Mrs. Stevens and Mrs. Galligan, both of Sydney, Miss M. O'Hanlon, Melbourne, and Mr. Michael O'Hanlon, Western Australia.
 
 The *Numurkah Leader* of 21 September 1943 printed an obituary, but the page was incompletely scanned and we only have the following:
 
