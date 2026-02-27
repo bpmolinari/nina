@@ -14,12 +14,12 @@ This page
   - [Molinari](molinari)
   - [Dall'Acqua](dallacqua)
   - [Atkins](atkins)
-  - Connole
+  - [Connole](connole)
   
 - tells the stories of my wife's grandparents:
-  - O'Hare
-  - Raselli
-  - O'Hanlon
-  - McMahon
+  - [O'Hare](ohare)
+  - [Raselli](raselli)
+  - [O'Hanlon](ohanlon)
+  - [McMahon](mcmahon)
 
 It also describes a [range](gennotes) of resources.

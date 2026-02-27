@@ -14,6 +14,7 @@ His mother was born in Cavan, County Cavan, Ireland and emigrated to Victoria in
         width="100%" height="400px" >}}
 Family tree: Michael John O'Hanlon [(fullscreen)](MichaelJohnOHanlon.pdf)
 
+We have some notes put together by Sheila O'Hare, Michael John's daughter. Sheila worked some forty years ago, before any access to online indexed records. Her family stories are valuable.
 
 ## Great-Grandparent Generation
 
@@ -73,6 +74,11 @@ As it was God's holy will to take him o'er,
 I hope to meet him in that blessed land where we will part no more.  
 May his soul rest in peace.
 
+He did not leave a will, and his wife had to apply for a
+[grant of administration](https://prov.vic.gov.au/archive/4FA000A7-F1D3-11E9-AE98-2113227F1CC9?image=1#). His estate was
+[assessed for probate](https://prov.vic.gov.au/archive/19098A8D-F1DE-11E9-AE98-078080E2F131?image=1#).
+
+
 ### Mary Ann Kavanagh (1850-1926)
 
 Mary Ann Kavanagh was born in the town of
@@ -90,7 +96,7 @@ Family tree: Edward Kavanagh [(fullscreen)](EdwardKavanagh.pdf)
 
 The *Nathalia Herald* of 4 May 1926 provided the following obituary:
 
->It is with regret we have to record the demise of Mrs M. A. O'Hanlon, which occurred at her late residence, 16 Lindsay Avenue, St. Kilda, in the early morn of Tuesday, April 27th. The late Mrs O'Hanlon resided at Kotupna from 1880 to 1915, in the latter year leaving to reside at St. Kilda. Perhaps no one better known (and most favorably, too) ever lived in the Goulburn Valley. She was one of the great pioneers who with her late husband, Mr T. O'Hanlon (who predeceased her about 40 years ago), came along and accepted the hard knocks, as well as the easy ones, so familiar to the illustrious pioneers who blazed the track of this great southern land. Many are the experiences that could be related of those early days. For instance, Nathalia was then known as Barwo, and had only a few residences (if they could be called such). The Blakes, the
+>It is with regret we have to record the demise of Mrs M. A. O'Hanlon, which occurred at her late residence, 16 Lindsay Avenue, St. Kilda, in the early morn of Tuesday, April 27th. The late Mrs O'Hanlon resided at Kotupna from 1880 to 1915, in the latter year leaving to reside at St. Kilda. Perhaps no one better known (and most favourably, too) ever lived in the Goulburn Valley. She was one of the great pioneers who with her late husband, Mr T. O'Hanlon (who predeceased her about 40 years ago), came along and accepted the hard knocks, as well as the easy ones, so familiar to the illustrious pioneers who blazed the track of this great southern land. Many are the experiences that could be related of those early days. For instance, Nathalia was then known as Barwo, and had only a few residences (if they could be called such). The Blakes, the
 Manifolds and the Kostadts were there, and a street now bears the name of each of those people, also some others who came along about the same time as the O'Hanlon family. The kangaroos, the emus and the wild horses (then named the "fizzers") roamed at large, and the Kotupna plains were a favourite place for them. Now what a transformation! A beautiful plateau from the Goulburn to the Murray in verdure and in green!  
 The late Mrs O'Hanlon did her part nobly and well. The deceased lady came from stalwart stock: the Kavanaghs from Cavan in the North of Ireland. Her father there occupied a good position, and took his share of interest in public affairs. This strain is kept well alive to-day by one of her sons, whose efforts and ambitions are known to most people around Nathalia. Again, the Kavanaghs had literary gifts, and the late Mrs O'Hanlon was a poetess of no mean order. Mrs O'Hanlon was married to the late Mr Timothy O'Hanlon at Bendigo in the seventies, and for a time they lived there, and afterwards at Top Creek, Rochester. Then her late husband selected land between Nathalia and McCoy's Bridge. The sudden death of her husband in 1886 was a great blow, and all the more so because of being left with seven children. Notwithstanding she prospered, and reared a family to manhood and womanhood that do her credit. A second great grief was the death of a daughter in 1894, but through all her spirit never failed - she worked on and succeeded against droughts, floods and other visitations.  
 The late Mrs O'Hanlon possessed a kind and benevolent disposition and many can tell of her hospitality . Every weary traveller was welcomed and "the cup that cheers" given to them. Again, she possessed the true Christian spirit of a broad tolerant Christianity. A strict Catholic, she loved her church, and the Numurkah and Nathalia Catholic Churches owe much to her generosity. She most regular attendant the whole of her life.  
@@ -196,7 +202,11 @@ mother. He was pleased to see the
 shire president there that day. He might say that during his term of office the duties had never before carried out with more dignity and honor. He again sincerely
 thanked them. (Applause).
 
-Her sons Edward and Martin had already sold their interest in the farms, and had moved away. Patrick stayed in Kotupna on the original farm. It seems her three daughters moved to Melbourne with her.
+By 1916 it seems clear that only Mary Ann, her eldest daughter Marie and eldest son Patrick still lived in Kotupna. Sons Edward and Michael had certainly moved to Melbourne, Elizabeth was a nurse and must have moved earlier for training, and Helena seems to be working in Sydney. Sheila O'Hare tells us
+
+>My father Michael and one of his sisters, Marie, bought a house in Elwood and she took in boarders.
+
+This is the 16 Lindsay Avenue residence identified in Mary Ann's death notice below. At some stage Lindsay Avenue seems to have been reclassified from St Kilda to Elwood (they are neighbouring suburbs). The Electoral Rolls have Mary Ann, Michael and Marie living there in 1917 and 1919. Michael moved out after his marriage in 1919, and the Rolls have Mary Ann and Marie living there until Mary Ann died in 1926. In fact, Marie lived there until *she* died in 1966.
 
 The *Numurkah Leader* of 5 May 1926 reported her death:
 
@@ -209,7 +219,7 @@ When Heaven planned a flawless gem, she fashioned thee
 A spirit bright with duties done, to grace God's Ample Fold.  
 A nature great with virtue's attributes - heart of Gold.
 
-The poetry in the notice was perhaps written by her son Martin.
+The poetry in the notice was perhaps written by her son Michael.
 
 ### Elizabeth Kavanagh (1862-1934)
 
@@ -256,14 +266,26 @@ The will of William Kavanagh, late of Cavan Hotel, Fitzroy, licensed victualler,
 
 ## Grandparent Generation
 
-When their father Timothy died in 1886, the seven children were brought up by their rather indomitable mother Mary Ann, on the family farm. They existed as a family collective (somewhat like the O'Hares at Snugborough) with the three boys working the farm. The farm, enlarged over time, was divided in some way between the boys. Edward and Michael sold their shares about 1915, and set up business in Melbourne. Patrick took over the original family farm, and continued to farm.
+When their father Timothy died in 1886, the seven children were brought up by their rather indomitable mother Mary Ann, on the family farm. They existed as a family collective (somewhat like the O'Hares at Snugborough) with the three boys working the farm. The farm, enlarged over time, was divided in some way between the boys. Edward and Michael sold their shares about 1911, and set up business in Melbourne. Patrick took over the original family farm, and continued to farm.
 
 ### Michael John O'Hanlon (1878-1958)
 
+Michael John O'Hanlon was born in 1878 in Rochester, Victoria, the third of seven children. Soon afterwards the family selected a farm at Kotupna, near Nathalia. Until the age of 33 he was part of the family farming enterprise. Around 1911 he moved to Melbourne, and ran a successful stock and station agency. He married Eily Irina McMahon in Melbourne, in 1919. They had two children (in 1920 and 1923). In 1929, at the age of 51, he returned to farming when the family moved to Balkuling, WA. He died in Quairading, WA, in 1958.
+
+His daughter, Sheila O'Hare, provides the following notes.
+
+>Both Martin Patrick O'Hare and Michael John O'Hanlon grew up in Nathalia, Victoria. The O'Hare's farm "Snugborough" joined the Broken Creek, while the O'Hanlon farm was on the Goulburn River on the other side of Nathalia township - but they knew each other from meeting at Mass.  
+Martin O'Hare married Angela Raselli, and for several years they lived in Queensland on a dairy farm near Gympie. Families were usually too large for sons all to remain on the home farm. Their family was Honor (Pusenjak), Frank, Martin, Ned and Betty (Teresa Margaret Elizabeth) who married James Stokes, whose sister patricia married Martin O'Hare. Honor was a schoolteacher, and she married Bogdan Pusenjak and they had a son, Nicholas, before an early divorce. Martin was a Duntroon graduate and rose to become a Brigadier.  
+The family lived in Nathalia, after leaving Queensland, for a year or so. Martin senior developed Dengue Fever but which was first thought to be TB. In 1928 they moved to Bilbarin, WA, while my family came to Balkuling, WA in 1929.  
+Martin senior and Michael renewed acquaintance at Annual Farmers' Union Meetings, and then the O"Hares bought a larger farm near near Cunderdin (Yenelin) in early 1938 (or possibly late 1938) and the O'Hares and my family became regular visitors to each other's homes.  
+My family had left Melbourne in 1929 because of the Great Depression and the effect it had on Land and Estate, in which Dad had worked after leaving Nathalia for Melbourne early in the century. He and one of his sisters, Marie, bought a house in Elwood and she took in boarders, on of which was my mother, and a romance developed between Michael and Eily McMahon! Things were good and they built a lovely home in Elwood, close to the beach. I was born in 1920 and my brother, Richard, was born on 1923. They lived there until 1929 till their enforced move to WA where land was cheaper, because they could see no other option but a return to the land.  
+Their Elwood house was the sole deposit on "Spring Dallah", Balkuling, which was fairly close to Cunderdin. Dick and I had correspondence lessons for a year while we learned to ride ponies, and then went to Doodenanning School, 5 miles away. Our education was a great source of worry to our parents, but fortunately we both won Secondary Scholarships. I went to Sacred Heart and became a teacher, and Dick went to Aquinas and became a Doctor, practising at Lilydale Vic before his untimely death at 59.
+
 #### The Kotupna Years
 
-Presumably all seven children were educated at the local school, to age 14. Small country towns at that time (pre popular entertainment via cinema and radio) had a vibrant community life.
+Presumably all seven children were educated at the local school, to age 14.
 
+Small country towns at that time (pre popular entertainment via cinema and radio) had a vibrant community life.
 Michael John  was the Honorary Secretary of the Kotupna Debating Society and was
 [president](http://nla.gov.au/nla.news-article280447892) of the local branch of the
 [Australian Natives Association](https://en.wikipedia.org/wiki/Australian_Natives%27_Association). He had a considerable literary bent, perhaps encouraged by his mother. 
@@ -431,7 +453,55 @@ He was married, to Eily McMahon, in 1919. We have a photograph of the bridal par
 {{< figure src="OHanlonMcMahonWedding1919.jpeg"
            caption= "O'Hanlon-McMahon Wedding. 1919" >}}
 
-From left: Marie O'Hanlon, Dorothea Kelly, Michael O'Hanlon, Eily McMahon, Edward O'Hanlon.
+From left: Marie O'Hanlon, Dorothea Kelly, Michael O'Hanlon, Eily McMahon, Edward O'Hanlon. We also have the
+[certificate of marriage](OHanlonMarriage1919.pdf). Michael is a "stock and station agent', and Eily is a "clerk". They were married by 
+[Archbishop Daniel Mannix](https://adb.anu.edu.au/biography/mannix-daniel-7478) himself.
+
+They had two children, Sheila born in 1920 and Richard, born in 1923.
+
+It seems that Michael and Eily constructed a new house, to move into after the wedding. It was at 29 Normandy Road, Elwood. We have two photographs. The first must be directly after construction, and shows Eily sitting on a small front verandah.
+
+{{< figure src="OHanlonElwood1919.jpeg"
+           caption= "Eily at Normandy Road. 1919" >}}
+
+The second shows a front fence, and the verandah filled in, to expand the size of the front room.
+
+{{< figure src="OHanlonElwood.jpeg"
+           caption= "Normandy Road, Elwood" >}}
+		   
+Sheila O'Hare provides the comment:
+
+>When we sold the house, 29 Normandy Rd., Elwood, in 1929, the upstairs attics were not enclosed. In summer, my parents slept in the front one, and Dick and I in the back one. The middle one, over the lounge room, was a very large one which we used as a playroom.
+		   
+The house was robbed three times. Sheila O'Hanlon provides the following notes.
+
+"Stolen on 26 January 1921.
+
+- 5 stone diamond ring
+- 8 stone diamond cluster ring
+- 5 stone garnet cluster ring
+- 1 brooch set with 2 large amethysts
+- 1 brooch set with 5 small amethysts
+- 1 brooch leaf shape with emerald in centre
+- 2 pendent set with aquamarines and chain
+- 1 gold brooch shaped as violin
+
+Stolen on 29 July 1921.
+
+- 1 gold watch chain inscribed "M. J. O'H. 12.4.19"
+- 1 gold locket
+
+Stolen 11 July 1922
+
+- 1 gold wristlet watch inscribed "Mikie to Eily 25.12.17"
+- 1 purse
+
+Police were sure that the robberies were the work of "Squizzy" Taylor who lived close by in Elwood. Squizzy Taylor was a notorious burglar."
+
+Squizzy Taylor was a well-known gangster, described in a
+[Australian Dictionary of Biography entry](https://adb.anu.edu.au/biography/taylor-joseph-leslie-squizzy-8762) and a
+[Wikipedia entry](https://en.wikipedia.org/wiki/Squizzy_Taylor).
+The rather splendid sideboard from which the jewellery was stolen was known thereafter as "The Squizzy Taylor", at least when it was inherited by Eily's daughter. It remains in the family (Sheila's daughter Anne has it). 
 
 Family legend has it that "grandfather crashed" in the depression.
 Perhaps the "crash" predated the Depression.
@@ -473,27 +543,76 @@ a statement to creditors at a meeting yesterday showing a deficiency of £1469. 
 
 #### The Balkuling Years
 
-The Golden Washed Sands fiasco and the general commercial decline of the depression must have made Michael's commercial interests in Melbourne unviable. At the age of 52 he decided to return to farming. Just like the O'Hares in 1927, land in Victoria proved too expensive, and the O'Hanlon's moved to the wheatbelt of West Australia. 
-The house in Elwood was sold, and enough capital was available to purchase a farm in
-[Balkuling](https://en.wikipedia.org/wiki/Balkuling,_Western_Australia)
-between York and Quairading in WA. 
+The Golden Washed Sands fiasco and the general commercial decline of the depression must have made Michael's commercial interests in Melbourne unviable. At the age of 52 he decided to return to farming. Just like the O'Hares in 1927, land in Victoria proved too expensive, and the O'Hanlon's moved to the wheatbelt of West Australia.
 
-The move from Melbourne was in May 1930. The *Age* of 2 May 1930 has an advertisement:
+A farm of some 3400 acres was acquired, some 8 km south of the small town of Doodenanning, itself some 45 km east of
+[York](https://en.wikipedia.org/wiki/York,_Western_Australia). In the Coolgardie-Kalgoorlie goldrush, starting around 1887, the road to the goldfields started from York (the then railhead) and ran through Doodenanning. The railway to Kalgoorlie, completed in 1894, ran from Northam and not York, and passed some 20 km to the north of Doodenanning. A railway was later constructed east from York, reaching Quairading in 1907. This passed some 20 km to the south of the farm, with the nearest siding being
+[Balkuling](https://en.wikipedia.org/wiki/Balkuling,_Western_Australia).
 
->CANARIES. Norwich, good birds, and Yorkshires, leaving. 31 Normandy-rd. Elwood.
+Michael clearly travelled to WA to find and negotiate the farm, perhaps early in 1929. Sheila indicates some sort of package was arranged, where the house in Elwood was exchanged as the full deposit on the farm. Perhaps the Elwood house was not sold on the open market. 
 
-and a day later
+The farm, called "Spring Dallah", warrants a 
+[very brief heritage listing](https://inherit.dplh.wa.gov.au/Public/Inventory/PrintSingleRecord/86445e76-b133-43fa-8a1f-ea3a464c3d77).
 
->Lounge Suite, moquette; Oak Dining table, oval; Wardrobe, Linos., Beds. Oak, Double; carpets , 12 x 9, 10.6 x 9; Gas stove. 31 Normandy-rd., Elwood.
+>The farm was the site of the rifle range, tennis courts and golf course and provided the venue for much of the social and recreation activities of the early settlers.
 
-The first evidence we have of them in WA is a brief sale report in
-the *West Australian* of 7 August 1930
+The first reference to it seems to be in the
+*West Australian* of 17 November 1911:
 
-> M. J. O'Hanlon, Balkuling, 44 suckers 9/10
+>STRAYED into my paddock and now with my horses, one very Light Bay Gelding, fairly well-bred, small white snip on nose, also small white star on forehead, black points, halter on neck, about 2 years old, no visible brand. If not claimed within time allowed by law will be sold to pay expenses. J. J. GEYER, Spring Dallah, Doodenanning, W.A.
 
-Suckers, I am reliably informed, are lambs. It seems clear that Michael moved to the farm (and fixed up the farm house) before Eily and the two children joined him.
+The owner was a local worthy and Doodenanning booster, invariably referred to in press reports as "Mr J.J. Geyer, J.P.".
 
-[To be completed }
+In any event, the family travelled from Melbourne to Perth by rail in August 1929. Sheila reports that her mother wept as they left Melbourne, leaving behind her large close-knit family for distant WA, where neither she or her husband Michael had any family connections. Their furniture, acquired for their marriage in 1919, was sent by steamer. Family legend has it that Eily's family helped out with moving the furniture. 
+
+Shelia speaks of the front of the house, constructed of cement bricks, as being an extension to the original house. This was built of mud brick, and did not have floors. She says her father, on his original visit, arranged for floors to be installed in two rooms, and a room selected as a bathroom, and a zinc bath installed. There was no running water. Rather, the main (underground) tank was some 100 metres away, with a hand-pump on top. There was a large wood stove in the kitchen, with a large "water fountain" on top. This was the hot-water system, providing hot water for washing-up (no sink) and baths. Laundry was done in the open, with a copper residing in the back yard.
+
+She also speaks of a Wizard lantern system in two rooms, fed from a common tank outside. This would seem to be an
+[Australian version](https://classicpressurelamps.com/threads/australian-%E2%80%9Cwizard-aluminite%E2%80%9D-table-lamp.16580/) of a premium American product.
+
+
+We have some early photos of the farm.
+{{< figure src="SpringDallah1929.jpeg"
+           caption= "The harvest. 1929" >}}
+{{< figure src="SpringDallah1930a.jpeg"
+           caption= "Dick on Ruby, May Dean (who helped Eily with the house), and Sheila on Velvet. June 1930" >}}
+{{< figure src="SpringDallah1930b.jpeg"
+           caption= "May Dean and the poultry. Hay shed in background. June 1930" >}}
+{{< figure src="SpringDallah1930c.jpeg"
+           caption= "Michael and Eily with wool clip on the International truck. Cement dairy and storeroom behind truck. 1930" >}}
+{{< figure src="SpringDallah1930d.jpeg"
+           caption= "Richard, Michael, Sheila, Eily. Front verandah of Spring Dallah. 1930" >}}
+
+As indicated, they inherited an arrangement where the farm was the location of local sporting facilities. There were two clay tennis courts when Michael and Eily arrived, and soon after two more were constructed, of "ant-bed". 
+
+The *York Chronicle* of 15 April 1932 tells us
+
+>The Spring Dallah tennis club were at home to the Doodenanning club on Sunday last. The weather was perfect and a very enjoyable time was spent by the players and spectators. After some very interesting and closely contested sets were played the home team proved victors by a narrow margin both in sets and games, the final scores being;— Spring Dallah, 22 sets 178 games; Doodenanning, 16 sets 168 games.
+
+In October 1932 the *York Chronicle* tells us:
+
+>Great interest has been created in the district by the formation of a Tennis Association including the Balkuling, Rocky Gully, Doodenanning and Spring Dallah clubs. The first of a series of pennant matches was played between Spring Dallah and Doodenanning at the latter's courts on Sunday, October 2nd and resulted in a win for Spring Dallah. A notable feature of the fixtures of the Association which was commended by Archdeacon Riley on his recent visit is the total avoidance of matches on Church Sundays. The next pennant match will take place on Sunday next at Rocky Gully between that club and Balkuling.
+
+It was, presumably, acceptable to play tennis on Sundays when church was not scheduled. 
+
+There was also a golf course. The *York Chronicle* of 13 May 1938 tells us:
+
+>SPRING DALLAH GOLF CLUB  
+On Sunday the official opening of the above club took place at the Spring Dallah links. Mr. A. H. Fowler, the president of the club, extended a cordial welcome to the club members and the visitors to the links. He mentioned that some of the fairways had been recently graded and the greens attended to and expressed the hope that everybody would enjoy the afternoon's game, which was to be a mixed foursome competition. Mr. Fowler announced that the Doodenanning Club would be officially opened on May 32 and that a hearty invitation had been extended to the members of the Spring Dallah Club to be present. He then asked Mr. H. L. Evans, of York, to officially open the club for the 1938 season. Mr. Evans expressed pleasure at the number of players present, which augured well for a successful season. He mentioned that the club was indeed indebted to Mr. M. J. O'Hanlon for making so much of his land available for the golf course. He wished the club and its members a very successful and enjoyable season and then declared the links open. A foursome competition of nine holes for the club's trophy was then played, the event being won by Miss Marjorie Stubbs and Mr. Bill Thomas. A dainty afternoon tea was provided by the lady members.
+
+The rifle club was no longer active. The tennis club and the golf club seemed to lapse during the war, and were not re-activated after the war.
+
+The farm could not have made much money during the Depression years. On the other hand, hired help was not expensive. Eily could afford help in the house, as indicated in the above photos. Sheila tells us that Michael could hire workers for keep and £1 per week. You could not run a farm single-handed.
+
+The *West Australian* of 20 April 1937 tells us:
+
+>BALKULING, April 11.-The rainfall for March was 65 points, the total for the year being only 67 points. Rain is badly wanted now for the seeding, and many of the farmers' rain water is very low.-Several Balkuling people went to Doodenanning on April 2 to a farewell social to Father Byrne, who is being transferred to Katanning, and also to welcome his successor, Father Cullen. On April 6 a number of farmers gathered at Mr. Aiken's farm to see a demonstration of his new tractor. He and his son are both going in for power farming.-On April 9 a clearing sale was held at Spring Dallah, Mr. O'Hanlon's farm, as he also has decided to use power on his farm.-A number of new farming machinery units have arrived this season.
+
+The era of horse-drawn equipment on farms was coming to an end.
+
+After training as a teacher, Sheila was living at home from 1942, and teaching at the local Doodenanning school. She married Frank O'Hare in early 1944, and they lived on the farm. Michael had applied to have Frank "man-powered out of the AIF", to help work the farm. The arrangement applied until early 1948, when Frank and Sheila acquired a farm under a War Service allocation, and moved to "Nangunia" just north of Quairading.
+
+Michael and Eily built a house in Quairading, and moved from the farm in 1952. The farm must have been run under some sort of manager arrangement. Eily died in 1956, and Michael died in 1958. The will presumably left the house and farm jointly to Sheila and Richard. They chose to auction "Spring Dallah". Sheila speaks of wheat prices being low, and the farm being sold for somewhat of a bargain price. Trove has digitised the local papers only up to 1954, and we cannot see any of the details of the sale.
 
 ### Edward George O'Hanlon (1874-1932)
 
@@ -503,7 +622,7 @@ We have an obituary, from the *Dubbo Liberal and Macquarie Advocate* of 10 Decem
 E. G. O'HANLON  
 Mr. Edward George O'Hanlon, who died suddenly at St. Kilda private hospital on Saturday night, was a member of a well known Kotupna family, being the second son of the late Mr.
 and Mrs. T. O'Hanlon who were among the earliest settlers in that locality. The late Mr O'Hanlon, who was 54 years of age, was a native of Bendigo, but at an early age came to Kotupna, where the greater part of his life was spent. Possessing a genial personality, as well as being a musician and vocalist of some merit, he made a host of friends. Some 25 years ago he left Kotupna, where he had been engaged in farming, for Dubbo, where he entered into a stock and station business in which he retained an interest up to the time of his death. Some years later the firm decided to open a Melbourne branch, which he managed, and later bought, and latterly he had been the sole proprietor of the stock and station agency known as J. L. Jeffers and Co., of Bourke Street, Melbourne.  
-He is survived by two brothers and three sisters, viz. Messrs. P. D. K. O'Hanlon, Kotupna, M. J. O'Hanlon, West Australia, Miss M. O'Hanlon, St. Kilda, Mrs. Stevens, Gladsville, N.S.W,, and Mrs. Galligan, Mosman,
+He is survived by two brothers and three sisters, viz. Messrs. P. D. K. O'Hanlon, Kotupna, M. J. O'Hanlon, West Australia, Miss M. O'Hanlon, St. Kilda, Mrs. Stevens, Gladesville, N.S.W,, and Mrs. Galligan, Mosman,
 N.S.W. The remains were interred in the Nathalia cemetery. The Rev. Father Cremmens read the burial service. 
 
 #### Uncle Eddie's Will
@@ -526,20 +645,21 @@ That little finding would not have come cheaply, with the various barristers and
 
 >Maureen Duff, Helena Galligan, Maria OHanlon, Theodore Stevens, Maxwell Stevens, Jocelyn Maria Stevens, Sheila Marie OHanlon, Richard OHanlon, Henri Lachance
 
-The record seems silent about the identity of Maureen Duff - she may have been a long-serving employee of his firm. 
-Henri Lachance 
+The record seems silent about the identity of Maureen Duff - she may have been a long-serving employee of his firm.  Helena Galligan and Maria O'Hanlon are Edward's sisters (neither of whom had children) and must have been nominated for a bequest. The next five are nieces and nephews (children of his sister Elizabeth and his brother Michael), and are in the family tree above. In order, they died in 1984, 1992, 2014, 2019 and 1982. In particular, Sheila outlived Uncle Eddie by 87 years.
+
+The last, Henri Lachance,
 was the priest in charge of
 [St. Francis' Church](https://www.stfrancismelbourne.com/post-1929/). From its website:
 
 > In 1929, St Francis’ Church became a Eucharistic shrine in the pastoral care of the Blessed Sacrament Congregation of priests and brothers, members of the French (now international) religious institute founded by St Peter Julian Eymard (1811-1868).  
-At the invitation of Melbourne’s Archbishop Daniel Mannix (1864-1963), the Congregation initially posted five priests and two brothers to St Francis’ from the United States and Canada. The pioneer group, led by 44-year- old French Canadian Fr Henri Lachance (1885-1963), arrived at St Francis’ on All Saints’ Day in 1929.  
-Almost from that moment, St Francis’ Church began to be transformed by the culture of eucharistic devotion that the Congregation transplanted to Melbourne. Exposition and perpetual adoration brought people into the church during the day. The number of masses increased and demand for confessions was sometimes overwhelming.
+At the invitation of Melbourne’s Archbishop Daniel Mannix (1864-1963), the Congregation initially posted five priests and two brothers to St Francis’ from the United States and Canada. The pioneer group, led by 44-year-old French Canadian Fr Henri Lachance (1885-1963), arrived at St Francis’ on All Saints’ Day in 1929.  
+Almost from that moment, St Francis’ Church began to be transformed by the culture of Eucharistic devotion that the Congregation transplanted to Melbourne. Exposition and perpetual adoration brought people into the church during the day. The number of masses increased and demand for confessions was sometimes overwhelming.
 
 It may be that Edward George had a serious religious bent. We are also told:
 
 >In 1949, a seriously ill Melbourne woman experienced a spontaneous and complete recovery from an incurable heart condition after a novena of prayers at St Francis’ Church requesting the intercession of the Congregation’s founder. Her cure was ultimately accepted by the Catholic Church as a miracle – the first in Australia to be accepted by the Church – and its authentication led to Eymard’s canonisation as a saint in 1962.
 
-It is not every family narrative that can reference a genuine accepted miracle! But back to the defendants. Helena Galligan and Marie O'Hanlon are Edward's sisters and must have been nominated for a bequest. The other five are nieces and nephes, and are in the family tree above. In order, they died in 1984, 1992, 2014, 2019 and 1982. In particular, Sheila outlived Uncle Eddie by 87 years.
+It is not every family narrative that can reference (albeit indirectly) a genuine accepted miracle and a genuine canonised saint! 
 
 ### Patrick Dennis Kavanagh O'Hanlon (1873-1943)
 
@@ -597,9 +717,17 @@ Honora Cecelia died in 1894, at the age of 15. From the suggestion of several of
 
 Marie died a spinster in 1966, aged about 87. She nursed he mother in her last years, and perhaps lived in the family home in St Kilda until the end.
 
+The *Argus* of 31 May 1919 carried the following advertisement:
+
+>LADY, underclothing specialist, makes dainty underwear, trousseaux, hand embroidery; materials made up. Theresa, 16 Lindsay avenue, St Kilda. Windsor 3377.
+
 Elizabeth Frances was a nurse, and her
 [military record](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=7991919)
 shows she joined up in December 1916. She was sent to India later that month, and arrived in Bombay in January 1917. On 1 January 1919 she married Arthur Raphael Steven at St Patrick's Cathedral in Bangalore. Arthur seems to have been a medical doctor in the British Army, and trained at Glasgow University. She resigned her appointment in May 1919, and left for Australia on 1 December 1919 "with infant", which I take to be Theodore Michael Steven.
+
+The *Advocate* of 5 July 1919 rather belatedly tells us:
+
+>STEVENS—O'HANLON.—On 1st January, 1919, at St. Patrick's Cathedral, Bangalore, India, by the Rev. Fr. Gabard, Captain (Dr.) Arthur Stevens, R.A.M.C., son of Mr. and Mrs. A. Stevens, Edinburgh, Scotland, to Elizabeth Frances (nurse A.I.F.) O'Hanlon, third eldest daughter of Mrs. M. A. O'Hanlon, St Kilda, and the late Mr. T. O'Hanlon, Nathalia.
 
 Dr Steven followed them to Australia. He was 
 [registered to practice](http://nla.gov.au/nla.news-article220078738)
@@ -609,8 +737,138 @@ Helena Josephine married Michael Galligan in St Kilda in 1917. They lived in Syd
 
 ## Parent Generation
 
-{To be written }
+### Sheila Mary O'Hanlon (1920-2019)
 
-### Shiela Mary O'Hanlon (1920-2019)
+Sheila O'Hanlon was born at Elwood, Melbourne, in 1920, the first child of Michael and Eily O'Hanlon. The family lived a comfortable middle-class life in Elwood until mid 1929, when financial issues led them to take up farming at "Spring Dallah", Balkuling, WA. She married Francis (Frank) O'Hare in 1944, and in 1948 they moved to "Nangunia", Quairading, WA. They had four children. Frank was killed in a farm accident in late 1971. Sheila died in 2019, aged 98, after being a widow for 47 years.
+
+She was a keen chronicler of her family history, and her efforts were not fully appreciated at the time. She worked before Trove was available, before the modern on-line records were available, and before one could have computers draw nice family trees. She summarised her work in an audio record made for her family. This was recorded on two cassette tapes in 1983 and 1985. The following provides a digital version of her recording. The digitisation is rather low quality - the sound level is too low, and the first 15 minutes of the fourth side is missing. (I will endeavour to provide a better quality version.)
+
+| part | audio |
+| -- | -- |
+|part one | {{<audio src="SheilaOHare/Side1.mp3" >}} |
+|part two | {{<audio src="SheilaOHare/Side2.mp3" >}} |
+|part three | {{<audio src="SheilaOHare/Side3.mp3" >}} |
+|part four | {{<audio src="SheilaOHare/Side4.mp3" >}} |
+
+Sheila relates her early childhood in Elwood as being happy and even indulged.
+Her mother, Eily, had three sisters and two brothers in Melbourne and hence she and her brother Richard had a number of cousins. We have several photographs from this time.
+{{< figure src="OHanlon1922.jpeg"
+           caption= "The beach, Elwood. 1922" >}}
+It shows Michael, Sheila and a cousin kicking a sandcastle, with Eily and her sister Nett (with baby Richard) in the background. Clearly, kids could play but adults dressed up for a beach outing.
+
+{{< figure src="McMahon1926.jpeg"
+           caption= "Cousins, 1926." >}}
+From left, Frank McMahon, Sheila O'Hanlon, John McMahon, Joan McMahon, Richard O'Hanlon.
+
+Sheila and Richard started school at
+[St Columba's Primary School](https://www.stcolumbasprimary.org/history.html), at the end of the street they lived in.
+
+When the family arrived at "Spring Dallah" in August 1939, Sheila and Richard were home-schooled for the rest of 1929 and all of 1930. She notes that correspondence lessons arrived from Perth every two weeks The lesson sets were completed and returned to the Education Department for scrutiny. As both Sheila and Richard were bright, the sets were completed quite quickly and school-free days ensued.
+
+Newspapers at the time encouraged children to enrol in a "club", and to submit letters for the novelty of seeing their name in print.
+From the *Western Mail* of 25 December 1930:
+
+>KILLED FIVE SNAKES.  
+Spring Dallah, Doodenanning, via Balkuling.  
+Dear Aunt Mary, It is so long since I have written to you that I suppose you think I have forgotten you. We have finished hay cutting, and are now carting the hay to the shed. We were hay cutting up at the other end of the farm this year, and dad and the men took their lunch up there every day. One day Dick and I went with them, and while in the crop we saw a ginger rabbit, a brush kangaroo and a wild cat with two kittens. A few days later dad came home with a big kangaroo which he had caught by the tail while one of the men killed it. The kangaroo could not use its hind legs, as it had been shot and was just recovering. We have killed five snakes this year. The last was a tiger snake. I hope to see this letter in print.  
+I remain, your loving niece. SHEILA O'HANLON. B.B.  
+I always feel sad when I hear of poor old kangaroos being shot, don't you, Sheila. It was really good that your father was able to put out of its misery one whose hind legs were useless.  
+AUNT MARY.
+
+Country people had it in for snakes. In her nineties, when she was resident at a nursing home "Parker House" in Quairading, Sheila discovered a snake in her en-suite bathroom. Stout-hearted countrywoman that she was, she beat it to death with her walking stick.
+
+In 1930 ponies were bought and the children learned to ride. Come 1931 they rode their ponies to the one-teacher Doodenanning School, some 8 km away.
+Sheila relates that the school attendance was 14, including three sets of twins. It seems Sheila attended
+[Doodenanning School](https://inherit.dplh.wa.gov.au/public/inventory/printsinglerecord/53423b43-fed5-4524-a00b-596f2b76f411)
+for 1931-1932, while Richard attended 1931-1935.
+
+In November 1932 Sheila was
+[awarded](http://nla.gov.au/nla.news-article32577422)
+a [secondary school scholarship](http://nla.gov.au/nla.news-article33321206).
+There seems to be 50 such scholarships awarded each year, with 10 "reserved" for small country schools. It provided free attendance at a government high school or one of nominated list of private schools, £3 a year book allowance and £24 a year boarding allowance, if relevant. Who knows how much of the actual cost this covered, but it was certainly better than nothing. For country families of average means, it was perhaps the only avenue of secondary education for their children.
+
+In the event, Sheila attended the Sacred Heart High School, Highgate, as a boarder for the five years 1933-1937. We have a photograph of her in her final year.
+
+{{< figure src="SheilaOHanlon1937.jpeg"
+           caption= "Sheila. 1937." >}}
+		   
+The year 1938 she spent at home, on the farm. There was a very close bond between Eily and Sheila, and it would seem that being away at boarding school for five years had been hard on them both. During the year Sheila "made her debut".
+
+{{< figure src="SheilaOHanlon1938.jpeg"
+           caption= "Sheila as debutante. 1938." >}}
+
+The *Sunday Times* of 7 August 1938 tells us:
+
+>THE Sacred Heart High School Old
+Girls' Association held their ninth annual ball at Government House Ballroom on Wednesday. Twelve debutantes made their bow to the Archbishop of Perth, Dr. R. Prendiville, who with Rev. Father Winston and the Lord Mayor (Mr. C. Harper) and the Lady Mayoress (Miss S. Harper) were met on arrival by Miss May Holman. M.LA., the president of the association. The debutantes, who were preceded by two flower girls. Judith Green and Margaret Watt, who had been trained by Miss Mercia Scott, and after the presentation danced the valeta. Dainty youthful frocks were worn by the debs., and each carried a bouquet of red roses and white carnations, tied with red and white ribbon, to introduce the school colors. Those presented were Misses Nellie Gray, Peggy Stirk, Dorothy Hitch, Mollie Embleton, Beatrice Walker, Peg. O'Dea, Phyllis Coonan, Esther Brand, Sheila O'Hanlon, Patricia Southall, Mamie Callan and Mollie Branch. Miss Molly Wagner's orchestra supplied the music, and vocal items were given by Miss Pat Wagner. Supper was served on tables decked with the school colors and adorned with almond blossom, peach blossom and Iceland poppies.
+
+Sheila then pursued a teaching career. 1939 was spent as a monitor (teaching assistant) at the school at
+[Mundijong](https://en.wikipedia.org/wiki/Mundijong,_Western_Australia),
+now an outer suburb of Perth. Her formal training consisted of a one-year course at Claremont Teachers College, which she did in 1940.
+
+Being an employee of the WA Education Department, you had to go where you were sent. Her first assignment, in 1941, was to a school called Koondarni (spelling?) near
+[Dumbleyung](https://en.wikipedia.org/wiki/Dumbleyung,_Western_Australia). Sheila mentions it at around 3:00 into part 2 of her audio. I have been unable to identify the actual location. In any event after six months she succeeded in being appointed to a one-teacher school at Bellakabella, some 8 km north of "Spring Dallah", so she could live at home. Family legend has it that she rode a bicycle to and from school.
+
+After eighteen months, Bellakabella school closed at the end of 1942 due to low enrolments, and Sheila was appointed to teach at her old school at Doodenanning.
+Both schools are shown
+[here](https://www.cunderdin.wa.gov.au/Assets/Documents/Website-Content/tourism/school-sites-map.pdf). As far as I can tell, "Spring Dallah" was to the south, along the Doodenanning-Mawson road. She taught there through 1943 and most of 1944. She married Frank O'Hare in January 1944, and gave birth to her first child, Kerry Patricia, in March 1945.
+
+{{< figure src="Wedding1944.jpeg"
+           caption= "Frank O'Hare and Sheila O'Hanlon. 1944" >}}
+
+{{< figure src="SheilaOHareFamily.jpeg"
+           caption= "Sheila, Children and Grandchildren. 1985" >}}
+
+
+[school wa](https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/3242166/Godfey_Joanne_Isabella_Frances_2011.pdf)
 
 ### Richard Michael O'Hanlon (1923-1982)
+
+Richard O'Hanlon was born in Elwood, Melbourne, in 1923,  the second child of Michael and Eily O'Hanlon. The family lived a comfortable middle-class life in Elwood until mid 1929, when financial issues led them to take up farming at "Spring Dallah", Balkuling, WA. Richard studied Medicine at the University of Melbourne (1946-1950), after serving in the RAAF (1942-1946). He married Joanne Jackson in 1949. They had four children. He died in 1982, aged 59.
+
+As described above, he and his sister Sheila attended the one-teacher school at Doodenanning, Richard finishing in 1935. In November 1935 he was
+[awarded](http://nla.gov.au/nla.news-article32979369)
+a Secondary School Scholarship. His secondary education (1936-1940) was spent first at Christian Brothers' College and then
+[Aquinas College](https://en.wikipedia.org/wiki/Aquinas_College,_Perth)
+(1938-1940). He obtained remarkable results in the Leaving Examination that year - distinction level in all seven subjects. The Leaving results
+are [here](http://nla.gov.au/nla.news-article47301878) and the award of a General exhibition is
+[here](http://nla.gov.au/nla.news-article47305710).
+
+In 1941 he pursued the first year of a science degree, at UWA. In what must have been an idealistic move, he then enlisted in the RAAF.
+His [military record](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=5244262) shows he enlisted on 6 April 1942, and was discharged on 12 February 1946. He was promoted through the officer ranks of Pilot Officer, Flight Officer and Flight  Lieutenant. He seems to have been trained first in radio operations, and then radar operations. He spent time at 310 RDF Station
+([Vlaming Head](https://en.wikipedia.org/wiki/Vlamingh_Head_Lighthouse))
+and 32 RDF Station (Rottnest Island) before working at the Radar School in Sydney.
+
+We have an 
+[identity photograph](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203806513) taken at enlistment.
+
+
+An informal history
+of radar in Australia during the Second War is [available here](http://www.radarreturns.net.au/archive/Radar%20YarnsRRWS.pdf). 
+
+Richard studied Medicine at the University of Melbourne 1946-1950. There was no Faculty of Medicine at UWA, and WA students had places available at Adelaide University and the University of Melbourne. Presumably he was entitled to some support under the
+[Commonwealth Reconstruction Training Scheme](https://en.wikipedia.org/wiki/Commonwealth_Reconstruction_Training_Scheme).
+He graduated in 1950.
+The *West Australian* of 16 October 1950 tells us:
+
+>Mr. R. M. O'Hanlon. son of Mr. and Mrs. M. J. O'Hanlon, of Spring Dallah, Balkuling, has passed his final examinations in medicine and surgery, with honours in obstetrics and gynaecology.
+
+He joined the medical practice in Lilydale, run by his uncle Dr. Frank McMahon and cousin Dr. Peter McMahon.
+
+He married Joanne Jackson in Melbourne on 9 March 1949. Sheila tells us that no family from WA were able to attend.
+The *Age* of 10 March 1949 tells us:
+
+>West Australian interest was attached to the marriage of Myra Joanne, elder daughter of Mr. and Mrs. A. W. Jackson, Canterbury, with Richard Michael, only son of Mr. and Mrs. Michael J. O'Hanlon, Spring Dallah, Balkuling, W.A.
+The ceremony took place at Mark's, Camberwell, and Canon P. W. Robinson officiated. The bride chose a gown of white tulle and satin covered with a tulle veil held in place with a coronet of pearls. She carried a bouquet of white orchids and gardenias. The bride's sister, Mrs. George Milne, was matron of honor and Miss Nanette Splatt was bridesmaid. Their silver-blue gowns featured off-the-shoulder necklines and they carried bouquets of tuberoses matching those worn In their hair. Dr. Peter McMahon was best
+man and Dr. Ian Aberdeen was groomsman. A reception was held at the Hotel Australia.
+
+They had four children.
+
+Richard died of a heart attack, on the Royal Melbourne Golf Course, on 21 August 1982. aged 59.
+
+{{< figure src="RichardOHanlon1946.jpeg"
+           caption= "Richard O'Hanlon. 1946" >}}
+
+{{< figure src="RichardJoanneOHanlon1946.jpeg"
+           caption= "Richard O'Hanlon and Joanne Jackson. c 1948" >}}
+

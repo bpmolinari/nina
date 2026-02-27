@@ -285,7 +285,7 @@ The *Numurkah Leader* of 13 January 1898 tells us:
 
 >OBITUARY.  
 The oppressive hot weather of the past few weeks has been the primary cause of many cases of illness in the town and district, more deaths having occurred hereabouts during the last month or six weeks than ever took place in the same space of time in the history of the township of Nathalia.  
-The last victim that the grim harvester—Death—has claimed is Mr. John O'Haire, a wellknown and respected farmer of Barwo, whose death took place at his residence early on Saturday morning last. The deceased gentleman was suffering from heat apoplexy since Christmas week, and paralysis setting in, eventuated as stated above. Although deceased did not take an active part in public matters, he was well-known and highly respected, and was always regarded as a person of shrewd, common sense, whose opinion was worth considering in any matter referred to him. He was one of the early pioneers of the district, being a resident of upwards of twentyone years, a good neighbour and hospitable man. The funeral cortege, was one of the largest witnessed here, over sixty vehicles and several horsemen following his remains on Sunday to their last resting-place — the Nathalia General Cemetery. Universal regret is expressed on all sides at his decease at the age of sixty-three years, and much sympathy is felt for his sorrowing family. The Rev. Father McCarthy conducted the burial service, and the mortuary arrangements were assiduously attended to by Mr. A. B. Binger.  
+The last victim that the grim harvester—Death—has claimed is Mr. John O'Haire, a well-known and respected farmer of Barwo, whose death took place at his residence early on Saturday morning last. The deceased gentleman was suffering from heat apoplexy since Christmas week, and paralysis setting in, eventuated as stated above. Although deceased did not take an active part in public matters, he was well-known and highly respected, and was always regarded as a person of shrewd, common sense, whose opinion was worth considering in any matter referred to him. He was one of the early pioneers of the district, being a resident of upwards of twenty-one years, a good neighbour and hospitable man. The funeral cortege, was one of the largest witnessed here, over sixty vehicles and several horsemen following his remains on Sunday to their last resting-place — the Nathalia General Cemetery. Universal regret is expressed on all sides at his decease at the age of sixty-three years, and much sympathy is felt for his sorrowing family. The Rev. Father McCarthy conducted the burial service, and the mortuary arrangements were assiduously attended to by Mr. A. B. Binger.  
 It is with regret that I have to record the death of Mrs. Hilet, wife of Lawrence Hilet, of this town, whose death took place at her residence on Thursday last. The deceased lady was recovering
 from an attack of typhoid, when congestion of the lungs set in and brought about her demise. Although everything that medical skill could advise was done, the unfortunate lady passed peacefully away to her last home, leaving behind a large family of children to lament their beloved mother's death and deplore their father's loss. The Rev. R. W. Rock conducted the burial service in a very impressive manner. The burial, which took place on Friday last, was attended by a large circle of sorrowing friends.  
 The infant child of Richard Smith, Nathalia, and the youngest child of J. Connelly, Narioka, were interred in the Nathalia cemetery on last Friday — death in each case resulting from exhaustion, brought about by the oppressive heat. 
@@ -305,6 +305,11 @@ Honor Pusenjak lived at Snugborough for much of the period 1915 to 1925. She say
 
 >I remember "Old Uncle" as being immensely aged, a tall old man with a white beard smelling faintly of whiskey, who walked with a stick, tap, tap, across the landing, and who seemed to spend most of his days in a rocking chair - "Uncle's chair" - in the dining room, sighing deeply about the black and tans and the woes of his native land.
 
+We have a photograph of "Old Uncle", aged about 81, at Snugborough.
+
+{{< figure src="Nathalia1918.jpeg"
+           caption= "Old Uncle, with Frank and Honor. c 1918" >}}
+
 The *Numurkah Leader* of Wednesday 12 January 1927 tells us:
 
 >The death occurred at Barwo on Monday of Mr Martin O'Hare, at the great age of 90 years. 
@@ -313,7 +318,7 @@ The *Numurkah Leader* of Wednesday 12 January 1927 tells us:
 
 Honor Pusenjak says of Sarah:
 
->Sarah, "Old Aunt", was the typical maiden aunt of Victorian times, taking her full share of family life and sharing with the growing children of her sister-in-law. She was said to be a very good maker of cakes, lamingtons, napoleans and sponges, but I remember her best as being continually in the kitchen standing up washing dishes, and what amount of dishes there were! Family legend has it that there was once somebody, but she never married.
+>Sarah, "Old Aunt", was the typical maiden aunt of Victorian times, taking her full share of family life and sharing with the growing children of her sister-in-law. She was said to be a very good maker of cakes, lamingtons, napoleons and sponges, but I remember her best as being continually in the kitchen standing up washing dishes, and what amount of dishes there were! Family legend has it that there was once somebody, but she never married.
 
 ### Mary Ann Commons (1845-1928)
 
@@ -333,7 +338,6 @@ We have a photograph (from the web) of Mary Ann at about the time of her wedding
 
 {{< figure src="MaryAnnCommons.jpeg"
            caption= "Mary Ann Commons. c 1868" >}}
-
 
 Honor has direct memories of her grandmother Mary Ann:
 
@@ -422,7 +426,7 @@ The *Gympie Times and Mary River Mining Gazette* 19 February 1916 tells us:
 
 >BIRTHS. O'HARE. February 17th, at "Kotoro", Nurse Hillcoat's Private Nursing Home, the wife of Mr. M. P. O'Hare, of Kauri Hills, Wolvi, a son. 
 
-"Kotoro" was a facility in Gympie that provided midwife services. These were common before public hospitals were better developed and trusted. The placename
+"Kotoro" was a facility in Gympie that provided midwife services. These were common before public hospitals were better developed and trusted. The place-name
 [Wolvi](https://en.wikipedia.org/wiki/Wolvi,_Queensland) lets us locate the farm a little more accurately. It is about 10km north of Kin Kin, on the road to Gympie.
 
 {{< figure src="MartinOHareMartinGympie.jpeg"
@@ -436,6 +440,10 @@ The family moved to a small location called
 In xxx a better financial situation allowed them to move to a property called Yenelin, south of Cunderdin.
 
 He died in 1953. His wife, Angela, moved to Como. His son Ned took over the farm.
+
+The *West Australian* of 23 July 1953 reported
+
+>O'HARE: On July 21, at his residence, 30 Comer street, Como, Martin Patrick, dearly beloved husband of Angela, loving father of Honora (Mrs. Pusenjack), Francis, Martin, Edmund and Elizabeth, father-in-law of Sheila, Patricia and Margaret, grandfather of eight grandchildren; aged 79 years. Requiescat in pace. 
 
 ### Margaret O'Hare (1869-1937)
 
@@ -468,7 +476,7 @@ Honor Pusenjak tells us:
 He had it in for rabbits. The *Numurkah Leader* of 31 January 1908 tells us:
 
 > An Improved Rabbit Destroyer.
-Patents are being applied for by Mr John Joseph O'Hare, of Nathalia, for an invention described as an "Improved apparatus for destroying rabbits by noxious fumes." Mr O'Hare found that two things had to be overcome to effect absolute certainty of death in the burrow. There was first something needed in a fumigator to prevent the return of the carbonised air, and secondly a provision that when poisoned the air would reach to the full length of the burrow. He set about to overcome these defects and if the evidence tendered by his neighbors and himself is to be believed, and we have every reason to believe them, he has succeeded. The machine was used at several very large burrows on warrens and when these were afterwards dug out not a live rabbit remained. Shortly described the machine consists of a small reservoir or tank in which is placed a small quantity of bi-sulphide of carbon. Through the bottom of this a piece of piping is run with holes on the inside to take in the carbon. On the one side is attached an air pump fitted with a valve after the style of a bicycle pump so that when the carbon is forced into the burrows there is no return of the carbonised air. The carbon is forced into the burrow direct through a long galvanised pipe and the air by a separate pipe is let in above the carbon and distributed all over the burrow to its furthest extremity. The chief point of difference, the maker claims, is that in other fumigators the air and carbon are mixed in the machine and there is no mechanism to prevent a return. So far only a few of the machines have been made and these have found a ready sale and orders have been given in.
+Patents are being applied for by Mr John Joseph O'Hare, of Nathalia, for an invention described as an "Improved apparatus for destroying rabbits by noxious fumes." Mr O'Hare found that two things had to be overcome to effect absolute certainty of death in the burrow. There was first something needed in a fumigator to prevent the return of the carbonised air, and secondly a provision that when poisoned the air would reach to the full length of the burrow. He set about to overcome these defects and if the evidence tendered by his neighbours and himself is to be believed, and we have every reason to believe them, he has succeeded. The machine was used at several very large burrows on warrens and when these were afterwards dug out not a live rabbit remained. Shortly described the machine consists of a small reservoir or tank in which is placed a small quantity of bi-sulphide of carbon. Through the bottom of this a piece of piping is run with holes on the inside to take in the carbon. On the one side is attached an air pump fitted with a valve after the style of a bicycle pump so that when the carbon is forced into the burrows there is no return of the carbonised air. The carbon is forced into the burrow direct through a long galvanised pipe and the air by a separate pipe is let in above the carbon and distributed all over the burrow to its furthest extremity. The chief point of difference, the maker claims, is that in other fumigators the air and carbon are mixed in the machine and there is no mechanism to prevent a return. So far only a few of the machines have been made and these have found a ready sale and orders have been given in.
 
 Eagles weren't safe either. The
 *Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser* of Tuesday 9 August 1921 tells us:
@@ -489,7 +497,7 @@ Honor Pusenjak tells us:
 
 Honor Pusenjak tells us:
 
->Apart from my father, the only other male member of the O'Hare family to marry was Uncle Phil. He was a rather dashing young man and started to pay his attentions to a charming girl, Flo Reardon, who was an accountant in the office of "Browm and Corks". Phil's attentions were frowned on by the Aunts, especially Aunt   Margaret, because terrible to relate Flo was not a Catholic. Many diatribes were hurled at Uncle Phil for his breach of "The Faith". He persisted, however, and they were eventually married in Flo's home state, Queensland.  
+>Apart from my father, the only other male member of the O'Hare family to marry was Uncle Phil. He was a rather dashing young man and started to pay his attentions to a charming girl, Flo Reardon, who was an accountant in the office of "Brown and Corks". Phil's attentions were frowned on by the Aunts, especially Aunt   Margaret, because terrible to relate Flo was not a Catholic. Many diatribes were hurled at Uncle Phil for his breach of "The Faith". He persisted, however, and they were eventually married in Flo's home state, Queensland.  
 I do not believe any of the Aunts attended the wedding, in spite of which the couple lived happily. They eventually settled on a farm in Wyalong, NSW, where they raised a family of six children. When Mary, the only daughter, was a little girl Flo died tragically after being burnt by the explosion of a petrol lamp.  
 Uncle Phil, with the help of the Aunts, managed somehow. He was lucky enough to win £10,000 in Tatts. Later he married again. Dot Leach was a widow and a friend of the Aunts.
 
@@ -534,6 +542,149 @@ I remember meeting them once, in about 1971. Kerry and I were living in a small 
 ## Parent Generation
 
 ### Francis John O'Hare (1916-1971)
+
+Francis John, known as Frankie as a child, had an unusual childhood. He was born in 1916 in Gympie, Queensland. In 1917 his mother Angela travelled to "Snugborough" in Nathalia to give birth to her next child, martin, ans obviously brought the one-year old Frank with her. When she returned to Kin Kin, she left Frank with the maiden aunts in Nathalia. Honor reports:
+
+>So now we were two. As I was the special concern of Aunt Joe, Frankie was taken over by Aunt Sarah. She adored him, and the feeling was mutual. She was "Doonie", and he was "Poss" or "Little Possum". He loved her all his life and when she was dying in Victoria at the age of 78 or so, he flew over to be with her. I don't think he ever got over the fact that she left him nothing in her will, as my mother said, "Not even some rosary beads".
+
+
+We have a photograph of Frankie at this time.
+{{< figure src="Frank1921.jpeg"
+           caption= "Frankie, aged about five. 1921" >}}
+
+It is not clear that her saw his parents again until 1926, when the family retreated from Kin Kin back to Nathalia. Honor reports of this time:
+
+>It seemed that on school mornings Frankie developed what the Aunts termed "his old pain". No-one seemed to know quite what it was or where it was. "He's got his old pain", Aunt Sarah would say, so school must be abandoned for the day. About ten o'clock the pain would be somewhat easier, so that he might partake of some hot milk or perhaps venture cautiously out to play. My mother soon saw through this subterfuge which, of course, was having an adverse effect on his education. She was appalled at his lack of knowledge.  
+"Sarah", mother was reported to have said, "Sarah, Frankie doesn't know his twice times tables, why is this?"  
+"Don't ask me", came the crushing reply, "ask his teacher".
+
+After nearly twelve months in Nathalia, the family set out for Western Australia. Family legend has it that Frankie was given the choice: to stay with the Aunts or to come with the family. He is reported to have said, "I want to go with Matt" (his brother).
+
+We have two impressive photographs, taken about 1936. Sheila comments:
+>These photos were regularly displayed at the Perth Royal Show, in the Co-Operative Bulk Handling pavilion.
+
+{{< figure src="frank01.jpeg"
+           caption= "Frank O'Hare, Bilbarin siding. 1936" >}}
+{{< figure src="frank02.jpeg"
+           caption= "Frank O'Hare, Bilbarin siding. 1936" >}}
+
+[cbh history](https://cemi.com.au/__static/a15dc0fe440aab4c9ef33b0cc31c1713/CEMI-CERU_Case-Study-History-CSR-2401-CBH-Group-Ltd.pdf)
+
+At this point Frank was 21, the eldest of the three boys. Hr had left school at 14 and had been working on the family farm ever since. Martin, aged 20, had completed his secondary education, and was now enrolled at RMC, Duntroon. Ned, the youngest boy (aged 16) had also left school and was working on the farm. Sheila tells us that Frank never received a regular wage. Nor, presumably, did Ned. The farm, like the earlier O'Hare and O'Hanlon farms at Nathalia, was some sort of unspoken family collective.
+
+In 1938 the O'Hare family moved to a somewhat larger farm called Yenelin, south of Cunderdin.
+
+Sheila O'Hare commented:
+
+>Frank was in the Australian Light Horse Regiment, but my father who was trying to manage "Spring Dallah" on his own in his late sixties, man-powered Frank out to help him. Frank and I lived with my parents until we were allocated "Nangunia" (a war-service farm) at Quairading in 1948.
+
+
+Between the wars the
+[10th Light Horse Regiment](https://en.wikipedia.org/wiki/10th_Light_Horse_Regiment_(Australia)) was part of the
+[Australian Army Reserve](https://en.wikipedia.org/wiki/Australian_Army_Reserve). Indeed
+
+>For the first half of the 20th century, due to a widespread distrust of permanent military forces in Australia, the reserve military forces were the primary focus of Australian military planning.
+
+The *Western Mail* of 22 September 1938 tells us
+
+>Light Horse Troop.  
+CUNDERDIN possesses its troop of "C"
+Squadron, 10th Light Horse Regiment, which is under the direction of Lieut. D. C. Macpherson, secretary of the local road board, who recently attained commissioned rank. The troop sergeant ls Mr. N. B. Pascoe. There are some 20 local men in the troop, and, apart from local training activities, they annually compete in military events at district shows, including Meckering and Tammin. The troop has had some difficulty in securing suitable remounts. During last month Lieut. Macpherson, the N.C.O.'s, and two selected troopers attended a cavalry training school held at Northam.
+
+For example, the *Northam Advertiser* of 19 November 1938 tells us:
+
+>10th LIGHT HORSE REGIMENT. C squadron.  
+To-morrow a competition shoot has been arranged with the Cunderdin troop on the Northam rifle range at 11 o'clock. Troops are requested to assemble at the drill hall at 10 a.m. A picnic luncheon will be held on the range, lunch to be provided by each man, and later tea at the Shamrock Hotel, The Commanding Qfficer of the regiment (Lieut.-Colonel Sweetapple), Captain McKewan and Warrant Officers have kindly consented to be present at the function. Every effort has been made to en-sure the success of the shoot, and it hoped that all members of the Northam troop will endeavour to be present.
+
+Things got a little more serious by the end of 1939.
+The *Avon Argus and Cunderdin-Meckering-Tammin Mail* of 11 November 1939 tells us:
+
+>The 10th. Light Horse Regiment will enter camp at Naval Base next Tuesday for one month continuous training. All members of the Cunderdin troop have received definite instructions regarding loading of mounts and gear. The members travelling by train will leave Cunderdin at 3.10 a.m. and are due to arrive a Spearwood at 10.45 a.m. No doubt a whole month away from the district during the harvest will seriously inconvenience a number of the men, but it is learned that arrangements have been made to minimise this difficulty where possible.
+
+In the end, it all
+[went swimmingly](http://nla.gov.au/nla.news-article58975406).
+
+
+Frank's
+[military record](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=6477886)
+takes a little deciphering. Page 17 shows he voluntarily enlisted at Cunderdin on 3 August 1940, in the 10th Light Horse Regiment. He declares that he willing to serve for three years, within the limits of the Commonwealth of Australia. A medical examination on the same day says he is 5ft 9in tall, weighs 140lb, has good eyesight and is
+>Fit - apart from having no teeth - recently extracted and no plate yet available.
+
+He then goes home, and waits to be called up.
+
+This process is shown in the main Mobilisation Attestation Form (pages 1-2). Part A is filled out at the initial enlistment (3 August 1940). Part B is a medical examination, done at Bunbury on 24 April 1941 (Frank is fully fit). Part C is the oath of enlistment, done at the same place and date. Finally there is an annotation "Called up FTD 18 Dec 1941". Presumably FTD means "full-time duties".
+
+Finally, there is an Attestation Form (page 12), 
+dated 27 July 1942, where Frank agrees to "serve in the Austrlian Military Forces within or beyond the limits of the Commonwealth". (Apparently the great majority of the Regiment made this commitment to be potentially sent overseas.)
+
+Finally (page 14) he is discharged on 11 November 1943, with the reason for discharge being "Essential Supply - Farming".
+
+In the event the 10th Light Horse was not moved from W.A. It was committed to coastal patrol through to 1944, when it was disbanded. We have a
+[photograph](https://collectionswa.net.au/items/552b094d-7a69-4eed-9697-5c0260a2bd44) of the Cunderdin troop at this time.
+
+We also have two identity photographs for Frank from this time:
+[here](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=204829100) and
+[here](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=204829101).
+{{< figure src="FrankOHareArmy.jpeg"
+           caption= "Frank O'Hare, 10th Light Horse Regiment. 1943" >}}
+
+
+For nearly five years (early 1944 to late 1948), Frank and Sheila lived on "Spring Dallah", sharing the farmhouse with Sheila's parents. Sheila tells us that Frank worked under some sort of share-cropping arrangement, receiving the value of the wheat crop. Presumably he helped work the farm right through the year, but did not otherwise receive a weekly wage. As the crops were generally poor, they had a low income through this time. For example, the
+*Sunday Times* of 20 October 1946 reports:
+
+>Latest reports on the crops from the Rural Bank yesterday were:  
+Northam, Toodyay, York, Cunderdin, Quairading and Pingelly: A few crops on high country but generally crops here disappointing and show effects of excessive moisture. Yield under normal average.
+
+When Michael O"Hanlon got rid of his horses in 1937 he purchased a Deutz diesel tractor. Apparently it was a dud, and it was forever breaking down, particularly during seeding and cropping. As well, Frank wasn't the district's greatest mechanic.
+
+When the O'Hare family moved to Yenelin in 1937, apparently they kept the old farm at Bilbarin. Family legend has it that Frank was "offered the farm" at about this time. However, he did not take up the offer. Or perhaps Sheila was unenthusiastic. It was 100 km away from "Spring Dallah", and Honor relates that the farmhouse was awful. In the end, Sheila relates that Frank received £2000 "from Bilbarin", in £500 instalments.
+
+Somewhat in desperation Frank managed to acquire another tractor, a second-hand International, using a war service loan.
+
+And then, Frank and Sheila had a big stroke of fortune.
+The *West Australian* of 29 September 1948 tells us:
+
+>SIX FARMS ALLOTTED  
+Allotment of an additional four wheat and sheep farms and two dairy farms under the war service land settlement scheme has been approved by the Minister for Lands (Mr. Thorn). All the properties, with the exception of one indicated, will be occupied on a caretaker basis until the Commonwealth approves the granting of a perpetual lease. Mr. Thorn said yesterday that the successful applicants recommended by the allotment board were: Wheat and Sheep Farms: A423a (Gnowangerup). Ira James Thornton, Gnowangerup: A272b (Quairading). Francis John O'Hare. Balkuling: A453 (Kulin), Thomas Ashley Randall, Jitarning: A558 (Borden). Leslie Albert Geoffrey Black. Gnowangerup. Dalry Farms: A239 (Pemberton). Harold William Daniels. 17 Battle Street. Mosman Park (perpetual allottee):' A145 (Narrikup). Benjamin Randolph Thomason. Narrikup.
+
+For a history of Quairading, one can do no better than to note the history of the [Quairading Farmers Co-Operative Company](https://cemi.com.au/__static/jdj5jdewjg5st2dowefiaxvebgtynhm5/CEMI-CERU-Case-Study-History-CSR-2502-Quairading-Farmers-Co-operative-Ltd.pdf).
+
+
+The property itself warrants a
+[heritage listing](https://inherit.dplh.wa.gov.au/public/inventory/printsinglerecord/847dc02b-8b27-4d86-9c6b-e0ab26f83d5b). This includes:
+
+>Statement of Significance  
+The place is a fine representative example of a farm of its era. The pioneer associations are significant.  
+Physical Description  
+Red brick home with a corrugated iron roof.  
+History  
+TC Hodgeson took up 25000 acres on a pastoral lease, and later conditional purchase, and called the property "Whitehaven". Robert Barr took over part of the property from Charles Baxter who retained the homestead portion of the original Whitehaven property. In c1927 Barr built the existing homestead. An old stone dwelling on the property is used as a seed storage area. Together with Whitehaven, Nungunia was purchased by the Government after World War Two, and the property with the original dwelling was allocated to Francis J O'Hare in 1948, under the Soldier Settlement Scheme. The farm is currently farmed by his son Paul O'Hare.
+
+
+A history of the
+[war service land settlement scheme](https://library.dpird.wa.gov.au/cgi/viewcontent.cgi?article=1029&context=fse_publishedrpts)
+is available. This particular post-WWII scheme first purchased farms on the open market. However, when values rose it became too difficult to obtain sufficient farms, and the scheme resorted to developing virgin Crown land. Frank and Sheila acquired a farm close to Balkuling, with an attractive farmhouse, in this first phase.
+
+From the history:
+
+>The Scheme was based on perpetual
+leasehold with the right to acquire the
+freehold after ten years of leasehold
+occupation. From the inception of the Scheme
+the basis of valuation was cost and
+the lessee was to be charged a rental
+of 2.5 per cent. of cost, thus giving
+him a great advantage over farmers outside the Scheme, who generally
+pay between 5 per cent. and 7 per
+cent. for money borrowed for development. 
+
+{{< figure src="FrankPassport.jpeg"
+           caption= "Frank O'Hare, passport. 1968" >}}
+
+Tragically, Frank was killed on 27 December 1971, on the farm. A newspaper report of the time:
+
+>FARM DEATH. A farmer, Francis John O'Hare (54), was killed when he was run over by a tractor while harvesting on his propertry near Quairading. Police believe that Mr O'Hare was emptying a harvester when he noticed that the tractor was moving. He slipped while trying to pull on its handbrake and was crushed beneath a rear wheel.
+
 
 ### Mary Honor O'Hare (1913-2002)
 

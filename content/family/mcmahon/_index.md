@@ -844,14 +844,29 @@ Rest in peace
 
 ### Margaret Mary McMahon (1871-1951)
 
+Born 13 May 1871, at Robert Givan's house at Davies Street, South Yarra (before John and Jane McMahon moved to Fitzroy). She died 30 July 1951.
+
+### Jane Ellen McMahon (1873-1876)
 ### Annie Catherine McMahon (1873-1939)
+
+Twins. Born 21 May 1873 at Maynooth Cottage, North Fitzroy. Jane died of diphteria 23 October 1876, aged 3 years and 5 months. Annie died 24 July 1939, after surgery for goitre. She had been advised that she had only a 50-50 chance of surviving the surgery.
 
 ### Etheldreda McMahon (1877-1971)
 
+Born 25 July 1877 at 99 Brunswick St. Fitzroy. Etheldreda (Nett) married Franz (Frank) Schieblich on 27 February 1917. A bay girl was stillborn, on 18 November 1918.
+
 {{< figure src="NettFrankSchieblich1949.jpeg"
            caption= "Nett, Frank Schieblich. Melbourne. 1949" >}}
+		   
+She died 25 February 1971, the last of her siblings. The *Age* of 1 March 1971 reported:
+
+> SCHIEBLICH (McMahon). On February 25th, Ethel Reda, dearly beloved and loving wife of the late Franz Ottomer Schieblich, aged 91 years.  
+SCHIEBLICH (McMahon). On February 25th, Ethel Reda, loved second daughter of John and Jane McMahon. Her brothers and sisters all predeceased her. They were: Margaret (Mrs Serong), Geraldine (Sister Mary Patrick), Nan (Mrs Kelly), Eily (Mrs O'Hanlon), John, Leo and Frank, aged 93 years.  
+She was greatly loved and respected.
 
 ### Geraldine McMahon (1881-1970)
+
+Born 17 August 1881 at 101 Briswick St, Fitzroy. Entered the Presentation Convent at Wagga in 1904 (Sister Mary Patrick). Died at 18 November 1970, at Wagga.
 
 {{< figure src="NettGeraldineMcMahon1930.jpeg"
            caption= "Sisters Nett and Geraldine McMahon. 1930" >}}
@@ -859,6 +874,8 @@ Rest in peace
 The photograph is annotated: 8 January 1930. Near "Black Rock", NSW. 104F in the shade.
 
 ### Eily Erina McMahon (1883-1956)
+
+Born 5 July 1883, at 101 Bruswick St, Fitzroy.
 
 
 {{< figure src="EilyMcMahon1919.jpeg"
@@ -868,12 +885,31 @@ The photograph is annotated: 8 January 1930. Near "Black Rock", NSW. 104F in the
 {{< figure src="EilyMcMahon1950.jpeg"
            caption= "Eily McMahon c. 1950" >}}
 
+Died 14 November 1956, at her home at Quirading, WA.
 
 ### John Joseph McMahon (1886-1945)
 
+Born 13 March 1886, at 101 Brunswick St, Fitzroy. Died 14 March 1945.
+
+We have an  
+[obituary](https://onlinelibrary.wiley.com/doi/epdf/10.5694/j.1326-5377.1945.tb54976.x)
+in *The Medical Journal of Australia* of June 1945, that is, somewhat surprsingly, freely accessable online.
+ 
 ### Leopold Luke McMahon (1888-1957)
+
+Born 30 October 1888, at Smith St, Northcote. Died 14 March 1957.
+
+From the British Medical Journal of 1957:
+
+> L.L. McMAHON, M.B.  
+Dr. L. L. McMahon, of Whitchurch, Glamorgan, died at his home there on March 10 at the age of 68. Leo Luke McMahon was born on October 31, 1888, and studied medicine at the Univesity of Melbourne, where he graduated M.B., B.S. in 1915. After the first world war he came to Britain and settled in general practice at Whitchurch, where he remained until his death.  
+C.W.S. writes: Dr. L. L. McMahon was one of the large army of general practitioners who shun the limelight, do their duty, and leave behind them a sweet-smelling memory. "Mac" was always a joy to his patients and friends - solid, four-square, uncompromising, and kindly. Uprightness and common sense were the twin poles of his being, and in his last long illness his courage was amazing. He made no concession to the enemy, worked to the last day, and died, as he wished, in harness. For the lighter side, golf was his passion : unothodox in style, he was a dangerous opponent because he never admitted defeat. He leaves a widow and one son, who is a medical student,
 
 ### Frank Fitzroy McMahon (1889-1954)
 
+Born 25 September 1899, at the home of Luke McMahon, at Maynooth, Co Kildare, Ireland, during the visit of John and Jane McMahon to Ireland.
+
 {{< figure src="McMahon1936.jpeg"
            caption= "Frank (junior), Eily, Alice (Frank's wife), Frank, Nett, (front) Peter. Lilydale, c 1936" >}}
+
+Died 25 August 1954.
