@@ -76,7 +76,14 @@ Honor Pusenjak tells us:
 >Henry Search opened a butcher's shop in 1850, on the south-west corner of Albert Street and Sydney Road. This was the first retail establishment in Brunswick. By 1851, gold diggers began making their way through the area, on their journey from the populous suburbs of Fitzroy and Collingwood. Brunswick provided a convenient place for lunch, before the diggers reached the beginnings of the roads to the goldfields, near present-day Essendon. A small village sprang up to meet the needs of the travellers, near the present day Cumberland Arms Hotel. The village included a tent market, described as being like a bazaar, where miners could buy goods needed for the goldfields. Brunswick Post Office opened on 1 January 1854.  
 In the 1850s, quarries and a large brickworks established in Brunswick, using the local clay and bluestone, quickly became the largest industry in the area. 
 
-This aligns with the family version. Perhaps the boys (who arrived in 1856) joined John and Margaret in Gippsland for some time, before all moving back to Melbourne.  Finding work would not have been hard, and it was necessary to save the capital needed to purchase working horses and drays. 
+This aligns with the family version. Perhaps the boys (who arrived in 1856) joined John and Margaret in Gippsland for some time, before all moving back to Melbourne.  Finding work would not have been hard, and it was necessary to save the capital needed to purchase working horses and drays.
+
+We actually have a reference to them in Brunswick in 1861;
+The *Advocate* of 7 September 1939 tells us:
+
+>Brunswick's Catholic History  
+Sir,—During the course of your article on Brunswick's Catholic history, it is mentioned that some time in 1864 Fr. O'Hea was seeking for a site for church purposes at Brunswick, and that on the site obtained he built a wooden school. Apparently it is not known that there was a school established at Brunswick some years previous. Rev. Dr. Bleasdale, secretary of the Bishop, in 1861, states: "There is a Catholic school at Brunswick, which was opened by Mr. Terence O'Boyle on November 26, 1860. ... It is three miles from the Catholic school at North Melbourne. The children attending are .. ; Sarah O'Hare; .. . There are also eight children attending a night school at Brunswick, and it is conducted also by Thomas O'Boyle, who, Dr. Bleasdale adds, "is one of the best teachers that the Catholic schools have in Victoria." One of the inspectors of the Denominational School Board visited the school on June 11, 1861. His report on the school is as follows: "This school has been in operation some time. ... It is 2.5 miles from Pentridge, and is directly opposite the Wesleyan Church. ... The school is at present in a room attached to the Brunswick Hotel. There is a small playground with a fence around. ... The teacher is Mr. O'Boyle." Apparently the school did not receive recognition from the Denominational School Board, for a memorial from the inhabitants of the district was presented by Dr. Bleasdale, who asks "that the board consider the claims of the Roman Catholic School, and the steps taken by the inhabitants." An appeal was also made to the Government. Mr. O'Boyle did not remain teacher of the school very long, presumably because of the neglect of the School Board to give him a salary (he appears at a country school in 1861), for on June 6, 1862, Fr. O'Hea, as correspondent, writes and says: "William Flynn was the teacher of the Catholic school at Brunswick from 1/7/'61 to 31/12/'61." He was succeeded by a Timothy Cronin, who also did not remain very long. The school was still in existence in August of 1862, as the attendance is stated to be 31, and a local school committee was. in existence. The discontinuance of the school must, later, have been carried out, which is probably the reason for stating that it was established in a wooden building in November, 1864. Perhaps some of the names I have given above are of persons who are still living, and it would be interesting to know when this school was discontinued, if it did, and whether it was held in the room of the hotel for very long.  
+Yours, etc., F. D. MINOGUE. Albert Park.
 
 He died in 1863 after less than a decade in the colony. His death certificate lists him as "John OHaire", aged 58. He and Margaret have an impressive gravestone.
 
@@ -290,6 +297,15 @@ It is with regret that I have to record the death of Mrs. Hilet, wife of Lawrenc
 from an attack of typhoid, when congestion of the lungs set in and brought about her demise. Although everything that medical skill could advise was done, the unfortunate lady passed peacefully away to her last home, leaving behind a large family of children to lament their beloved mother's death and deplore their father's loss. The Rev. R. W. Rock conducted the burial service in a very impressive manner. The burial, which took place on Friday last, was attended by a large circle of sorrowing friends.  
 The infant child of Richard Smith, Nathalia, and the youngest child of J. Connelly, Narioka, were interred in the Nathalia cemetery on last Friday — death in each case resulting from exhaustion, brought about by the oppressive heat. 
 
+
+We also have a notice in the
+*Australasian* of 22 January 1898:
+
+>O'HARE. —On the 8th January, at his residence,
+Snugborough, Nathalia, John, the dearly be-loved husband of Mary O'Hare, and beloved brother of Martin and Sarah O'Hare, late of Edward-street, Brunswick, aged 63 years. Requiescat in pace.
+
+
+
 Finally, we have his
 [will](JohnOHareWill.pdf),
 his [statement of Probate](JohnOHareProbate.pdf), and his
@@ -319,6 +335,13 @@ The *Numurkah Leader* of Wednesday 12 January 1927 tells us:
 Honor Pusenjak says of Sarah:
 
 >Sarah, "Old Aunt", was the typical maiden aunt of Victorian times, taking her full share of family life and sharing with the growing children of her sister-in-law. She was said to be a very good maker of cakes, lamingtons, napoleons and sponges, but I remember her best as being continually in the kitchen standing up washing dishes, and what amount of dishes there were! Family legend has it that there was once somebody, but she never married.
+
+The *Argus* of 7 October 1933 tells us:
+
+>O'HARE-On the 2nd October, at her residence, Snugborough, Nathalia, Sarah, dearly loved
+sister of the late John and Martin O'Hare, aged
+87 years. - Requiescat in pace.
+
 
 ### Mary Ann Commons (1845-1928)
 
@@ -391,7 +414,38 @@ This was "Old Uncle" Martin. Strictly, Katie was not his niece, but his great-ni
 
 ## Grandparent Generation
 
-This is the generation of Kerry's paternal grandfather and his nine siblings. Of the ten, only three married. Of the seven who stayed single, six lived (and died) at the family farm, Snugborough.
+This is the generation of Kerry's paternal grandfather and his nine siblings. Of the ten, only three married.
+
+It is informative to look at the 1925 Electoral Roll. There are eight O'Hares registered at Nathalia (presumably living at Snugborough). There are three left of the older generation: John Joseph's widow Mary (aged 80), Old Uncle Martin (aged 88) and Old Aunt Sarah (aged 79). There are five of the next generation, all single: Joanna, John Joseph, Margaret, Sarah and William. Mary has died, some thirty years before. Martin Patrick has married, and is living in Queensland. Philip has married and is living in NSW. Eliza has married, and is living in Melbourne. Catherine is still single, and is in fact living with Eliza and her husband in Melbourne.  When she retired in 1949, she moved back to Snugborough.
+
+At this remove, the ownership and the finances of the farm are not clear. Somehow the farm duties were shared, and the farm income was shared.
+
+As well as being a home for the eight unmarried adults, it was also a family foster home. As explained
+[here](../raselli/#angela-raselli-1878-1973)
+the first two children of Martin and Angela also lived at Snugborough during the period 1913 to 1926, being mothered by the Aunts. See the photograph of Old Uncle above.
+
+
+The *Pioneers of Nathalia and District* tells us:
+
+>After the deaths of Billy and Jack within a few weeks of each other early in 1931, Margaret, Sarah and Johanna continued the running of the farm with hired help until the harvest of 1939 when John, Phillip's eldest son was sent for "to help take off the crop". He has been there ever since and is now the owner of the property.
+
+By 1962 there were just three of "The Aunts" left at Snugborough. We have a photograph, taken during a visit by Frank and Sheila O'Hare (Kerry's parents).
+
+{{< figure src="OHareAunts1962.jpeg"
+           caption= "Sarah, Sheila, Joanna, Catherine. Snugborough. 1962" >}}
+
+They made another visit in 1966. Sarah died in 1965. We have two photographs of Johanna (aged 91) and Catherine (aged 85).
+
+{{< figure src="OHareAunts1966a.jpeg"
+           caption= "Catherine, Johanna. Snugborough. 1966" >}}
+
+{{< figure src="OHareAunts1966b.jpeg"
+           caption= "Johanna, Catherine. Snugborough. 1966" >}}
+
+
+{{< figure src="PhaetonNathalia.jpeg"
+           caption= "The phaeton, Snugborough" >}}
+
 
 ### Martin Patrick O'Hare (1874-1953)
 
@@ -402,7 +456,7 @@ Although he was the oldest son, there seemed to be no room for him at Snugboroug
 He worked at
 [Nangunyah Station](http://nla.gov.au/nla.news-article274081084)
 owned by one
-[Mr Emanuel Gorman](http://nla.gov.au/nla.news-article4034715)
+[Mr Emanuel Gorman](http://nla.gov.au/nla.news-article4034715).
 
 A [report](http://nla.gov.au/nla.news-article186410234) in the
 *Numurkah Leader* of 21 August 1908 related (in full detail) a farewell for Martin as he left Nathalia to start a farm near
@@ -410,7 +464,7 @@ A [report](http://nla.gov.au/nla.news-article186410234) in the
 
 The *Gympie Times and Mary River Mining Gazette* of 8 September 1908 tells us:
 
-> Mr. M. O'Hare. of Kembla Heights, N.S. Wales, who recently purchased a large area of country north of Kin Kin, arrived at Gympie last week, and intends settling on his property right away ; he has had about fifty acres felled.
+> Mr. M. O'Hare. of Kembla Heights, N.S. Wales, who recently purchased a large area of country north of Kin Kin, arrived at Gympie last week, and intends settling on his property right away; he has had about fifty acres felled.
 
 The *Gympie Times and Mary River Mining Gazette* of Thursday 20 February 1913 tells us:
 
@@ -437,7 +491,7 @@ In 1926 Martin fell seriously ill, and it was believed that he was suffering fro
 The family moved to a small location called
 [Bilbarin](https://en.wikipedia.org/wiki/Bilbarin,_Western_Australia).
 
-In xxx a better financial situation allowed them to move to a property called Yenelin, south of Cunderdin.
+In 1937 a better financial situation allowed them to move to a property called Yenelin, south of Cunderdin.
 
 He died in 1953. His wife, Angela, moved to Como. His son Ned took over the farm.
 
@@ -448,6 +502,10 @@ The *West Australian* of 23 July 1953 reported
 ### Margaret O'Hare (1869-1937)
 
 Lived at Snugborough. One of "the girls".
+
+The *Advocate* of 7 October 1937 tells us:
+
+>O'HARE.—On 3rd October, at private hospital, Melbourne, Margaret, loved eldest daughter of the late John and Mary O'Hare, of "Snugborough," Nathalia. Requiescat in pace. 
 
 ### Mary Sarah O'Hare (1872-1892)
 
@@ -487,11 +545,15 @@ The *Numurkah Leader* of 10 February 1931 tells us:
 > A well-known resident of the Nathalia district, Mr John O Hare, died suddenly at his farm on Tuesday last. The late Mr O'Hare who was 51 years of age, was born at Nathalia, his parents being amongst the very first settlers in that district. He was a fine athlete and won a reputation for himself as one of the best pigeon shots in the State. Personally he was very popular, and his sudden death caused deep regret among his many friends. Surviving members of his family are Misses M., J., K., and S. O'Hare (Nathalia), Mrs M. Doherty (Melbourne) and Messrs Martin (West Australia), William (Nathalia), and Phil. O'Hare (West Wyalong).  
 The funeral on Wednesday was largely attended. The interment took place in the Nathalia Cemetery, where the Rev. Father Heffernan read the burial service.
 
-### Katherine O'Hare (1881-1974)
+### Catherine O'Hare (1881-1974)
 
 Honor Pusenjak tells us:
 
 >Auntie Kath worked all her life in the Lands Department (in Melbourne) until she retired back to Snugborough, while Auntie Sara sometimes got called to Melbourne for a temporary office position.
+
+By 1918, Cath and Eliza were both working in Melbourne. Honor Pusenjak tells us they boarded with a cousin Ellen Commons (one of Maurice Commons' children) who was married to one Patrick Collins. They lived at 27 Grattan St, Carlton, and had no chidren, so chose to take in boarders. Honor relates that in about 1919 it was decided that the government school at Barwo West would not do, and that Cath and Eliza should look after her in Melbourne while she attended the rather posh Catholic Ladies College. She speaks of Cath having the main caring responsibilty, particularly after Eliza married in 1921. The arrangement came to an end in about 1923, when Honor was taken back to her parents in Kin Kin. (Frank remained at Snugborough, looked after by Sarah in particular).
+
+Cath seems to have lived with her sister and brother-in-law. The Electoral Rolls certainly record the same address in Deepdene. Pat Collins died in 1925, and maybe the boarding arrangements in Carlton came to an end. At some stage Ellen moved back to Woodend where her Commons family lived (she died there in 1942).
 
 ### Phillip Joseph O'Hare (1883-1985)
 
@@ -520,14 +582,11 @@ Her mother lives in Queensland.
 The funeral at West Wyalong on Wednesday afternoon, which left St. Mary's Church, was a large and representative one, and there was a wealth of floral tributes. The service at the graveside was read by Father Lynch, and the interment
 was made in the Roman Catholic portion of the Wyalong Cemetery.
 
-{{< figure src="PhaetonNathalia.jpeg"
-           caption= "The phaeton, Snugborough" >}}
-
 ### Sarah O'Hare (1886-1965)
 
 ### Eliza O'Hare (1888-1975)
 
-Called Auntie Lal, she worked (like Katherine) in government offices in Melbourne. She married Michael Doherty in 1921, and they had three children. 
+Called Auntie Lal, she worked (like Catherine) in government offices in Melbourne. She married Michael Doherty in 1921, and they had three children. 
 
 Honor Pusenjak tells us:
 
@@ -537,22 +596,24 @@ The wedding and reception was
 [reported in full detail](http://nla.gov.au/nla.news-article282526362)
 in that journal of record the *Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser*.
 
+{{< figure src="Doherty1961.jpeg"
+           caption= "Eliza and Mick Doherty, Sheila and Elizabeth O'Hare. Nangunia. c 1961." >}}
+
 I remember meeting them once, in about 1971. Kerry and I were living in a small house in Maroubra Junction in Sydney, and they kindly visited us. They regaled us, non-stop for what seemed to be three hours, with stories about priests and nuns that they knew, and convents and presbyteries they had visited. They seemed to have the knack of staying at convents when travelling overseas. They had travelled on the same ship as Cardinal Gilroy, a significant anecdote in itself. They were what I would irreverently call, religious groupies. They never once asked about our experiences. I have never forgotten it.
 
 ## Parent Generation
 
 ### Francis John O'Hare (1916-1971)
 
-Francis John, known as Frankie as a child, had an unusual childhood. He was born in 1916 in Gympie, Queensland. In 1917 his mother Angela travelled to "Snugborough" in Nathalia to give birth to her next child, martin, ans obviously brought the one-year old Frank with her. When she returned to Kin Kin, she left Frank with the maiden aunts in Nathalia. Honor reports:
+Francis John, known as Frankie as a child, had an unusual childhood. He was born in 1916 in Gympie, Queensland. In 1917 his mother Angela travelled to "Snugborough" in Nathalia to give birth to her next child, Martin, and obviously brought the one-year old Frank with her. When she returned to Kin Kin, she left Frank with the maiden aunts in Nathalia. Honor reports:
 
 >So now we were two. As I was the special concern of Aunt Joe, Frankie was taken over by Aunt Sarah. She adored him, and the feeling was mutual. She was "Doonie", and he was "Poss" or "Little Possum". He loved her all his life and when she was dying in Victoria at the age of 78 or so, he flew over to be with her. I don't think he ever got over the fact that she left him nothing in her will, as my mother said, "Not even some rosary beads".
-
 
 We have a photograph of Frankie at this time.
 {{< figure src="Frank1921.jpeg"
            caption= "Frankie, aged about five. 1921" >}}
 
-It is not clear that her saw his parents again until 1926, when the family retreated from Kin Kin back to Nathalia. Honor reports of this time:
+It is not clear that he saw his parents again until 1926, when the family retreated from Kin Kin back to Nathalia. Honor reports of this time:
 
 >It seemed that on school mornings Frankie developed what the Aunts termed "his old pain". No-one seemed to know quite what it was or where it was. "He's got his old pain", Aunt Sarah would say, so school must be abandoned for the day. About ten o'clock the pain would be somewhat easier, so that he might partake of some hot milk or perhaps venture cautiously out to play. My mother soon saw through this subterfuge which, of course, was having an adverse effect on his education. She was appalled at his lack of knowledge.  
 "Sarah", mother was reported to have said, "Sarah, Frankie doesn't know his twice times tables, why is this?"  
