@@ -541,15 +541,21 @@ at Cranbourne direct to the company for £10,400, subject to mortgages to be dis
 The liquidator of Golden Washed Sand Ltd. (in liq.), Mr G. M. Fosbery, presented
 a statement to creditors at a meeting yesterday showing a deficiency of £1469. Creditors are owed £1671. Assets total £202, comprising £190 uncalled capital and £12 allotment money owing.
 
-#### The Balkuling Years
+#### The Doodenanning Years
 
-The Golden Washed Sands fiasco and the general commercial decline of the depression must have made Michael's commercial interests in Melbourne unviable. At the age of 52 he decided to return to farming. Just like the O'Hares in 1927, land in Victoria proved too expensive, and the O'Hanlon's moved to the wheatbelt of West Australia.
+The Golden Washed Sands fiasco and the general commercial decline of the depression must have made Michael's commercial interests in Melbourne unviable. At the age of 52 he decided to return to farming. Just like the O'Hares in 1927, land in Victoria proved too expensive, and the O'Hanlons moved to the wheatbelt of West Australia.
 
 A farm of some 3400 acres was acquired, some 8 km south of the small town of Doodenanning, itself some 45 km east of
 [York](https://en.wikipedia.org/wiki/York,_Western_Australia). In the Coolgardie-Kalgoorlie goldrush, starting around 1887, the road to the goldfields started from York (the then railhead) and ran through Doodenanning. The railway to Kalgoorlie, completed in 1894, ran from Northam and not York, and passed some 20 km to the north of Doodenanning. A railway was later constructed east from York, reaching Quairading in 1907. This passed some 20 km to the south of the farm, with the nearest siding being
 [Balkuling](https://en.wikipedia.org/wiki/Balkuling,_Western_Australia).
 
-Michael clearly travelled to WA to find and negotiate the farm, perhaps early in 1929. Sheila indicates some sort of package was arranged, where the house in Elwood was exchanged as the full deposit on the farm. Perhaps the Elwood house was not sold on the open market. 
+We have a local history: Beryl Green, *100 Years Around Doodenanning: 1897-1997*, self published, 1997. The preface includes the statement:
+
+> Many thanks to Sheila O'Hare for proof-reading this book and for the time spent at Battye Library.
+
+Michael clearly travelled to WA to find and negotiate the farm, perhaps early in 1929. Sheila tells us that the farm was purchased "from the Goodmans", and indicates some sort of package was arranged, where the house in Elwood was exchanged as the full deposit on the farm. Perhaps the Elwood house was not sold on the open market. "The Goodmans" would seem to be Harry and Leonard Arthur Goodman, of the W.A. Farm Estates Co. They seem to be
+[Arthur Daley](https://en.wikipedia.org/wiki/Minder_(TV_series)) characters, with a [record](http://nla.gov.au/nla.news-article256112423) of similar deals. They were flexible enough to sell the O'Hanlons a Dodge car on their arrival in WA - the Goodmans had been 
+[car dealers](http://nla.gov.au/nla.news-article63725244) in Adelaide not long before.
 
 The farm, called "Spring Dallah", warrants a 
 [very brief heritage listing](https://inherit.dplh.wa.gov.au/Public/Inventory/PrintSingleRecord/86445e76-b133-43fa-8a1f-ea3a464c3d77).
@@ -565,7 +571,7 @@ The owner was a local worthy and Doodenanning booster, invariably referred to in
 
 In any event, the family travelled from Melbourne to Perth by rail in August 1929. Sheila reports that her mother wept as they left Melbourne, leaving behind her large close-knit family for distant WA, where neither she or her husband Michael had any family connections. Their furniture, acquired for their marriage in 1919, was sent by steamer. Family legend has it that Eily's family helped out with moving the furniture. 
 
-Shelia speaks of the front of the house, constructed of cement bricks, as being an extension to the original house. This was built of mud brick, and did not have floors. She says her father, on his original visit, arranged for floors to be installed in two rooms, and a room selected as a bathroom, and a zinc bath installed. There was no running water. Rather, the main (underground) tank was some 100 metres away, with a hand-pump on top. There was a large wood stove in the kitchen, with a large "water fountain" on top. This was the hot-water system, providing hot water for washing-up (no sink) and baths. Laundry was done in the open, with a copper residing in the back yard.
+Sheila speaks of the front of the house, constructed of cement bricks, as being an extension to the original house. This was built of mud brick, and did not have floors. She says her father, on his original visit, arranged for floors to be installed in two rooms, and a room selected as a bathroom, and a zinc bath installed. There was no running water. Rather, the main (underground) tank was some 100 metres away, with a hand-pump on top. There was a large wood stove in the kitchen, with a large "water fountain" on top. This was the hot-water system, providing hot water for washing-up (no sink) and baths. Laundry was done in the open, with a copper residing in the back yard.
 
 She also speaks of a Wizard lantern system in two rooms, fed from a common tank outside. This would seem to be an
 [Australian version](https://classicpressurelamps.com/threads/australian-%E2%80%9Cwizard-aluminite%E2%80%9D-table-lamp.16580/) of a premium American product.
@@ -604,15 +610,79 @@ The rifle club was no longer active. The tennis club and the golf club seemed to
 
 The farm could not have made much money during the Depression years. On the other hand, hired help was not expensive. Eily could afford help in the house, as indicated in the above photos. Sheila tells us that Michael could hire workers for keep and £1 per week. You could not run a farm single-handed.
 
+In fact he must have lost money on his first crop. This involved Michael representing himself in court, unsuccessfully, somewhat like his brother Patrick.
+The *West Australian* of 2 July 1931 tells us:
+
+>Merchants Sue Farmer.  
+An unusual case, of considerable interest to the farming community, engaged the attention of Mr. Justice Dwyer in the Supreme Court yesterday. when Bunge
+(Australia). Pty., Ltd., wheat merchants, brought a claim against Michael John O'Hanlon, farmer of Balkuling. Sir Walter James, K.C., with him Mr. N. P. Lappin (instructed by Messrs. Dwyer and Thomas), appeared for the plaintiffs, and the defendant conducted his own case. On the plaintiffs behalf it was set out that in December, 1929, the defendant had delivered to them a quantity of wheat (2,947 bushels), to be held in storage, the defendant being given an advance of 3/9 per bushel, the price of wheat at that time being well in excess of that figure. The defendant failed to sell his wheat before the price dropped lower than the amount of the advance, and when required to pay the difference, O'Hanlon undertook to deliver sufficient new season's wheat to make up the deficiency. He failed to carry out this undertaking and the company, in accordance with its storage conditions, sold the wheat on December 31 last, at a price of 1/8 per bushel. It now claimed from the defendant the amount of the advance (£586, inclusive of interest), after crediting him with the sum realised on the sale (£245). Mr. Justice Dwyer listened patiently to a long address by the defendant, and when the latter made a reference to 'business risk' and to what he considered to be the motives of the company, his Honour sharply exclaimed, 'Don't talk rubbish; Mr. O'Hanlon - that sort of thing might be all very well for public meetings, but it won't do here.' His Honour put numerous questions to the defendant for the purpose of eliciting a definite statement as to the precise nature of the defence. O'Hanlon finally made it clear that the substance of his case was that the company had credited him for his consignment of 2,947 bushels; and that the company, though purporting to have sold at 1/8 per bushel on December 31 last, had, in fact, sold considerably earlier at a higher price; and he claimed to be allowed, as a credit, the average price received on sales throughout the season. He said that an oral agreement with the company's agent at Balkuling, a Mr. Elliott, was the agreement on which the transaction was based, and he maintained that the whole case turned on this matter. "The later contract in writing respecting the storage was ultra vires," he said, "as there was no mutuality and no conformity with the oral agreement which was the basis of the transaction."  
+His Honour asked the defendant if he had any knowledge of the meaning of the legal phraseology he was using. On receiving O'Hanlon's explanation of what he thought was meant by "ultra vires" and "mutuality," his Honour said: "That is not what the terms mean at all, and I advise you to stick to plain English and words you understand." When informed that random statements were useless, and that if he desired to substantiate his case he must call evidence, the defendant took the unorthodox course of calling the manager for this State of the plaintiff firm, Melville Smith. The witness said that at all material times the firm had had sufficient wheat at their disposal to re-deliver to the defendant all wheat stored by him. When pressed by the defendant for details as to how much wheat was held by the plaintiff firm in storage, and how much for outright sale on stated dates, the witness said that he was unable from memory, to give accurate answers. While the witness was in the box the
+defendant was repeatedly warned by his Honour that he must desist from making speeches, and must confine himself to direct examination of the witness. To his Honour, the witness said that he knew nothing about any sale of the defendant's wheat by the company prior to December 31 last.  
+The defendant, in evidence. said that late in December, 1929, he asked the plaintiff company's agent at Balkuling, Mr. Elliott, what were the terms on which the company received wheat in storage. Elliott replied that the company would provide free storage for 12 months, and that when this period expired a charge would be made of ¼d. per bushel per month. He said that, the company advanced 3/9 per bushel against wheat while in storage, until it was sold. Witness delivered 2,947 bushels of wheat to the company for storage. About two months later the agent's daughter told witness, that she had the storage warrants, which she asked witness to sign. He did so, but did not peruse them at the time, as they purported to be merely receipts for the wheat delivered. A few months later witness examined the warrants and found that they set forth certain conditions. Witness considered he was not bound by these conditions, but he did nothing further in the matter until he received a letter from the company, to whom he then wrote undertaking to deliver new season's wheat to make up a deficiency. There was much further correspondence between witness and the company; in January last he informed them, in effect, that they had sold the wheat without authority.  
+Cross-examined by Sir Walter James, whom he democratically styled 'Mr. James,' the witness said that he had not expected to be bound by any storage terms other than those mentioned in his oral agreement with the agent of the plaintiff firm. He relied entirely on the oral agreement. He admitted that this had related to storage charges only. Witness had not read the contract document when he received it; it was in the nature of a receipt or storage warrant and he signed it as a matter of course, and believing in its good faith. He had not checked the details as to the amounts of wheat, because he knew that if there had been a mistake it could be rectified later. Sir Walter: You sign receipts with a reckless disregard of consequences? — I did not think there would be any consequences. Then it appears that your receipts can never be relied on. Now as to the advances you received from the firm, what did you expect — that they would hold the wheat as long as you chose? — For a reasonable time. Your view now is that the firm had no right to sell the wheat until you gave the order? — Yes, that is my view. Irrespective of what the price of wheat might be?— Yes. His Honour (to the witness): Have you any reason to advance why you should not have repaid the firm the money lent to you ?— They repaid themselves by the sale of the wheat.  
+Delivering judgement for the plaintiffs, his Honour said that the question arose is to what should be allowed by way of deduction from the amount advanced by the firm to the defendant. The latter had not adopted a definite attitude in respect to the wheat which had been stored, and it had been impossible to bind him down. At one stage he had appeared to contend that he received credit for the amount, based on the wheat operations of the company in Western Australia, and later he had contended that there was no right to sell his wheat. As to the first contention, that he was entitled, to be allowed a sum based on the company's operations, all that need be said was that there was no evidence to establish what was the average price obtained by the company for the sale of wheat. Even if there had been such evidence he (his Honour) would not have been prepared to act on the defendant's contention. The defendant had raised the further points that his position was covered by oral agreement, under which there was no right to sell, and that this agreement was final, and that the written agreement made subsequently was not binding, and that there was no consideration for the contractual arrange ment. He (his Honour) would hold against the defendant on the contention that his position was covered by the oral agreement. The defendant: Can I have a word to say? His Honour: No. Proceeding, his Honour said that it was quite clear to him that the matter discussed with the plaintiff company's agent was solely the question of storage, and not that of advances at all. Even if the question of advances had been discussed, and even if he (his Honour) could put such an interpretation on this fact as the defendant wished him to do, it would be impossible to hold that the subsequent written agreement was not binding on the defendant. His Honour attached no credence whatever to the defendant's statement that he did not know the terms of the storage warrant and that he did not know what was oil the receipt when he signed it. The defendant was bound, he said, to comply with the terms of the agreement signed in August 1930, and the only question was how far the terms had been complied with. Probably the defendant's wheat had been sold one day earlier than it should have been, but this was excusable in the circumstances, and at all events the defendant knew of the sale four days later. That way the date from which credit would be entered in his favour, and the sum of £12/10/ would be added to the credit allowed him by the plaintiff company on the claim. Direct judgement would be entered for the plaintiffs for £331/18/, with costs. The defendant: May I ask for a stay of proceedings? . His Honour: For what purpose? The defendant: So that I may consider the question of appeal. His Honour said that a stay would be granted on the usual terms that the defendant pay into Court forthwith the amount awarded the plaintiff company, with costs, and lodge notice of appeal within 14 days.
+
+Michael was a victim of the Depression, and maybe he didn't manage it as well as he might have. It seems that in December 1929 the wheat price was over 4/- a bushel, with the cost of production being about 3/6 a bushel. The price of wheat dropped by more than half through 1930, and the price Bunge got for Michael's wheat in December 1930 was brutally low. It couldn't be argued that it was not market value. Following the depreciation of the currency and Britain's departure from the gold standard in late 1931, prices saw a temporary lift, with quotes reaching 3/4 to 3/9 per bushel in October/November before settling back to around 3/2 to 3/3 per bushel by late December 1931. So Michael's wheat was sold, without his knowledge or agreement (but according  to the contract), at the bottom of the market. He had to return a substantial amount to Bunge, in cash. Bunge operated legally, but exclusively in its own interest. It was ever thus. How he managed to find the cash has been lost in the mists of time. Banks would not have been helpful - they were reducing their loans as fast as they could. It seems that if he had taken the market price in December 1929 he would have at least broken even. Perhaps he was waiting for a better price.
+
+In the event he survived. That area of the wheat-belt in WA had wetter years and drier years, with excellent crops and poor crops. But they never suffered drought where their crop failed completely. 
+
 The *West Australian* of 20 April 1937 tells us:
 
 >BALKULING, April 11.-The rainfall for March was 65 points, the total for the year being only 67 points. Rain is badly wanted now for the seeding, and many of the farmers' rain water is very low.-Several Balkuling people went to Doodenanning on April 2 to a farewell social to Father Byrne, who is being transferred to Katanning, and also to welcome his successor, Father Cullen. On April 6 a number of farmers gathered at Mr. Aiken's farm to see a demonstration of his new tractor. He and his son are both going in for power farming.-On April 9 a clearing sale was held at Spring Dallah, Mr. O'Hanlon's farm, as he also has decided to use power on his farm.-A number of new farming machinery units have arrived this season.
 
 The era of horse-drawn equipment on farms was coming to an end.
 
+Michael bought a German-made Deutz diesel tractor. You can see a 1938 one-cylinder Deutz tractor (in a Tasmania-based collection) being started and driven in this 
+[YouTube video](https://www.youtube.com/watch?v=PumuXClv6KM).
+Go to the 14:00 point of the video.
+
+In the event, Michael's particular tractor was a dud, and always breaking down. Sheila speaks of her father's attachment to the machine, and his complete reluctance to cut his losses.  Perhaps it was simply impossible to find a competent diesel mechanic in the Doodenanning environs.
+
+In 1947 it was repaired by Kevill's Auto in Quairading, and Michael disputed the bill. He was taken to court. This time he had the wit to engage a lawyer. It triggered a legal process that was to go for the best part of the next four years.
+
+The
+*Northam Advertiser* of 19 November 1948 gave the basic details:
+
+>Claim by Garage  
+A PROTRACTED CASE  
+In the Northam local court on Wednesday, Mr K. H. Parker, S.M. continued the hearing of what promises to be a protracted
+case, in which W. G. Kevill, garage proprietor of Quairading, is claiming £138/7/1 for cost of repairs to a German Deutz tractor, from M. J. O'Hanlon, farmer of York. Defendant claims that the charge is excessive. He had offered £85/8/0 in settlement and this plaintiff refused to accept. Mr K. J. Mayberry, of Connor and Mayberry, Northam, is appearing for the plaintiff and defendant is represented by Mr T. J. Hughes, of Perth. The case was commenced in York on October 14 and adjourned to Northam. After occupying the whole day on Wednesday it was further adjourned to a date to be fixed.
+
+The case started on 14 October 1948, then, over some £53. Judgement wasn't determined until November 1949. It seems that Kevill's bill was reduced to £97, which means that the difference was now some £12.
+The *Northam Advertiser* of 4 November 1949 tells us:
+
+>Protracted Case  
+JUDGEMENT FOR PLAINTIFF DEFENDANT TO APPEAL  
+In the Northam court on Monday, Mr. K. H. Parker, S.M., gave judgement for plaintiff in a case which had occupied some twelve days of hearing spread over the past six months. W. G. Kevill,
+garage proprietor of Quairading claimed £138/7/1 for work done in overhauling a tractor, the property of M. J. O'Hanlon, of Spring Dallah, Doodenanning. Defendant had paid £85 into court. Judgement was given for £97/16/8 and on the application of Mr. T. J. Hughes, of Perth, for defendant, a stay of proceedings for 21 days was granted, Mr. Hughes advising that there would be an appeal. Mr. K. J. Mayberry appeared for plaintiff.
+
+Instead of letting it go and cutting his losses, Michael pressed on with the appeal. In the event the appeal failed.
+The *West Australian* of 17 May 1950 reported:
+
+>APPEAL CASE DISMISSED. Cost Of Tractor's Overhaul  
+A decision by Mr. H. R. Parker, S.M., in the York Local Court on October 31 was the subject of an unsuccessful appeal yesterday to the Full Court-the Chief Justice (Sir John Dwyer) and Mr. Justice Walker- by Michael John O'Hanlon, a Balkuling farmer, the respondent being William Glanville Kevill, garage and engineering shop proprietor, of Quairading. The case before the magistrate was a claim by Kevill against O'Hanlon for £138/7/1 for work done and materials supplied in the course of overhauling O'Hanlon's German-made tractor. Kevill was awarded a £97/16/8, with costs.  
+Yesterday's appeal against this decision was based on the grounds that the magistrate, having rejected evidence submitted by Kevill in support of his case, should have dismissed the claim; that he misdirected himself as to the onus of proof resting on Kevill; that he misdirected himself in deciding to fill in the gaps in the evidence of one of O'Hanlon's witnesses, George Meredith, motor mechanic, of Greenhills, and in any way founding any part of his judgement otherwise than on the evidence submitted; that he was in error in holding that Meredith was not expert, qualified and independent; that he was in error in finding that Meredith was in competition with Kevill and having done work for him in the past no doubt expected to do more in the future, there being no evidence to support such a finding; that there was no evidence to support the magistrate's finding whereby he added 25 per cent to Meredith's estimate of Kevill's working hours on the Job in question; that the magistrate was in error in allowing a rate of 7/- per hour for all work done by Kevill, this fact being contrary to the evidence; that his finding allowing £54/15/8 for parts supplied by Kevill could not be supported by the evidence; and that in view of rejection of evidence tendered by Kevill in support of his claim the magistrate was in error, and did not exercise his discretion Judicially in allowing Kevill the costs of the claim.  
+After hearing advocacy by Mr. T. J. Rushes (for the appellant) and Mr. T. R. Ambrose (for the respondent), the court dismissed the appeal, with costs. The Chief Justice said that the magistrate, after going into the case very exhaustively, had come to a conclusion for which, on the evidence there was abundant justification indeed, in the appellate court's opinion his final assessment of the hours worked by Kevill might well have been somewhat higher than his assessment actually was.
+
+The appeal turned on assertions of failings by the magistrate - the High Court judges were going to be reluctant to make such findings.
+
+Further developments were to follow. The
+*West Australian* of 18 December 1950 reported:
+
+>CHARGES OF PERJURY Woman And Six Men Arrested  
+NORTHAM, Dec. 17: At Quairading tonight, Det. P. G. Lee, of the Northam C.I.B., and Constable J. F. Trainor, of Quairading, arrested six men and a woman on perjury charges. Those arrested were William Glanville Kevill (44); Iris Lilian Myrtle Parker, clerk; Ned William Tonkin (30), mechanic; David William James Chandler (23), mechanic; Ira Ralph Kevill (43); contractor; Herbert Kenneth Carson (31 mechanic; and George Alfred Green (35), mechanic. They will appear in the Quairading Police Court tomorrow morning. The perjury charges relate to a civil action between W. G. Kevill, garage proprietor, of Quairading, and a Balkuling farmer named M. J. O'Hanlon. The action took place in the Local Courts of York and Northam in October and November, 1948, and on May 30 and 31, 1949. The accused were all released on bail.  
+
+Only the first two were sent for trial by jury, which was reported [here](http://nla.gov.au/nla.news-article48188249).
+In the end, in March 1951 they were both acquitted
+[here](http://nla.gov.au/nla.news-article48187969) and 
+[here](http://nla.gov.au/nla.news-article48188402).
+
 After training as a teacher, Sheila was living at home from 1942, and teaching at the local Doodenanning school. She married Frank O'Hare in early 1944, and they lived on the farm. Michael had applied to have Frank "man-powered out of the AIF", to help work the farm. The arrangement applied until early 1948, when Frank and Sheila acquired a farm under a War Service allocation, and moved to "Nangunia" just north of Quairading.
 
-Michael and Eily built a house in Quairading, and moved from the farm in 1952. The farm must have been run under some sort of manager arrangement. Eily died in 1956, and Michael died in 1958. The will presumably left the house and farm jointly to Sheila and Richard. They chose to auction "Spring Dallah". Sheila speaks of wheat prices being low, and the farm being sold for somewhat of a bargain price. Trove has digitised the local papers only up to 1954, and we cannot see any of the details of the sale.
+The *History of Doodenanning* tells us:
+>In 1950 Mr and Mrs O'Hanlon built a house in Quairading where they lived until Mr O'Hanlon's death in 1958. From 1950 Mr O'Hanlon let the farm to share-farmers - Tom Waters, Bill Overton and Bert Fowler. After his death "Spring Dallah" was bought by Jim Weeks and managed by Eric Lloyd until Jim's death. Jim Weeks built a new house on the farm, as salt had become quite bad near the original house.
+
+Eily died in 1956, and Michael died in 1958. The final will presumably left the Quairading house and the Doodenanning farm jointly to Sheila and Richard. They chose to auction "Spring Dallah". Sheila speaks of wheat prices being low at the time, and the farm being sold for somewhat of a bargain price. Trove has digitised the local papers only up to 1954, and we cannot see any of the details of the sale.
 
 ### Edward George O'Hanlon (1874-1932)
 
@@ -633,7 +703,7 @@ It is clear that "Uncle Eddie" is indeed Edward George O'Hanlon, and that he die
 the *Herald* of 24 October 1933 provides some details:
 
 >ESTATE FALLS IN VALUE. LAND AGENT'S WILL.  
-Depreciation in the value of the estate of Edward George O'Hanlon. late of Bourke Street, Melbourne, land and estate agent, led to a difficulty in the
+Depreciation in the value of the estate of Edward George O'Hanlon, late of Bourke Street, Melbourne, land and estate agent, led to a difficulty in the
 administration of his estate, which was referred to the Acting Chief Justice (Sir Frederick Mann) in the Practice Court today. O'Hanlon died on November 5, 1932, and, when he made his will June 27, 1930, he believed that his property was worth from £13,000 to £15,000. He bequeathed £1000 each to five nephews and nieces and made gifts and annuities which require the setting aside of £160 a year. Today, O'Hanlon's estate is valued at £4800, and the annual income is £180. Being unable to give effect to all the provisions of the will, the executor (The Perpetual Trustees, Executors and Agency Co.) decided to seek a direction from the Supreme Court as to what should be done in the circumstances. Mr. C. H. A. Eager (instructed by Messrs Luke Murphy and Co.) appeared for the executor, and the beneficiaries
 were represented by Mr. A. C. Morley (instructed by Messrs Fitzgerald and Fitzgerald), Mr T. S. Clyne (instructed by Mr Bernard Nolan), and Mr O. Gillard (instructed by Mr Vincent Nolan).  
 Mr Eager stated that the question for determination was whether the executor should pay, in full, all such annuities as were immediately payable, without regard to the possibility that the estate would be insufficient to pay all annuities and legacies which might hereafter become payable. There was sufficient money, in the estate, he said, to pay all present demands upon it , but it was difficult, if not impossible, to put a value upon all contingencies provided for by O'Hanlon in his will, and to make reservations for all these contingencies.  
@@ -667,7 +737,7 @@ When he died in 1943 the *Age* of 18 September 1943 reported a simple death noti
 
 >O'HANLON. On September 15, at Kotupna (suddenly). Patrick Dennis Kavanagh, eldest son of the late T. and M. A..O'Hanlon, beloved brother of Edward (deceased). Michael (W.A.), Cissle (deceased), Marie, Elizabeth (Mrs. Stevens, Sydney). Helena (Mrs. Galligan, Sydney). R.I.P. 
 
-I have the following obituary from the *Nathalia Herald* of 21 September 1943. this was taken from a photocopy somehow acquired by Sheila O'Hare. Only the years 1925-1929 have been digitised by Trove.
+I have the following obituary from the *Nathalia Herald* of 21 September 1943, taken from a photocopy somehow acquired by Sheila O'Hare. Only the years 1925-1929 have been digitised by Trove.
 
 >Obituary.  
 Cr. P.D.K. O'Hanlon  
@@ -709,7 +779,7 @@ The *Leader* of 22 May 1909 reported:
 
 >Messrs. Powers, Rutherford and Co. (in conjunction with Muntz Bros, and Heighway) report the sale by public auction of Mr. P. D. K. O'Hanlon's farm at Kotupna, comprising 631 acres, at £4 10/ per acre.
 
-[To be completed }
+[To be completed]
 
 ### The Sisters
 
@@ -723,7 +793,7 @@ The *Argus* of 31 May 1919 carried the following advertisement:
 
 Elizabeth Frances was a nurse, and her
 [military record](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=7991919)
-shows she joined up in December 1916. She was sent to India later that month, and arrived in Bombay in January 1917. On 1 January 1919 she married Arthur Raphael Steven at St Patrick's Cathedral in Bangalore. Arthur seems to have been a medical doctor in the British Army, and trained at Glasgow University. She resigned her appointment in May 1919, and left for Australia on 1 December 1919 "with infant", which I take to be Theodore Michael Steven.
+shows she joined up in December 1916. She was sent to India later that month, and arrived in Bombay in January 1917. On 1 January 1919 she married Arthur Raphael Steven at St Patrick's Cathedral in Bangalore. Arthur seems to have been a medical doctor in the British Army, and trained at Glasgow University. She resigned her appointment in May 1919, and left for Australia on 1 December 1919 "with infant", who I take to be Theodore Michael Steven.
 
 The *Advocate* of 5 July 1919 rather belatedly tells us:
 
@@ -741,7 +811,7 @@ Helena Josephine married Michael Galligan in St Kilda in 1917. They lived in Syd
 
 Sheila O'Hanlon was born at Elwood, Melbourne, in 1920, the first child of Michael and Eily O'Hanlon. The family lived a comfortable middle-class life in Elwood until mid 1929, when financial issues led them to take up farming at "Spring Dallah", Balkuling, WA. She married Francis (Frank) O'Hare in 1944, and in 1948 they moved to "Nangunia", Quairading, WA. They had four children. Frank was killed in a farm accident in late 1971. Sheila died in 2019, aged 98, after being a widow for 47 years.
 
-She was a keen chronicler of her family history, and her efforts were not fully appreciated at the time. She worked before Trove was available, before the modern on-line records were available, and before one could have computers draw nice family trees. She summarised her work in an audio record made for her family. This was recorded on two cassette tapes in 1983 and 1985. The following provides a digital version of her recording. The digitisation is rather low quality - the sound level is too low, and the first 15 minutes of the fourth side is missing. (I will endeavour to provide a better quality version.)
+She was a keen chronicler of her family history, and her efforts were not fully appreciated at the time. She worked before Trove was available, before the modern on-line records were available, and before one could have computers draw nice family trees. She summarised her work in an audio record made for her family. This was recorded on two cassette tapes in 1983 and 1985. The following provides a digital version of her recording. The digitisation is rather low quality, and the first 15 minutes of the fourth side is missing. (I will endeavour to provide a better quality version.)
 
 | part | audio |
 | -- | -- |
@@ -763,7 +833,7 @@ From left, Frank McMahon, Sheila O'Hanlon, John McMahon, Joan McMahon, Richard O
 Sheila and Richard started school at
 [St Columba's Primary School](https://www.stcolumbasprimary.org/history.html), at the end of the street they lived in.
 
-When the family arrived at "Spring Dallah" in August 1939, Sheila and Richard were home-schooled for the rest of 1929 and all of 1930. She notes that correspondence lessons arrived from Perth every two weeks The lesson sets were completed and returned to the Education Department for scrutiny. As both Sheila and Richard were bright, the sets were completed quite quickly and school-free days ensued.
+When the family arrived at "Spring Dallah" in August 1929, Sheila and Richard were home-schooled for the rest of 1929 and all of 1930. She notes that correspondence lessons arrived from Perth every two weeks The lesson sets were completed and returned to the Education Department for scrutiny. As both Sheila and Richard were bright, the sets were completed quite quickly and school-free days ensued.
 
 Newspapers at the time encouraged children to enrol in a "club", and to submit letters for the novelty of seeing their name in print.
 From the *Western Mail* of 25 December 1930:
@@ -785,7 +855,7 @@ for 1931-1932, while Richard attended 1931-1935.
 In November 1932 Sheila was
 [awarded](http://nla.gov.au/nla.news-article32577422)
 a [secondary school scholarship](http://nla.gov.au/nla.news-article33321206).
-There seems to be 50 such scholarships awarded each year, with 10 "reserved" for small country schools. It provided free attendance at a government high school or one of nominated list of private schools, £3 a year book allowance and £24 a year boarding allowance, if relevant. Who knows how much of the actual cost this covered, but it was certainly better than nothing. For country families of average means, it was perhaps the only avenue of secondary education for their children.
+There seems to be 50 such scholarships awarded each year, with 10 "reserved" for children at small country schools. A scholarship provided free attendance at a government high school or at one of nominated list of private schools, £3 a year book allowance and £24 a year boarding allowance, if relevant. Who knows how much of the actual cost this covered, but it was certainly better than nothing. For country families of average means, it was perhaps the only avenue of secondary education for their children.
 
 In the event, Sheila attended the Sacred Heart High School, Highgate, as a boarder for the five years 1933-1937. We have a photograph of her in her final year.
 
@@ -817,8 +887,9 @@ Both schools are shown
            caption= "Frank O'Hare and Sheila O'Hanlon. 1944" >}}
 
 {{< figure src="SheilaOHareFamily.jpeg"
-           caption= "Sheila, Children and Grandchildren. 1985" >}}
+           caption= "Sheila, Children and partners, Grandchildren. 1985" >}}
 
+(To be completed.)
 
 [school wa](https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/3242166/Godfey_Joanne_Isabella_Frances_2011.pdf)
 
@@ -851,9 +922,9 @@ Richard studied Medicine at the University of Melbourne 1946-1950. There was no 
 He graduated in 1950.
 The *West Australian* of 16 October 1950 tells us:
 
->Mr. R. M. O'Hanlon. son of Mr. and Mrs. M. J. O'Hanlon, of Spring Dallah, Balkuling, has passed his final examinations in medicine and surgery, with honours in obstetrics and gynaecology.
+>Mr. R. M. O'Hanlon, son of Mr. and Mrs. M. J. O'Hanlon, of Spring Dallah, Balkuling, has passed his final examinations in medicine and surgery, with honours in obstetrics and gynaecology.
 
-He joined the medical practice in Lilydale, run by his uncle Dr. Frank McMahon and cousin Dr. Peter McMahon.
+He joined the medical practice in Lilydale run by his uncle Dr. Frank McMahon and cousin Dr. Peter McMahon.
 
 He married Joanne Jackson in Melbourne on 9 March 1949. Sheila tells us that no family from WA were able to attend.
 The *Age* of 10 March 1949 tells us:
@@ -863,6 +934,9 @@ The ceremony took place at Mark's, Camberwell, and Canon P. W. Robinson officiat
 man and Dr. Ian Aberdeen was groomsman. A reception was held at the Hotel Australia.
 
 They had four children.
+
+I have one memory of Richard and Joanne at Lilydale. We visited them in, I think, May 1975 for Sunday lunch, when our children were aged four and two. Richard and Joanne had [Beddlington Terriers](https://en.wikipedia.org/wiki/Bedlington_Terrier).
+They hurtled up and down the house without any apparent discipline. There may have only been three of them, but it seemed like a lot more. They bowled over our two-year-old several times. "Tell her to be careful", said Joanne, "she might hurt them".
 
 Richard died of a heart attack, on the Royal Melbourne Golf Course, on 21 August 1982. aged 59.
 

@@ -500,7 +500,7 @@ Honor again:
 
 >She had a strong dominant personality and her wishes were seldom disobeyed. Only by thrift and austerity could her goals be achieved, especially to escape the clutches of "The Bank". The Bank loomed over us like some actual monster, ready to pounce. Allied to the bank was "The Mortgage", equally to be feared, which appeared to swallow all the hard-earned money.
 
-She was a widow for forty years. After her husband Martin died in 1953, she moved to Comer Street in South Perth. There a collective family household was created in miniature. Her eldest daughter Honor moved back around 1951 with her young son, and three
+She was a widow for twenty years. After her husband Martin died in 1953, she moved to Comer Street in South Perth. There a collective family household was created in miniature. Her eldest daughter Honor moved back around 1951 with her young son, and three
 generations lived there for many years.
 
 
