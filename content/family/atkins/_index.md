@@ -198,7 +198,7 @@ The [1822 muster](https://www.bda-online.org.au/files/MC1822_Muster.pdf)
 gives us some information. Charles appears in the
 [general muster](https://nla.gov.au/nla.obj-1290367924/view) (he is number 8).
 He also appears in two returns for the Liverpool district. He is listed in the
-[population return](LiverpoolPopBook1822.jpg) (he is no 4 on the second page. He id T.L. (ticket of leave) and is a landholder). Mary Ann Regan is listed after him. She is a "convict" from the ship *Janus*, but is specified as the wife of Charles. maybe this was the system's way of keeping track of her. She seems to have 1 female child (which is correct).
+[population return](LiverpoolPopBook1822.jpg) (he is no 4 on the second page. He is T.L. (ticket of leave) and is a landholder). Mary Ann Regan is listed after him. She is a "convict" from the ship *Janus*, but is specified as the wife of Charles. maybe this was the system's way of keeping track of her. She seems to have 1 female child (which is correct).
 He is listed in the [land and stock return](LiverpoolStockBook1822.jpg).
 This is hard to read as he is last on the list. He occupies land originally granted to Mrs Shelly. He is resident on the farm. He appears to have 8 acres of wheat and one of potatoes, with 19 acres in all (all cleared). He has 2 horned cattle and 7 hogs. He doesn't have a registered brand for his cattle.
 
@@ -261,7 +261,7 @@ on the Australasian Legal Information Institute website.
 We are interested in the timeline.
 
 - 26 April: Charles Murtagh has a land-holding at Bringelly, as does one John Curtis. The latter adjoins a large holding by
-[D'arcy Wentworth](https://adb.anu.edu.au/biography/wentworth-darcy-1545). The Murtaghs seem to be living with Curtis in a house on the Curtis landholding. late on the 26 April, Curtis is alleged to have a killed a bullock belonging to Wentworth (finishing it off by drowning it in the Nepean river).
+[D'arcy Wentworth](https://adb.anu.edu.au/biography/wentworth-darcy-1545). The Murtaghs seem to be living with Curtis in a house on the Curtis landholding. Late on the 26 April, Curtis is alleged to have a killed a bullock belonging to Wentworth (finishing it off by drowning it in the Nepean river).
 
 - 27 April: The Chief Constable of Bringelly, Robert Smith, with two other constables turn up at Curtis's house with search warrants. They discover fresh cuts of beef in the house, and bullock remains outside. The bullock was identified as belonging to Mr Wentworth. All three (John Curtis, Charles Murtagh and Mary Muratgh) were taken into custody.
 
@@ -269,7 +269,7 @@ We are interested in the timeline.
 
 - 6 June: After a suitable sermon, Curtis is sentenced to death.
 
-- 16 June: Attended by the Roman Catholic Chaplain (Reverend Mr Power) Curtis is executed. He left a wife and several children, and is said to have possessed property in land and cattle to the value of 1,500 pounds. He was 61 years old.
+- 16 June: Attended by the Roman Catholic Chaplain (Reverend Mr Power) Curtis is executed. He left a wife and several children, and is said to have possessed property in land and cattle to the value of £1,500. He was 61 years old.
 
 I have not been able to identify John Curtis (there are many with that name in the Sydney records). His time in Sydney Goal is
 [recorded](CurtisEntranceBook1828.jpg) (he is number 17 on the page).
@@ -342,7 +342,7 @@ sworn before me this
 The system had carted the parents off to jail but had at least looked after the three eldest children, and was now arranging their transfer to the Orphan Schools.
 
 The youngest, barely several months old, had obviously gone with the mother into custody if not into goal. The authorities in Sydney took the child off Mary and placed it in the Girls Orphan home. The
-[application](JohnMurtaghApplication1828.pdf) is undated and not made by Mary - maybe she had abandoned the child. It is, interestingly enough, signed by Mrs darling, wife of the Governor
+[application](JohnMurtaghApplication1828.pdf) is undated and not made by Mary - maybe she had abandoned the child. It is, interestingly enough, signed by Mrs Darling, wife of the Governor
 [Sir Ralph Darling](https://adb.anu.edu.au/biography/darling-sir-ralph-1956). In his biography it is said of Eliza Darling
 
 >Although occupied with her own nursery and painting, she still found time to entertain hospitably, to write comforting letters of sympathy and encouragement, and to preside over many benevolent committees.
@@ -660,7 +660,7 @@ We moved to Stockley Road around 1951, and a little after Les and Margaret moved
 
 I was at university in Perth through 1961-1965, and I would visit him regularly in his room at the Aged Home. He remained remarkably cheerful and positive despite the turn of events. When I arrived he would typically be listening to the broadcast of Parliament from Canberra - he was a ferocious Labor Party supporter. He would follow with interest all the family minutia, of who was doing what. Les still had his hearing. He would arrange a weekly outing with two other old codgers at the Home. One had a little sight in his left eye, and the other had a little sight in his right. Suitably equipped the trio would sally forth and walk down to the Victoria Park shops, cheerfully passing the time of day with regulars along their way. They would purchase a lottery ticket, perhaps place a bet at the TAB, and then make their way back in time for lunch. 
 
-He met life head-on in his own way. As with my other grandparents, life hadn't dealt him any favours and he to manage the best he could.
+He met life head-on in his own way. As with my other grandparents, life hadn't dealt him any favours and he had to manage the best he could.
 
 He died in 1977, aged 92.
 
@@ -679,7 +679,17 @@ We have a photo of the eldest three siblings, dated about 1918.
 
 ### Ivy Margaret Atkins (1909-2009)
 
-(to be written)
+
+I wrote a short eulogy for Ivy's funeral:
+
+>One thing to remember about our beloved Aunt is that, not having children of her own, the extended Atkins clan and their associated friends were her family. She loved all of us, and never forgot a birthday and never lost track of who was doing what, no matter how far away they were. Auntie predated us all, and in a literal sense none of us can remember a time without her.  
+I would like to contribute a few of my memories, to reflect wonderful gracious lady that we are saying goodbye to.  
+My first memories are of Byron Street in Leederville. I remember a piano in the dark cool dining room (Auntie still taught piano then) and a fascinating box of programs to music concerts and ballet performances that we allowed to look at if we were careful. Elegant black and white photographs of performers in evening dress, holding long cigarette holders. It was a world that I always associated with Auntie, that of well-groomed elegance and the love of music. And there were trips into the city on the Scarborough bus and visits to the big shops (even multi-storied). This was heady stuff for an eight-year old from country Bunbury, where concerts didn't often happen and the shops were decidedly single-storey.  
+Later visits were to the house at Mt Yokine. I was now at university and Auntie and Uncle were getting close to retirement. I would turn up for a restorative cup of tea and a scone, as an antidote to college food. I don't have a memory of a piano - I think she had phased out her teaching by then. I do remember taking Auntie (or did she take me) to a performance of "Swan Lake" by the Australian Ballet at His Majesty's Theatre. Stan, I suspect, was happy to give it a miss.  
+The last phase was the time at Swan Cottages, first in the town house with Uncle Stan and then later in the more supported accommodation. My visits were necessarily occasional, whenever I was in Perth. Auntie would be impeccably groomed, and ever interested in the complex doings of the growing brood of grand-nephews and grand-nieces. On one of my last visits I showed her a video of even the next generation (our grandchildren) on the screen of my laptop. She was interested in the kids, of course, but to a lady who was born in 1909 the technology was a mystery.  
+She was a the best Aunt we could have had. She showed us love and taught us that good manners and good grooming and indeed good style are forever in fashion. We will always remember her.
+
+(to be completed)
 
 ### Murray Lewis Atkins (1912-1932)
 
@@ -693,7 +703,7 @@ Murray worked in the family businesses at Rocky Point and Scarborough. He was in
 The *West Australian*, 20 December 1932, reported the inquest:
 
 > SCARBOROUGH TRAGEDY.  Lights and Brakes at Fault.  
-At the Perth Courthouse yesterday, the Coroner (Mr. T. Y. A. Lang, P.M.) con ducted an inquest on the deaths of Peter Riela (37), single, a native of Holland,
+At the Perth Courthouse yesterday, the Coroner (Mr. T. Y. A. Lang, P.M.) conducted an inquest on the deaths of Peter Riela (37), single, a native of Holland,
 and Murray Atkins (20), single, of Beach Avenue, Scarborough. Both fatalities were the outcome of a collision on the Scarborough-road, on November 28, between a car driven by Atkins and a spring cart driven by Peter Baroiolo. Riela was seated beside the driver of the car, and was killed almost instantly by the left shaft of the cart, which smashed through the windscreen of the car and pierced his chest.  
 The Coroner was assisted by Sergeant Lynes. and Mr. D. M. Cleland (instructed by Messrs Villeneuve, Smith and Keall) represented the driver of the cart. Dr. I. O. Thorburn, medical registrar at Perth Hospital, stated that Atkins had died, in his opinion, from loss of blood and shock. He had a bad cut under the left arm, and one of the arteries was severed.  
 Leslie William Atkins, father of the deceased, said he was in his car on the night of November 28, when his son was driving towards Perth from Scarborough. Riela was in the front seat next to his son. When the car was nearing the bridge over the Njookenbooroo canal, witness saw something which he thought was a cow, on the other side of the bridge, and on the left side of the road. His son apparently saw it at the same time, because he eased up and went slowly over the bridge. Witness did not see any light. The driver then turned to his right a little, and a collision occurred just on the Perth side of the bridge. The car was almost stopped. Witness did not realise that the object he saw was a horse and cart until the crash. The horse mounted the front of the car, which was considerably damaged.  
@@ -704,6 +714,24 @@ The Coroner found that the two deceased died, from injuries received in the coll
 Les was in the back seat, and was uninjured. The horse, surprisingly, was uninjured.
 
 ### Lily Mariner Atkins (1915-2017)
+
+I gave the following eulogy at my mother's funeral.
+
+>It is one of life's big events for children to bury their parents; for one generation to say goodbye to the earlier generation and to become in their turn the family elders.  
+So it is that we three brothers have met twice in this very chapel. In 1999 we said goodbye to our father, Barney. Today, with you, we say goodbye to our mother Lily (better known as Lil).  
+As you know, she died on 4 June in Katanning, at the grand old age of 101. By any measure "a good innings". It is with natural sadness that we farewell Lil but we surely do it in the context of the great cycle of life and we are surely comforted by the fact of a long life well lived.  
+Lil was the third of four children of Les and Margaret Atkins. She has long outlived her siblings, her relatives of the same generation (her cousins and second cousins) and all her contemporary friends. She has outlasted all but one of her in-laws. We are pleased to have Auntie Marge (the wife of Dad's brother)  with us today. A lady never divulges her age and I won't either, but I can say that Auntie is getting up there.  
+Lil was born on 5 October 1915 (5.10.15 as she used to say), at the then family house at 18 Karri Street, not much more than one kilometre from here. I drove past there this morning and the simple but elegant house is still there.  
+She went to school here in Bunbury at St. Joseph Convent School, also  not much more than one kilometre from here. She was very proud of having completed her Junior Certificate, a not insignificant feat in working-class Bunbury. That was in 1932, and her career options were heavily constrained by the Great Depression. In the event she spent the next few years working in the family business of beach cafes and kiosks, at Bunbury and Scarborough. These were the rather optimistic schemes of mad old grandfather Les. From what Mum said it was not so much the work itself but the fact that alternative options were essentially unavailable.  
+The family was back in Bunbury when Lil married Bernard Molinari (better known as Barney) in 1942. They married rather late - Dad was 28 and Mum was 26. Dad was rather dashing young blade from Cue and the nearby mining town of Big Bell. Big Bell was some 800km away on dreadful roads so it would seem to have been a classic long-distance courtship. Of other suitors we are a little in the dark, but I can remember her speaking rather wistfully of someone who was a racing car driver.  
+They lived in Big Bell until 1949, when they moved back to Bunbury. Mum moved to Katanning in 2012, so I reckon she spent something like 85 years of her life here in Bunbury.   
+They were effected, even scarred, by the Great Depression. They maintained a frugality long after it was relevant, and had no great trust in the modern world's belief of continually growing prosperity.  
+They were disappointed when education took us to Perth and careers took us further afield. We children did not live near them, and their grandchildren were visitors (Carla excepted). They greatly loved them when they did visit, but the distance meant that my children didn't really know Mum and Dad, a situation we all regretted.  
+If her kids and grandkids were not within reach, I think Lil compensated by making friends with anybody and just about everybody who was within reach. Many of you - her friends - are with us today. Perhaps anticipating that she would live so long, she made many friends with people who were younger than her. And perhaps this contributed to her longevity. She made friends with my schoolmates (Gerald  and Pauline Logan are with us today); she made friends with her hairdresser; with a tenant; and with Kay who did some cleaning for her at Stirling Street.   
+Mum was what I call a social attractor. When I would visit from "The East", the daily routine would involve a nonstop sequence of visitors with a corresponding flow of cups of tea. I would be introduced to the newer friends, and I rapidly discovered that Mum had regaled them my career highlights and the names of all the kids. Visits were also characterised by serious games of cribbage (15-2, 15-4 and the rest won't score). To the end, Lil took very few prisoners when she played crib.  
+So that is how we should remember Lil. A gregarious character whose interest in life and in people was a defining characteristic. She knew people, she enjoyed their company and they enjoyed hers. She loved her sons, her grandchildren and her friends, and we all loved her in return.  
+We will long remember her.
+
 
 (to be written)
 
