@@ -584,6 +584,13 @@ was made in the Roman Catholic portion of the Wyalong Cemetery.
 
 ### Sarah O'Hare (1886-1965)
 
+A nephew, Giffard O'Hare, provides the following memories of Snugborough and his aunt around 1960.
+
+>When we were young we stayed at the Snugborough Farm at Natalia on a number of occasions. The old aunts, Aunty Sarah, Aunty Joe and Aunty Kath lived in the original homestead that was an extension of the original log cabin. This original cabin is all that remains and we were told by Mary Barry that it was to be heritage listed. There was another building at the back that served as an extra living area - all gone. There was a beautiful orchard of mainly orange trees behind this and the drive from the access road was lined with these magnificent peppermint trees. John O'Hare, built his house nearby and worked with the aunts in running the property. Dad had 80 acres there that he inherited and John eventually bought Dad out.  
+Aunty Sarah was my favorite aunt.
+She was an accomplished pianist and we had these great singalongs around the piano. She was very attractive when young and I remember seeing a photo of her and Aunty Lal who married Uncle Mick on the wall and thinking she would have made a wonderful wife and mother. Interesting that I have only just learnt that she and I share the same birthday,  24th of January. This would explain why Aunty Sar used to spoil me with big servings of lemon meringue pie and she even gave me a beautiful big green one pound note for helping herd the sheep to the shearing sheds up at the Thorpe's nearby property. It was a lot of money for a 10 year old kid in those days.
+
+
 ### Eliza O'Hare (1888-1975)
 
 Called Auntie Lal, she worked (like Catherine) in government offices in Melbourne. She married Michael Doherty in 1921, and they had three children. 

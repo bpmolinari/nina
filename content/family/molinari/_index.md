@@ -295,9 +295,19 @@ Perhaps Dominic rued the day when they responded to the siren sales pitch of Pie
 The family moved eight kilometres up the dusty road to Cue and Dominic ran a smithy business (blacksmith, farrier and wheelwright). This was his original trade. Perhaps he took over an existing business - Lord knows he wouldn't have to pay much for it. In the 1923 edition of the Western Australian Directory [Wise's] there are two blacksmiths listed for Cue (population 600).
 In the 1930 edition, Dominic is the only one.
 
-Two events appear in the public record. In 1927 there was an amusing
-[dispute](http://nla.gov.au/nla.news-article257301430)
-about a goat. Dominic sued one Maurice Fielberg for its return, but was unsuccessful. The case showed that many households kept a small flock of goats, presumably for meat and where possible, milk. These goats roamed around the environs of the town, being recognised by their markings. The notion of possession seemed fluid.
+Two events appear in the public record. In the
+*Murchison Times* of 28 May 1927 we read:
+
+>Cue Local Court.  
+DISPUTE ABOUT A GOAT. (Before E. Y. Butler, R.M., and G. A. Wright, J.P.)  
+Dominic Molinari v Maurice Fienberg. The defendant was charged that on the 11th day of May he detained one goat valued at 15/-, the property of plaintiff. He pleaded not guilty.  
+Dominic Molinari (sworn) said owned the goat. On 10th of May, defendant came to my shop and said, "Molinari, you have one of my goats; also three black kids." He wanted to know what I had done with them, I told him if he liked he could inspect my goats and if he found any belonging to him he could take them away. At about 3 o'clock the same day Batterbury told me Fienberg had taken one of my goats. My wife demanded the return of the goat from Fienberg. He refused to give it up. Constable Ridley went to Fienberg, who said the goat was his and had been reared from a kid. I told him I would summon him. I bought the goat seven months ago from Mrs. Lyons, along with two others. I paid 7/6 each for them and sent the money with my son. Mrs. Bennett was present when my son paid Mrs. Lyons. I cannot produce the receipt. I cut the points off the horns of two of the goats and filed two marks in the horns. I killed one goat. The goat in question has been in my possession ever since.  
+By Defendant: Told you that goat in the railway yard had two kids. You said if the goat had kids it was not mine. By the Bench: Did not know much about the goats when I bought them and was not sure of the marks on them. Natural marks on goat were brown neck, white body, four black feet and spot on back as big as two hands. The colour was dark, not black. Antonio Issaponi said he knew Mrs. Lyons had goats and that Molinari bought them. Often saw the goat with Molinari's goats. Mrs. Lyons told me she sold the goats to Molinari. By Defendant.—Believed the goats to be Mrs. Lyons, but could not describe the marks on them. By the Bench: The goat outside the door of the court was one of Mrs. Lyon's goats as far as he knew. Ellen Bennett said she was present when Molinari's boy paid Mrs. Lyons for tho goats, but she could not describe any of the animals in question. Barney Molinari, son of plaintiff, gave evidence as to payment for the goats and bringing them home.  
+Maurice Fienberg (sworn) said some time ago he let the goat go as she was not in milk. Can swear to her. In November she came back with three kids. Her horns wore not then cut or marked in any way. I called the goat "Saddle," because of the mark on her
+back. A week or so ago I bought a goat from a person living near the railway station. When passing near plaintiff's I saw the goat and noticed two horns cut and marks on them. I went to Molinari in his shop and said: "You have one of my goats, the one with a mark like a saddle on its back." He said the goat belonged to him, and asked if it had any kids with it. I said "No." He then said it was not my goat. He invited me to inspect the goats, and if my goat was there I could have it. Later in the day I again saw the goat and took it to my home. I refused to allow Mrs. Molinari to take the goat. By the Bench: I reared the goat, which is about 4 1/2 years old and have had it in my possession ever since. Can swear to the goat on account of the saddle mark on its back. Ellen Heydon said Fienberg had the goat ever since it was a kid. She was certain it was the goat on account of the mark on its back. By Plaintiff: She never saw another goat with a similar mark. Arthur H. Batterbury said he knew he goat outside the court with the mark on its back. It was pestering me, by coming to my house frequently. Knew the goats Lyons had; there were two brown and one blue. He was certain the goats Lyons had were not marked similar to the one in question. By Plaintiff: Never said Fienberg took your goat. I knew Lyons goats through having to kill the kids from time to time.  
+A verdict was given in favour of defendant with 23/6 costs.
+
+The case shows that many households kept a small flock of goats, presumably for meat and where possible, milk. These goats roamed around the environs of the town, being recognised by their markings. The notion of possession seemed fluid.
 
 The second event was Dominic's
 [conviction](http://nla.gov.au/nla.news-article49035331) in June 1952 for being in unlawful possession of gold.
@@ -315,9 +325,31 @@ The business was
 
 > BLACKSMITH and Wheelwright shop with tools and machinery for sale, iron building 66ft. x 44ft, Apply G. Molinari. Cue. 
 
+
+We have a photograph of the house in Cue, around 45 years after they moved out. It has obviously seen better days. Not atypical of houses in a town that has shrunk to the edge of existence. Old houses have almost no residual value.
+
+{{< figure src="MolinariHouseCue2000.jpeg"
+           caption= "Molinari House. Cue. c 2000" >}}
+		   
+I have one memory of the house, which must date to about 1948. There were shady pepper trees in the front yard, with a bed frame under the trees. It was cool and dark inside. There were goats in a pen in the back yard. Family legend has it that milk from these goats was resorted to in raising either me or my younger brother.
+
+My cousin Irene reports a memory of about the same time:
+
+>My memory of their house in Cue was that when we visited, we had goats milk. Next to the house was a big hill where we played. When Trish and I drove Mum and Dad back to Cue, not long before he died, we went to the house. That big hill was just a small rise, barely anything. 
+
 They moved to 3 Hector Street,
 [Osborne Park](https://en.wikipedia.org/wiki/Osborne_Park,_Western_Australia)
-on the (then) outskirts of Perth, and adopted a somewhat nostalgic lifestyle. They grew grapes and, I think, made wine. There were chickens and, I think, a cow. Some of his wrought iron stock from the blacksmith's shop was too close to him to part with, and Dominic had it transported at great cost to Perth. They lived there until Dominic died in 1959, aged 77. Giacinta eventually moved to a nursing home in Bunbury, where she died in 1973, aged 90.
+on the (then) outskirts of Perth, and adopted a somewhat nostalgic lifestyle. They grew grapes and, I think, made wine. There were chickens and, I think, a cow. Some of his wrought iron stock from the blacksmith's shop was too close to him to part with, and Dominic had it transported at great cost to Perth.
+
+My cousin Irene remembers:
+>The memory I have of going to Grandparents out at Osborne Park, is that it was a little cottage on an enormous block. (Through the eyes of a child.)
+Giacinta, always cooked Trish and self fried eggs. 
+Lots of discussion about Roma's parents. They didn't live too far away. They must have hired their house or property out to people for functions and did the catering.
+I realise now what they were talking about, but then, would have had no idea.
+
+
+
+They lived there until Dominic died in 1959, aged 77. Giacinta eventually moved to a nursing home in Bunbury, where she died in 1973, aged 90.
 
 ### Domenica Molinari (1880-1941) and Giacomo Pianta (1877-1945)
 
@@ -612,10 +644,11 @@ A personal perspective.
 at the mill. On one visit he let them go "for a run". Suddenly they were in full pursuit of a kangaroo fleeing for its life along the other side of the valley. As we watched, the dogs caught up to the kangaroo, and brought it down. We all went across and Bob put the poor roo out of its misery. Not a pretty sight. Such kangaroo hunting has long been illegal, and the kangaroo dog is deemed extinct. Good riddance, but not many people have seen them in action.
 
 
-### Barney Molinari (1913-1999)
+### Bernard Dominic Molinari (1913-1999)
 
 Bernard Dominic Molinari (Barney to all) was born on New Year's Eve, 1913.
-He lived in the Murchison Goldfields from about 1916 to 1948. From about 1935 to 1948 he worked at the Big Bell Mine (about 35km from Cue). In 1942 he married Lily Atkins. In 1948 they moved to Bunbury. Barney died in Bunbury, in 1999.
+He lived in the Murchison Goldfields from about 1916 to 1948. From about 1935 to 1948 he worked at the Big Bell Mine (about 35km from Cue). In 1942 he married
+[Lily Atkins](/family/atkins/#lily-mariner-atkins-1915-2017). In 1948 they moved to Bunbury. Barney died in Bunbury, in 1999.
 
 {{< figure src="LilyBarneyMolinari.jpeg"
            caption= "Lil and Barney Molinari. c 1950" >}}
@@ -666,6 +699,11 @@ The effects of the Depression were still being felt. *The West Australian* of 21
 
 In fact, Barney (who was working on the mine by then) related this situation with feeling, saying that the people were milling around the gates of the mine, begging for work.
 
+
+
+{{< figure src="BarneyMolinari1939.jpeg"
+           caption= "Perth Holiday. Barney Molinari (left). c1939" >}}
+
 During the War Barney seems to have been called up twice, according to his
 [military record](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=5875918).
 A Mobilization Attestation Form was filled out on 8 May 1941 and a medical report done, but it was not proceeded with. No Oath of Enlistment was made.
@@ -674,7 +712,54 @@ The Mine closed in February 1943, and for the rest of the War a very small group
 
 At the end of 1948, the family left Big Bell and moved to Bunbury. Barney took a position with the South West Co-Operative Dairy Company (known as SunnyWest). They had a string of milk depots, cheese factories and butter factories throughout the South West, from Harvey to Albany. Barney was foreman of a maintenance crew that supported the full collection of factories. The task was quite wide: the equipment ranged from boilers to refrigeration, from butter churns to butter-packing machines. Family legend has it that he was shocked when he got his first pay packet - it was much less than his last salary at the mine.
 
-[ incomplete ]
+In fact, it was the last job that he ever had. He worked at this job through to his retirement around 1973. I think he had other opportunities from time to time - he was certainly a very competent and experienced tradesman. But I think he valued "steady employment" above all. He could have set up a small engineering business, either alone or with others, but he was very risk-averse.
+
+From the early 1950s we always seemed to have a boat. The motivation was that in Bunbury you had access to Leschenault Inlet, known as "The Estuary". The protected waters of the Estuary were ideal for boating, and were the home to
+[blue swimmer crabs](https://www.dbca.wa.gov.au/wildlife-and-ecosystems/marine/marine-parks/fun-facts/blue-manna-crab).
+
+The first boat we had was a small traditional clinker-built hull, with a little cabin that Dad put on, and a putt-putt engine that was started by putting a leather strap around the flywheel and pulling. It was the slowest boat on the river, due to the dubious power output of the engine and the inappropriate propeller that Dad had fitted. On a Sunday afternoon in summer we would set off from near the rowing club, and head up the Estuary, past Pig Island and the power station and
+[Turkey Point](https://inherit.dplh.wa.gov.au/public/inventory/details/66b4f3f4-8b89-43c4-bd6c-ebd2d545f114), past "The Cut", to where was judged to be a good crabbing spot. Four miles, taking one hour, was the rule. Once there we anchored and drop nets were baited and thrown over. If a net was pulled up with several large male crabs, much entertainment was had. They had to be handled by the back of the shell, and put into a bucket or kerosene tin. Some would escape from the net and scurry around the bottom of the boat, and would have to be caught. On a good day (most days were good days) the yield was deemed to be a "good feed of crabs".
+
+There was a ritual in cooking them back at home, in the back yard. A large pot of salted water (aficionados said that sea water was best) was brought to the boil and the unfortunate (live) crabs were inserted. The shells rapidly turned a red colour. After a few minutes (each cook had their own metric) they were lifted out and more crabs inserted. As soon as they could be handled they had to be cleaned, a messy business. They now give you a
+[pamphlet](https://www.dbca.wa.gov.au/sites/default/files/2022-07/How%20to%20clean%20blue%20swimmer%20crabs%20flyer.pdf)
+on how to do it.
+The kitchen table was covered with newspaper, and the crabs put in the centre of the table, along with bread and butter and beer for the adults. They were consumed by breaking them apart. Big claws were fractured by bringing the back of the fist down on them. Bits of shell and debris would go everywhere. At the end it was all wrapped up and binned.
+
+At the time we didn't realise what a delicacy it was, and we thought them inexhaustible. 
+[Modern regulations](https://www.dpird.wa.gov.au/siteassets/documents/fisheries/recreational/guides-and-infographics/crabbing_for_blue_swimmer_crabs_west_coast.pdf) have preserved the fishery.
+
+The second boat was more spacious, perhaps 5m in length, shown here pulled into a jetty on the Collie River, just off the Estuary. Dad built it himself from a set of plans, and modified a 4-cylinder Vanguard engine as an inboard drive. It was considerably faster than its predecessor. No one thought to give it a name.
+
+{{< figure src="BoatTwo1966.jpeg"
+           caption= "Second Boat. Estuary, Bunbury. 1970" >}}
+		   
+I also show a crab supper from this time.
+{{< figure src="CrabSupper1966.jpeg"
+           caption= "Kerry, Jim, Jenny. Stirling Street, Bunbury. 1970" >}}
+
+
+The last boat was an aluminium dinghy, with an outboard motor. This photograph show Barney in about 1982, with his grandson Rory.
+
+{{< figure src="BarneyBunbury1982.jpeg"
+           caption= "Barney, Rory Molinari. Estuary, Bunbury. 1982" >}}
+		   
+The home arrangements had been considerably improved. Here Barney is cooking crabs on his custom forge (built out of an old washing machine and driven by an old vacuum cleaner). He always had a small forge: "You never know when you need to heat up a bit of metal". 
+		   
+{{< figure src="BarneyCooking1982.jpeg"
+           caption= "Barney Molinari. Stirling Street. 1982" >}}
+		   
+Grandson James is admiring the result of the days outing.
+		   
+{{< figure src="JamesBunbury1982.jpeg"
+           caption= "James Molinari. Bunbury. 1982" >}}
+		   
+While he enjoyed robust health for almost all his life, Barney accumulated some wear and tear along the way. He was playing with a detonator as a child (perhaps age twelve) and it detonated. He lost part of two fingers on his left hand, and a fragment of the detonator lodged in his left eye. The medical care of Cue must have been good enough to treat him at the time. While at Stockley Road, in about 1952, he took the tip of his right thumb off with a 24-inch diameter crosscut saw. He always had a substantial crosscut saw. For a while it was driven by a stationary petrol engine, and was later fitted with a serious electric motor. The thumb was sewn up and healed, and in fact the nail grew back. When he first visited us in Canberra the grandchildren were fascinated, and would bring in their little friends from the neighbourhood to "see Poppa's fingers".
+
+After being stable for years, about 1962 his injured eye deteriorated and had to be removed. He had a glass eye from then on - you never noticed it.
+
+When they were visiting us in Cambridge in 1967, Dad had a major heart attack. Presumably this was preceded by years of high cholesterol and high blood pressure, but in the medical practice of the time it was not diagnosed or treated. There was little treatment for a heart attack - he spent four weeks in Addenbrooks Hospital waiting for the damaged section of heart to heal (and hoping that there was not another heart attack). He slowly recovered, and he and Mum made it back to Bunbury. He had no interest in any more travel outside Australia.
+
+Towards the end he progressively lost sight in his good eye, and suffered from slow heart failure. He took it stoically, and was not interested in pursuing any surgical options. He lived at home to the end, and died in his sleep at the age of 85. He would have greatly prefered this to living longer, and needing to move to a nursing home.
 
 Finally, I include the text of the
 [eulogy](BarneyMolinariEulogy1999.pdf)
@@ -795,3 +880,16 @@ My brother Jim comments:
 
  Roma was the last of the first generation born in Australia. With her passed the first-hand stories of the migrant generation. What I have been able to recover of these stories for these pages is but a poor alternative.
 
+## The Current Generation
+
+The coverage here will be brief, perhaps aimed at giving our grandchildren an idea of what we were like when we were young. Generally, in the interest of privacy, our children and grandchildren will not be identified.
+
+### Brian Patrick Molinari (1944-)
+
+### Raymond James Molinari (1946-)
+
+{{< figure src="JimMolinari1995.jpeg"
+           caption= "At back: Jim, Lil, Barney, Marie. Stirling Street. 1995" >}}
+
+
+### Peter John Molinari (1952-)

@@ -136,7 +136,7 @@ William Cooke Will. [fullscreen](WilliamCookeWill1888.pdf)
 
 ### Mary Ann Murtagh (1821-1891)
 
-Mary Anne Murtagh was born in Sydney in 1821, to Charles Murtagh and Mary Regan, both convicts. By 1829 both parents were dead. She spent the years 1828-1839 in the Female Orphans School in Paramatta. She married William Cooke in 1841. She died in 1891.
+Mary Anne Murtagh was born in Sydney in 1821, to Charles Murtagh and Mary Regan, both convicts. By 1829 both parents were dead. She spent the years 1828-1839 in the Female Orphans School in Parramatta. She married William Cooke in 1841. She died in 1891.
 
 Being genuine, gold-plated convicts there is a considerable amount of documentation available. It has been digitised and is available on-line.
 
@@ -145,12 +145,12 @@ Being genuine, gold-plated convicts there is a considerable amount of documentat
 [convictrecords.com.au](https://convictrecords.com.au/) database.
 From the *New South Wales, Australia Convict Ship Muster Rolls and Related Records, 1790-1849* we have the
 [ships list](MurtaTyne1819.jpg)
-for the convict ship *Tyne* which arrived January 1819. Charles (Chas. Murta) is the last on the page. He was convicted of *sheep stealing* in the Dublin County Court in February 1818, and transported for 7 years. Once the convicts arrived in Sydney they were moved by water to Paramatta for assigning.
+for the convict ship *Tyne* which arrived January 1819. Charles (Chas. Murta) is the last on the page. He was convicted of *sheep stealing* in the Dublin County Court in February 1818, and transported for 7 years. Once the convicts arrived in Sydney they were moved by water to Parramatta for assigning.
 A [letter](MurtaghAssignmentList1819.jpg) of 13 January 1819
 from *New South Wales, Australia, Colonial Secretary's Papers, 1788-1825*
 lists convicts from two ships. Charles Murtagh is no 40, and is listed as being available for "general distribution". Other convicts are down for "Repairing Roads".
 
-It would seem that he was assigned in Paramatta. In June 1821 he was
+It would seem that he was assigned in Parramatta. In June 1821 he was
 [granted permission](MurtaghReganPermissionToMarry1821.jpg)
 to marry Mary Regan (in a list of three couples).
 
@@ -385,7 +385,7 @@ Extensive Estate and Homestead on the Shoalhaven River for Sale.
 The valuable Estate of Krarwarre, in the County of Murray, the Properly of Mr. Curlewis, containing three thousand three hundred and thirty acres of Land; bounded on the east by the Shoalhaven River; to which it has a frontage of nearly two miles and a half; on the west by the Croomeir Creek a never-failing stream, which during the late drought always ran as strong as in ordinary seasons ; on the north by Mr. Burke's grant ; on the south by a line being the boundary of the Colony.  
 The whole of the Land is richly grassed, and there are cleared alluvial flats on the bank of the river, affording sufficient cultivation for the wants of a large establishment ; besides the running water at the east and west boundaries, there is a chain of ponds running through the centre of the Property. The District is remarkable for the certainty of the crops, the Proprietor last year, notwithstanding the failure of the harvest else-where, having reaped thirty bushels per acre, and in eight years having had but one failure, and that from frost. About seventy acres of Land are in cultivation ; there are upwards of a thousand rods of three and four-rail Fencing, and a large Grazing Paddock.  
 The Buildings consist of a comfortable slab Cottage, rough plastered inside and out, shingled and floored, having five rooms, a store and passage ; three of the rooms have stone chimneys. Also, of an unfinished stone Cottage, containing a dining room and a drawing room, each eighteen feet by fourteen feet, a hall, spacious verandah, six bedrooms, and a cellar ; there are fireplaces in six of the rooms The Cottage is roofed and shingled, and three of the rooms, with the hall, are floored, There is an excellent Garden of two acres, stocked with fruit trees in full bearing. Also, a temporary kitchen, a barn, men's huts, &c , and a large substantial five-rail stockyard, with milking bails, calf-pen, &c.  
-This Estate, being situate at the extreme limits of location, commands a most extensive and excellent run for Sheep and Cattle outside the boundaries, the right to which will be transferred to the Purchaser of the Property. The run is watered by four running streams, and upon it are erected a substantial five-rail stock yard for a thousand head of cattle, stockmen's and shepherds's huts, &c.  
+This Estate, being situate at the extreme limits of location, commands a most extensive and excellent run for Sheep and Cattle outside the boundaries, the right to which will be transferred to the Purchaser of the Property. The run is watered by four running streams, and upon it are erected a substantial five-rail stock yard for a thousand head of cattle, stockmen's and shepherd's huts, &c.  
 Terms - One thousand pounds in Cash, or approved bills with interest; the residue may remain at interest at ten per cent, per annum for seven years.  
 Title - Grants from the Crown; the primary Grant, two thousand five hundred and sixty acres, being subject to a quit-rent of £21 13s 4d. per annum ; the remainder free of quit-rent.  
 This Property would be very well suited lo any Immigrant of moderate capital requiring a Homestead, and a run sufficient to keep all his Stock immediately about him. It is situate about twenty-five miles from the sea, a fine view of which is to be had from the mountain in the rear. It is also about thirty miles from Maneroo by the mountain road. Should the contemplated road to Bateman's or Jervis' Bay be carried into effect, it will very materially enhance the value of the Property. Almost immediate possession can be given.
@@ -686,8 +686,8 @@ I wrote a short eulogy for Ivy's funeral:
 I would like to contribute a few of my memories, to reflect wonderful gracious lady that we are saying goodbye to.  
 My first memories are of Byron Street in Leederville. I remember a piano in the dark cool dining room (Auntie still taught piano then) and a fascinating box of programs to music concerts and ballet performances that we allowed to look at if we were careful. Elegant black and white photographs of performers in evening dress, holding long cigarette holders. It was a world that I always associated with Auntie, that of well-groomed elegance and the love of music. And there were trips into the city on the Scarborough bus and visits to the big shops (even multi-storied). This was heady stuff for an eight-year old from country Bunbury, where concerts didn't often happen and the shops were decidedly single-storey.  
 Later visits were to the house at Mt Yokine. I was now at university and Auntie and Uncle were getting close to retirement. I would turn up for a restorative cup of tea and a scone, as an antidote to college food. I don't have a memory of a piano - I think she had phased out her teaching by then. I do remember taking Auntie (or did she take me) to a performance of "Swan Lake" by the Australian Ballet at His Majesty's Theatre. Stan, I suspect, was happy to give it a miss.  
-The last phase was the time at Swan Cottages, first in the town house with Uncle Stan and then later in the more supported accommodation. My visits were necessarily occasional, whenever I was in Perth. Auntie would be impeccably groomed, and ever interested in the complex doings of the growing brood of grand-nephews and grand-nieces. On one of my last visits I showed her a video of even the next generation (our grandchildren) on the screen of my laptop. She was interested in the kids, of course, but to a lady who was born in 1909 the technology was a mystery.  
-She was a the best Aunt we could have had. She showed us love and taught us that good manners and good grooming and indeed good style are forever in fashion. We will always remember her.
+The last phase was the time at Swan Cottages, first in the unit with Uncle Stan and then later in the more supported accommodation. My visits were necessarily occasional, whenever I was in Perth. Auntie would be impeccably groomed, and ever interested in the complex doings of the growing brood of grand-nephews and grand-nieces. On one of my last visits I showed her a video of even the next generation (our grandchildren) on the screen of my laptop. She was interested in the kids, of course, but to a lady who was born in 1909 the technology was a mystery.  
+She was the best Aunt we could have had. She showed us love and taught us that good manners and good grooming and indeed good style are forever in fashion. We will always remember her.
 
 (to be completed)
 
@@ -715,6 +715,9 @@ Les was in the back seat, and was uninjured. The horse, surprisingly, was uninju
 
 ### Lily Mariner Atkins (1915-2017)
 
+Lily Mariner Atkins, my mother, known as Lil, was born in Bunbury in 1915. She married
+[Barney Molinari](/family/molinari/#barney-molinari-1913-1999) in 1942 and they had three children. Barney died in 1999 and Lil died in 2017 at the grand age of 101.
+
 I gave the following eulogy at my mother's funeral.
 
 >It is one of life's big events for children to bury their parents; for one generation to say goodbye to the earlier generation and to become in their turn the family elders.  
@@ -732,8 +735,115 @@ Mum was what I call a social attractor. When I would visit from "The East", the 
 So that is how we should remember Lil. A gregarious character whose interest in life and in people was a defining characteristic. She knew people, she enjoyed their company and they enjoyed hers. She loved her sons, her grandchildren and her friends, and we all loved her in return.  
 We will long remember her.
 
+Lily was educated in Bunbury by "the nuns". This meant the convent and school in Wittenoom Street, just back from the town centre. The primary school was run by the St Joseph nuns, and took both boys and girls. The secondary school was run by the Sacred Heart nuns, and was girls only. In secondary school the first public examination was the Junior Certificate, taken at age 15, and then the Leaving Certificate, taken at age 17 (which provided matriculation into the University of Western Australia). Rather unusually for the time and place, Lily studied to Junior Certificate level and passed in five subjects in 1930 (English, Geography, Mathematics A, Drawing and Commercial Methods and Bookkeeping). The results are
+[here](http://nla.gov.au/nla.news-article32992336). There seems to have been 10 girls in her class. The other secondary school was Bunbury High School, which seemed to have 25 students (9 boys and 16 girls). Taken together, some 74% of the Junior Certificate cohort was girls. I put this down to the sturdy disregard for education that the town had. Boys typically left school at 14 and cheerfully worked in the family business or took apprenticeships. The local port and the railways were important sources of employment. This had hardly changed when I was in the Junior Certificate class in Bunbury in 1958.
 
-(to be written)
+{{< figure src="StJosephsSchoolBunbury1930.jpeg"
+           caption= "Lily Atkins (middle of top row). St Josephs School. 1930" >}}
+		   
+As related above, the family moved to Scarborough part-way through 1930. Lily must have stayed in Bunbury to complete her studies, either boarding with the Nuns or staying with family friends. When she too moved to Scarborough, her hopes for some sort of a secretarial career came to nought. She was needed in the family business, and the Depression had started. Businesses were taking on no new staff. The following studio photograph was taken about this time.
+
+{{< figure src="LilyMolinari16.jpeg"
+           caption= "Lily Atkins (age 16). 1932" >}}
+
+The family returned to Bunbury in late 1934. The
+*West Australian* of 23 August 1934 tells us:
+
+>The Scarborough Beach Social Club will hold its weekly social in Atkins's tea-rooms tonight, when a farewell will be tendered to Mr. and Mrs. Atkins.
+
+In Bunbury at least, Lily found commercial employment. She used to tell us that she was "Head Girl" at the local Woolworth's store. A somewhat breathless
+[report](http://nla.gov.au/nla.news-article253086737) in the
+*South Western Times* tells us that the Bunbury store opened in mid 1939 and was
+
+>one of the most modern emporiums erected in any city in Australia.
+
+At that stage
+[Woolworths](https://en.wikipedia.org/wiki/Woolworths_Group_(Australia)) was a department chain focusing on low-priced items. It was Australian owned, and had adopted the name and style of the USA
+[Woolworth chain](https://en.wikipedia.org/wiki/Woolworth) which
+
+>was one of the first American retailers to put merchandise out for the shopping public to handle and select without the assistance of a sales clerk. Earlier retailers had kept all merchandise behind a counter and customers presented the clerk with a list of items they wished to buy.
+
+Apparently the USA company had neglected to register its trademark in Australia. The Bunbury Woolworth's store was unchanged in my childhood (1950-1960) and was an Aladdin's cave of things that could be bought for modest amounts of pocket-money. Woolworth's subsequently became a supermarket behemoth, and abandoned their variety stores.
+
+Family legend has it that at this time Lily was good friends with Emma (Emmy) Callegari, later Emmy Styants. Emmy was Dad's second cousin, as explained 
+[here](/family/dallacqua/#the-cousin-gerardo-callegari).
+Dad, who was making good money in Big Bell, used to come to Perth once a year during his annual holidays with several mates in search of a good time. Barney and Lily met in Bunbury through cousin Emmy. They were married on 14 September 1942, in St Patrick's Church, Bunbury.
+
+{{< figure src="LilyBarneyMolinari1942.jpeg"
+           caption= "Lily Atkins, Barney Molinari (from left). Bunbury. c1941" >}}
+{{< figure src="LilyAtkins1942.jpeg"
+           caption= "Lily Atkins. Wedding Day. 1942" >}}
+
+They started married life in the mining town of Big Bell, where Dad was employed as a foreman in the mine machine shop. Around 1943 the mine closed due to the war, and a small group of tradesmen (perhaps 10) were retained to carry out maintenance. Dad was one of that group. The mine reopened in late 1945.
+
+I think Mum never took to life in a mining town in the Murchison district, some 800 km north-east of Perth. The summers were brutal, and she suffered badly from hay fever which hit in spring as the country dried out after whatever winter rains they might have got. I think she missed her family in the temperate South West. I suspect she never bonded much with her Italian in-laws - there was never any indication that she picked up the slightest trace of Italian language or culture. She would spend the summer months either in Perth (with her sister Ivy) or Bunbury (with her parents). In fact I was born in the 1943-1944 summer (in Perth) and Raymond was born in the 1945-1946 summer (in Bunbury).
+
+The retreat to Perth was by train. You caught the train at Cue, officially 526 miles from Perth. There seemed to be two options. Arriving at Mullewa (with 331 miles to go) you could turn left and travel down the WAGR line to Northam and then to Perth. Or you could go a further 66 miles on to Geraldton (on the coast). There one could change to the
+[Midland line](https://en.wikipedia.org/wiki/Midland_railway_line,_Western_Australia) and travel to Midland Junction and then Perth. This was a private line, very unusual in Australia. They developed the line in exchange for land grants (extending 40 miles each side of the line). There was a weekly passenger service.
+
+I can't find a contemporary timetable, but I don't think you got much change out of a day and a half for the journey. WA trains didn't hurry, and were liable to stop at any or all sidings along the way. I have a brief but clear memory of one such trip. Mum and baby brother and I were in a compartment, with I think another young mother with child or children. Maybe it converted to sleeping bunks. I have a clear memory of passing through a tunnel. This can only have been the
+[Swan View Tunnel](https://en.wikipedia.org/wiki/Swan_View_Tunnel), some 340 m long, between Northam and Perth. Going through in steam train was not to be forgotten. In any event, that meant we were in a WAGR train that turned left at Mullewa.
+
+We have several photographs of this time. The first shows my brother and I, and other children, outside on what appears to be lawn. The second is my brother and I playing out in the street. The houses are built to a standard design. They are "staff houses", constructed by the mine company and made available at a token rent. There was a water supply, but not enough for other than small gardens. The town itself was several km away, and had much more heterogeneous housing.
+
+
+{{< figure src="BigBell1947.jpeg"
+           caption= "Brian, Vaughan Thomas, Jim, David Nowland (from left). Big Bell. 1947" >}}
+
+{{< figure src="BrianJim1948.jpeg"
+           caption= "Brian, Jim. Big Bell. 1948" >}}
+
+In 1948 we moved to Bunbury, presumably at Mum's instigation. Dad was well-paid, enjoyed his work, and had a wide circle of friends and family in Big Bell and Cue, and it wouldn't have been his first choice. Perhaps it only anticipated the inevitable - the mine closed some six years later and the family would have been forced to move then.
+
+We first lived with Mum's parents in
+[17 Wittenoom Street](https://maps.app.goo.gl/HA14vDZLU3Jf46tM8)
+for a year or so. Houses were in short supply, as few had been built for a decade. Dad had the price of a house in his bank account, but it took some time to find a house, and for the vendors themselves to be able to move out. The following photograph was taken at that house. I am in the centre, and to my left Mary Kelly and brother Jim.
+
+{{< figure src="BirthdayPartyBunbury1949.jpeg"
+           caption= "Birthday Party. Bunbury. 1948" >}}
+
+We moved to
+[86 Stockley Road](https://maps.app.goo.gl/ZDHSXdMkcXrejTgY9)
+sometime in 1949. It is still there, apparently unchanged, some 75 years later. Its weatherboard construction was typical of the time. Timber was plentiful, and relatively cheap.
+
+Around 1954 we moved to 105 (?) Forrest Avenue. This was a new house, brick and tile. Forrest Avenue was then the main road into town, and relatively busy. The road system has been subsequently changed (several times) and the area is now zoned commercial. The house seems to have gone. This is a photograph of the house:
+
+{{< figure src="ForrestAvenue1964.jpeg"
+           caption= "Forrest Avenue. c 1964" >}}
+
+Note the 15m guyed poles with a television antenna on top. The nearest TV transmitters were in Perth, some 150 km away as the crow flew. This arrangement gave very marginal reception, and the picture (then black-and-white) would ghost badly when a truck went along the road at the front, or a train went past along the line at the back. All for an analog 625-line picture. Such was the allure of 
+[early TV](https://en.wikipedia.org/wiki/Television_in_Australia) that this arrangement was resorted to.
+
+The following photograph was taken during this time.
+
+{{< figure src="LilyMolinari1966.jpeg"
+           caption= "Lily Molinari. 1966" >}}
+		   
+Finally, around 1968 (?), they moved to 
+[52 Stirling Street](https://maps.app.goo.gl/P58bTkUhW7TZvnVp8).
+Though the house was older, this was a very pleasant location. It was easy walking distance to the centre of town. It backed onto Queens gardens, and then the estuary. Dad had retired and enjoyed his workshop. Mum took an active interest in craft activities and was a member of a spinning group.
+
+Mum always suffered from skin cancers on her face and hands - the legacy of time at the beach and no sunscreen and no hats (see the above photograph). She was forever getting them "burned off". Then around 1984 she was diagnosed with a melanoma spot on the back of her right calf. The prognosis for melanoma then was poor, and the treatment was somewhat brutal. A big chunk of her calf was surgically removed (needing extensive skin grafts) and lymph nodes removed. An early chemotherapy was applied. The blood supply for her leg was bypassed to a primitive "heart-lung" machine while they put as much chemical as they dared into the supply. This was at levels that the rest of the body could not tolerate. In the event she survived, and the melanoma did not metastasise. From then on she was saddled with a swollen leg and the chore of putting on a tight pressure stocking each day. I have never heard of anyone else being subjected to this form of chemotherapy. I assume it was not long used.
+
+These problems were put down to Mum's English-Irish heritage. Dad, with his Italian heritage, had no such problems. 
+
+After Dad died (at home) in 1999, Mum moved to a retirement unit several hundred meters away, in the Leschenault Village community in
+[Hayes Street](https://maps.app.goo.gl/mp45vyitDhAi5gff6).
+Mum was very happy there - the community suited her. She had wanted to move there earlier, but Dad didn't cooperate. He didn't want to be "cooped up in a little unit". The following photograph was taken in late 2010 at Leschenault Villas, where we celebrated Mum's 95th birthday.
+
+
+{{< figure src="LilMolinari2010.jpeg"
+           caption= "Lil Molinari, with Peter, Brian, Jim (from left). 2010" >}}
+
+
+She was there until about 2011. She fell and cracked her pelvis (but did not "break her hip"). She recovered substantially and moved back to her unit but was not confident living alone at age 95. She tried a nursing home in Bunbury but it didn't work out as, by now, she had no support network in Bunbury. In about 2012 she moved to the "Bethshan" nursing home in Katanning (where Peter and Christine lived). While the care there was excellent, Lil didn't make many friends, and relied heavily on frequent visits from Peter and Christine (who lived walking distance away). The family celebrated her 100th birthday with her. Her elder sister Ivy had celebrated her own 100th birthday in 2009, then took to her bed several weeks later and died peacefully. Mum lasted another eighteen months. She wasn't happy, as she got more frail with time. She was mentally sharp to the end, but had no joy in life. She died at Bethshan on 14 June 2017. 
+
+
+[school leaving age](https://research.acer.edu.au/cgi/viewcontent.cgi?article=1038&context=transitions_misc)
+
+[book bush schools](https://ro.ecu.edu.au/ecuworks/7075/)
+
+[big bell](https://historicalaustraliantowns.blogspot.com/2019/11/big-bell-wa-abandoned-ghost-town.html)
 
 ### Colin Ernest Atkins (1920-2003)
 
@@ -750,6 +860,9 @@ In the middle of the depression in 1934, Colin's family moved back to Bunbury.
 
 Editor's note: Colin travelled to Leederville to school, but his elder sisters and brother had already left school. He would have walked home *from* Osborne Park. The surfboards were 30cm *wide*, not thick. In fact, the photo of the Atkins Tearooms shows three youths heading for the beach with such surfboards. The surfer put their body *on* the board and rode the broken wave into shore. The surfer did not stand on these boards.
 
+
+{{< figure src="AtkinsSiblings2000.jpeg"
+           caption= "Standing. Marge (left), Sitting: Colin, Ivy, Lily. 2000" >}}
 
 [genea](https://genealogyatgenea.com/)
 
