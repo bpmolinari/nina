@@ -424,7 +424,6 @@ As well as being a home for the eight unmarried adults, it was also a family fos
 [here](../raselli/#angela-raselli-1878-1973)
 the first two children of Martin and Angela also lived at Snugborough during the period 1913 to 1926, being mothered by the Aunts. See the photograph of Old Uncle above.
 
-
 The *Pioneers of Nathalia and District* tells us:
 
 >After the deaths of Billy and Jack within a few weeks of each other early in 1931, Margaret, Sarah and Johanna continued the running of the farm with hired help until the harvest of 1939 when John, Phillip's eldest son was sent for "to help take off the crop". He has been there ever since and is now the owner of the property.
@@ -459,12 +458,12 @@ owned by one
 [Mr Emanuel Gorman](http://nla.gov.au/nla.news-article4034715).
 
 A [report](http://nla.gov.au/nla.news-article186410234) in the
-*Numurkah Leader* of 21 August 1908 related (in full detail) a farewell for Martin as he left Nathalia to start a farm near
+*Numurkah Leader* of 21 August 1908 relates (in full detail) a farewell for Martin as he left Nathalia to start a farm near
 [Kin Kin](https://www.libraries.noosa.qld.gov.au/heritage/locality-histories/kinkin/), in Queensland.
 
 The *Gympie Times and Mary River Mining Gazette* of 8 September 1908 tells us:
 
-> Mr. M. O'Hare. of Kembla Heights, N.S. Wales, who recently purchased a large area of country north of Kin Kin, arrived at Gympie last week, and intends settling on his property right away; he has had about fifty acres felled.
+> Mr. M. O'Hare, of Kembla Heights, N.S. Wales, who recently purchased a large area of country north of Kin Kin, arrived at Gympie last week, and intends settling on his property right away; he has had about fifty acres felled.
 
 The *Gympie Times and Mary River Mining Gazette* of Thursday 20 February 1913 tells us:
 
@@ -483,18 +482,109 @@ The *Gympie Times and Mary River Mining Gazette* 19 February 1916 tells us:
 "Kotoro" was a facility in Gympie that provided midwife services. These were common before public hospitals were better developed and trusted. The place-name
 [Wolvi](https://en.wikipedia.org/wiki/Wolvi,_Queensland) lets us locate the farm a little more accurately. It is about 10km north of Kin Kin, on the road to Gympie.
 
+At the moment, I have only one photograph of Martin, taken at about this time.
+
 {{< figure src="MartinOHareMartinGympie.jpeg"
            caption= "Martin Patrick O'Hare, with son Martin Patrick. c 1918" >}}
 
-In 1926 Martin fell seriously ill, and it was believed that he was suffering from TB. He moved back to Natalia, leaving his wife to endeavour to sell up the farm. In the end most of the furniture was sold (for a song), and the land was broken up slowly. The whole family was reunited at Snugborough.
+In late 1925 (or perhaps early 1926)  Martin fell seriously ill.
+Honor tells us:
 
-The family moved to a small location called
-[Bilbarin](https://en.wikipedia.org/wiki/Bilbarin,_Western_Australia).
+>We were told that he had developed the dreaded T.B.. His lungs were effected.
+He must be moved as soon as he could travel to a climate less damp and humid than the Queensland coast.  
+Events now moved with dramatic speed. The Aunts immediately rallied to give their loving support, Jo and Kath coming as fast as trains could carry them. When he was well enough my father travelled back to Victoria with Auntie Kath. We remained behind till the sale of the farm was negotiated. The contents of the house were auctioned, my mother's wedding presents, all our furniture, there was little that could be salvaged.
 
-In 1937 a better financial situation allowed them to move to a property called Yenelin, south of Cunderdin.
+They travelled from Brisbane to Melbourne on a coastal steamer, the
+[Levuka](https://www.clydeships.co.uk/view.php?ref=16458), and the family was reunited at Snugborough. Martin slowly recovered, and it was thought that he was not suffering with T.B. but with a complication of dengue fever. In any event, Martin lived to the good age of 79 years.
 
-He died in 1953. His wife, Angela, moved to Como. His son Ned took over the farm.
+Honor relates that the family was there for nearly twelve months
 
+>while my father tried to find a suitable property at a price that he could afford in Nathalia and surrounding areas. It was a vain search, land was everywhere too expensive and nothing was ever found.
+
+The momentous decision was taken to move to Western Australia, where farms could be had for less money. Again they travelled by sea, on the 
+[Hobson's Bay](https://seawitchimages.com.au/browse/ss-hobsons-bay). This was one of a small fleet of steamers owned by the Australian Government that plied from Australian ports to Britain and return. What with all the stops the round trip was about four months. The Hobson's Bay arrived in Fremantle from the Eastern states on 18 November 1926 and next on 06 April 1927. The November sailing seems the most likely.
+
+In Perth the family stayed with Angela's sister Annie while Martin went looking for a farm.
+
+> My father at last managed to purchase a farm in the Corrigin district, not far from his old friends the Keays and the Dillons. The local siding was
+[Bilbarin](https://en.wikipedia.org/wiki/Bilbarin,_Western_Australia)
+which consisted of nothing more than a general store, a school with a house for the resident master, a hall, and the usual wheat-handling near the siding.
+
+We can date this quite precisely. The *West Australian* of 17 May 1927 tells us:
+
+> Corrigin  
+Within the last few days, Mr Joseph Tuia (one of the early settlers here)
+sold his farm to Mrs Lithgo of Mt. Lawley, and Mr A H Henderson's farm at Bilbarin was sold to Mr O'Hare of Victoria, at satisfactory prices.
+
+If this is not the actual farm, the following advertisement from
+the *Sunday Times* of 4 July 1926 gives a good idea of what it might have cost:
+
+>1000 Acres, 3 miles from Bilbarin Siding and School, 830 acres first-class land; timbered with gimlet, yorkgum and jam; 830 acres cleared, 300 acres fallow; boundary fenced and subdivided into 4 paddocks; watered by dam and well: 5-roomed House, stables, chaffhouse, etc; carrying capacity 300 sheep; 3 horses and full working plant.  
+PRICE, £4 15s. per acre. Including crop, stock and plant; £1000 cash, balance arranged.
+
+A meeting with his old friend Jack Dillon was reported later in
+the *Corrigin Chronicle and Kunjin-Bullaring Representative* of 10 March 1938:
+
+>You Never Know!  
+That this world of ours is but a small place, was instanced to the representative of this journal, one day this week. Conversation with a local resident and farmer in Mr. J. F. Dillon was in progress — various topics — until discussion arose on coincidences or peculiar incidents in life. Mr. Dillon told the best naturally—being an old head— and as it concerns that gentleman and Mr. M. P. O'Hare, formerly of Bilbarin, but now of Cunderdin, the incident bears repeating in a condensed form:  
+Mr. O'Hare was best man at Mr. Dillon's wedding in 1901, in Goulburn Valley, Victoria. Mr. Dillon came straight back to the Goldfields and several years later came to Brookton, and secured a property at Corrigin. Mr. O'Hare in the meantime, was situated in N.S.W., later moved to Queensland, ill-health in turn causing him to move to Victoria. Owing to circumstances not being favourable, he headed for the West in 1927 and selected a farm at Bilbarin. Soon after his arrival, Mr. Dillon, working the Corrigin farm from Brookton, used to travel from that centre, plant the crop and return to Brookton until harvest time. It was on one of these trips that the two friends met on the roadside near Lomos, to the surprise of both, after a period of some 27 years. After that — well we leave it to you.
+
+We have two reports of the family's time at Bilbarin. 
+The *Toowoomba Chronicle and Darling Downs Gazette* tells us on 1 August 1927:
+
+>TWO STATES COMPARED.  
+Mr. M. P. O'Hare, writing to "Gympie Times," from Bilbarin in West Australia, in which place he has recently settled, says: "The country here is in marked contrast with Gympie and Kin Kin districts. We miss the wonderful greenery and rich verdure of those places. The tropical growth and lovely little rivulets are absent in the West. Still it's going to be a wonderful wheat-growing State and when in order will carry a fair number of sheep. It will never be the equal of the wheat-growing areas of Victoria or the Riverina. The Government here, though Labour, are keen on land settlement. They give every encouragement and assistance to anyone willing to take up new country. Their Land Acts are good and very liberal. I trust your Premier does not call in on his way back from London and put them wise or otherwise to the Queensland method."
+
+In early 1928 the *Nathalia Herald* printed a series of five articles by one J. O'Hagan, entitled *Across Australia from West to East*. Article number 2, printed 24 January 1928, included a detailed description of
+Martin's farm:
+
+>When in West Australia I had the pleasure of calling on Mr. Martin O'Hare, a former resident of the Nathalia district, and stayed with him for a few days. He has a splendid farm, and I heard from outsiders that it is the best farm for many miles around. It comprises 918 acres, and is termed a very handy one-man farm. He only bought it at the beginning of April last.  
+The ground he grew his crop on was fallowed by the sundercut. Mr. O'Hare worked it again previous to sowing with the sundercut, and then sowed the wheat with the combine at the rate of 60lbs of wheat and 90lbs of super per acre. His crop when I was there was averaging over 21 bushels per acre, some parts of it going much more. With improved farming methods I am sure the farmers in Western Australia would do still better than already is the case, although the fallows are fair. The
+farmers in Mr O'Hare's district are getting good results with the sundercut, and they say the mouldboard plough is too slow. However, their fallows do not appeal to me, and in my opinion extra workings of the fallows would produce three to four bags more per acre.  
+Mr O'Hare's property is mostly of a sandy loamy nature, and is equal to the best land in the Nathalia district. It is gently undulating, and on all sides is surrounded by hills, which look picturesque in the distance. Beautiful little trees, with dense foliage and rounded tops, are growing here and there over the farm, and as well as being nice to look upon, act as shelter for the stock. The manna gum (a species of the wattle family), which has a beautiful yellow blossom in the spring time, is also a pretty round-topped tree with dense foliage, the gum of which has a comnicrcial value, and sells readily at 4d per lb, This tree has a long narrow leaf full of moisture. I also noticed other trees on the property, the leaves of which were glistening in the sun, and when I pulled them they were full of sap, which is altogether different to the dull green looking leaf of the grey box tree, deficient in moisture content, that is to be seen about the Nathalia district. This all made me think that there must be a great deal of moisture not far beneath the surface, and upon enquiry I elicited the information that good fresh water could be obtained from six to eight feet from the surface in several places on the farm. In fact, I believe water could be got at not too great a depth all over the farm, and this no doubt accounts for the glistening of the healthy trees in the sunshine. Although the annual rainfall in that locality is only 16 inches it is quite sufficient for all requirements. It is not at all improbable that the rain that falls on the hills which surround this and neighbouring farms finds its way by soakage to the lower levels, so I do not wonder at all the farmers who I came in contact with over there saying that the land of Western Australia is a puzzle to them and that it is really far better than it looks.  
+The temperature in Mr O'Hare's locality is not so oppressive that a white man could not work in the harvest field. The hottest day for
+the year, and which 1 believe was a record, occurred on December 12, the thermometer rising to 106, but one great advantage there is that a sea breeze comes along regularly in the evening from the Southern Ocean and there are always cool nights. The breeze in that locality is called the "Albany Doctor." You can hear it whistling through the trees from the south some time before it arrives, and it sometimes stays on till the morning of the following day. It was ideal harvesting weather when I was at Mr O'Hare's place, only a little cool in the morning and there were days when you could not see a collar mark on the horses. The crops there ripen about a fortnight earlier than at Nathalia or Numurkah.  
+Mr O'Hare's property is three miles from Bilbarin railway siding, where there is a large shed which will hold about 13,000 bags of wheat, which is controlled by the Westralian Farmers Limited, acquiring agents for the trustees of the Co-operative Wheat Pool of Western Australia. There is also a store, blacksmith's shop, hall, State school, and a branch of the National Bank there. The pool received 45,000 bags of wheat at the siding last year, and Dalgety
+holding 33,000, or 81,000 bags altogether. When I was at Bilbarin on December 16 there were only 25,000 bags of this season's wheat at both the cooperative shed and stacked at the siding, but farmers estimated that when carting was completed the total for the season would be about 80,000 bags. On the date mentioned the market price of wheat at Bilbarin was 4s per bushel, and at the beginning of the season the price there was 4s 4d.  
+Of course the Bilbarin district has its troubles as well as other parts of the State, as there are three pests there, viz., rabbits, poisonous plants, and wild dogs. The rabbits are the chief menace at present, and a little damage has been done by them to the crops this year, and the pest is not decreasing by any means. Mr O'Hare is making preparation to wire-net the whole of his property, and others in the district are doing the same. As regards the poisonous plant which 1 believe exists more or less in most of the settled portions of the State, cultivating and grazing are the main means of coping with the trouble. There was none of this plant to he seen on Mr O'Hare's property, but some of it was pointed out to me near the railway siding at Bilbarin. The wild dog will be the next danger, and a very serious one, too, where sheep are concerned.
+
+
+If the farm itself was judged to be "splendid", the farmhouse itself did not attract any such praise. Honor tells us:
+
+>The house on the property fell below our previous standards, but it "was there" and we must endure it. It was jarrah weather-board, hot in summer, cold in winter. It was so designed that all who entered had to arrive at the back door and walk through the kitchen to reach the front room.
+When all were at home it was too small for us. With visitors, the verandah was always cluttered with extra beds.  
+In the summer, water became a most precious commodity. It had to be carted from a few soaks for washing and bathing, while we had to rely on our rainwater tanks to supply drinking and cooking needs. Consequently during the summers, there could be no garden; a lawn was unheard of.
+
+We have several photographs, taken years later. The house is unchanged, but had long since been abandoned.
+
+{{< figure src="AngelaBilbarin1960.jpeg"
+           caption= "Angela, Anne, Sheila, Elizabeth (sitting). Manna Gums, Bilbarin. 1960" >}}
+{{< figure src="Bilbarin1960.jpeg"
+           caption= "Rear of house. Manna Gums. Bilbarin. 1960" >}}
+
+
+In 1938 a better financial situation allowed them to move to a property called Yenelin, south of Cunderdin.
+The *Corrigin Chronicle and Kunjin-Bullaring Representative* of 3 March 1938
+reported a sendoff.
+
+> Bilbarin Valedictory.  
+A social evening and dance was held in the Memorial Hall, Corrigin, on Saturday, 26th February, the occasion being in the nature of a sendoff for Mr. and Mrs. M. P. O'Hare and family, who are leaving the Bilbarin farm for a larger one at Cunderdin.  
+A most enjoyable evening was spent under the Chairmanship of Mr. Dillon. The speakers were Mr. Childe on behalf of the W.G. Union of which Mr. O'Hare has been Chairman of the Bilbarin Branch for the past 3 or 4 years.  
+Mr. Martin on behalf of the P.P.A., of which Mr. O'Hare was a loyal member until the Branch ceased to function.  
+Mr. W. Marshall on behalf of sporting bodies, principally cricket of which he and his family have always been keen supporters and players.  
+Mr- Brankstone, on behalf of the Corrigin and district residents and Mr. Gasser on behalf of the Bilbarin and district residents. Each speaker stressed the point to show in what high esteem the family were held by all with whom they came into contact.  
+Mr. O'Hare replied, thanking everyone for the good things said and the good feeling he had always found to exist amongst all with whom he came into contact while living in the district and extolling the district, his only reason for leaving being that having now a grown-up family, he had to get a larger farm to keep those who remained at home employed.  
+During the evening, presentations were made to Mrs. O'Hare (a Pyrex Casserole), and to Mr. O'Hare (Case of Pipes), by the Chairman as a small token of esteem. The Cricket Club also made a presentation to one of their stalwarts, Mr. Frank O'Hare.  
+Music was supplied by Miss Parsons, assisted by Mr. O'Connor and others. A sumptuous supper was served in the usual fine style by the ladies and a most enjoyable evening was brought to a close by the singing of "Auld Lang Syne."
+
+Manna Gums was initially leased.
+The *Corrigin Chronicle and Kunjin-Bullaring Representative* of 3 March 1938, tells us:
+
+>We must bid "goodbye" to Mr. and Mrs. O'Hare, of Bilbarin, who have leased. their farm to Mr. Tullock. They are settling in Cunderdin, where they have taken a farm of 3,000 acres.
+
+Paul O'Hare thinks that it was finally sold around 1948. Soon after that Martin and Angela retired to Perth, to 30 Comer St, Como. Their son Ned took over "Yenellin".
+
+Martin died in 1953.
 The *West Australian* of 23 July 1953 reported
 
 >O'HARE: On July 21, at his residence, 30 Comer street, Como, Martin Patrick, dearly beloved husband of Angela, loving father of Honora (Mrs. Pusenjack), Francis, Martin, Edmund and Elizabeth, father-in-law of Sheila, Patricia and Margaret, grandfather of eight grandchildren; aged 79 years. Requiescat in pace. 
@@ -551,7 +641,7 @@ Honor Pusenjak tells us:
 
 >Auntie Kath worked all her life in the Lands Department (in Melbourne) until she retired back to Snugborough, while Auntie Sara sometimes got called to Melbourne for a temporary office position.
 
-By 1918, Cath and Eliza were both working in Melbourne. Honor Pusenjak tells us they boarded with a cousin Ellen Commons (one of Maurice Commons' children) who was married to one Patrick Collins. They lived at 27 Grattan St, Carlton, and had no chidren, so chose to take in boarders. Honor relates that in about 1919 it was decided that the government school at Barwo West would not do, and that Cath and Eliza should look after her in Melbourne while she attended the rather posh Catholic Ladies College. She speaks of Cath having the main caring responsibilty, particularly after Eliza married in 1921. The arrangement came to an end in about 1923, when Honor was taken back to her parents in Kin Kin. (Frank remained at Snugborough, looked after by Sarah in particular).
+By 1918, Cath and Eliza were both working in Melbourne. Honor Pusenjak tells us they boarded with a cousin Ellen Commons (one of Maurice Commons' children) who was married to one Patrick Collins. They lived at 27 Grattan St, Carlton, and had no children, so chose to take in boarders. Honor relates that in about 1919 it was decided that the government school at Barwo West would not do, and that Cath and Eliza should look after her in Melbourne while she attended the rather posh Catholic Ladies College. She speaks of Cath having the main caring responsibility, particularly after Eliza married in 1921. The arrangement came to an end in about 1923, when Honor was taken back to her parents in Kin Kin. (Frank remained at Snugborough, looked after by Sarah in particular).
 
 Cath seems to have lived with her sister and brother-in-law. The Electoral Rolls certainly record the same address in Deepdene. Pat Collins died in 1925, and maybe the boarding arrangements in Carlton came to an end. At some stage Ellen moved back to Woodend where her Commons family lived (she died there in 1942).
 
@@ -587,7 +677,7 @@ was made in the Roman Catholic portion of the Wyalong Cemetery.
 A nephew, Giffard O'Hare, provides the following memories of Snugborough and his aunt around 1960.
 
 >When we were young we stayed at the Snugborough Farm at Natalia on a number of occasions. The old aunts, Aunty Sarah, Aunty Joe and Aunty Kath lived in the original homestead that was an extension of the original log cabin. This original cabin is all that remains and we were told by Mary Barry that it was to be heritage listed. There was another building at the back that served as an extra living area - all gone. There was a beautiful orchard of mainly orange trees behind this and the drive from the access road was lined with these magnificent peppermint trees. John O'Hare, built his house nearby and worked with the aunts in running the property. Dad had 80 acres there that he inherited and John eventually bought Dad out.  
-Aunty Sarah was my favorite aunt.
+Aunty Sarah was my favourite aunt.
 She was an accomplished pianist and we had these great singalongs around the piano. She was very attractive when young and I remember seeing a photo of her and Aunty Lal who married Uncle Mick on the wall and thinking she would have made a wonderful wife and mother. Interesting that I have only just learnt that she and I share the same birthday,  24th of January. This would explain why Aunty Sar used to spoil me with big servings of lemon meringue pie and she even gave me a beautiful big green one pound note for helping herd the sheep to the shearing sheds up at the Thorpe's nearby property. It was a lot of money for a 10 year old kid in those days.
 
 
@@ -646,7 +736,6 @@ Sheila O'Hare commented:
 
 >Frank was in the Australian Light Horse Regiment, but my father who was trying to manage "Spring Dallah" on his own in his late sixties, man-powered Frank out to help him. Frank and I lived with my parents until we were allocated "Nangunia" (a war-service farm) at Quairading in 1948.
 
-
 Between the wars the
 [10th Light Horse Regiment](https://en.wikipedia.org/wiki/10th_Light_Horse_Regiment_(Australia)) was part of the
 [Australian Army Reserve](https://en.wikipedia.org/wiki/Australian_Army_Reserve). Indeed
@@ -662,16 +751,15 @@ Squadron, 10th Light Horse Regiment, which is under the direction of Lieut. D. C
 For example, the *Northam Advertiser* of 19 November 1938 tells us:
 
 >10th LIGHT HORSE REGIMENT. C squadron.  
-To-morrow a competition shoot has been arranged with the Cunderdin troop on the Northam rifle range at 11 o'clock. Troops are requested to assemble at the drill hall at 10 a.m. A picnic luncheon will be held on the range, lunch to be provided by each man, and later tea at the Shamrock Hotel, The Commanding Qfficer of the regiment (Lieut.-Colonel Sweetapple), Captain McKewan and Warrant Officers have kindly consented to be present at the function. Every effort has been made to en-sure the success of the shoot, and it hoped that all members of the Northam troop will endeavour to be present.
+To-morrow a competition shoot has been arranged with the Cunderdin troop on the Northam rifle range at 11 o'clock. Troops are requested to assemble at the drill hall at 10 a.m. A picnic luncheon will be held on the range, lunch to be provided by each man, and later tea at the Shamrock Hotel, The Commanding Officer of the regiment (Lieut.-Colonel Sweet apple), Captain McLean and Warrant Officers have kindly consented to be present at the function. Every effort has been made to en-sure the success of the shoot, and it hoped that all members of the Northam troop will endeavour to be present.
 
 Things got a little more serious by the end of 1939.
 The *Avon Argus and Cunderdin-Meckering-Tammin Mail* of 11 November 1939 tells us:
 
->The 10th. Light Horse Regiment will enter camp at Naval Base next Tuesday for one month continuous training. All members of the Cunderdin troop have received definite instructions regarding loading of mounts and gear. The members travelling by train will leave Cunderdin at 3.10 a.m. and are due to arrive a Spearwood at 10.45 a.m. No doubt a whole month away from the district during the harvest will seriously inconvenience a number of the men, but it is learned that arrangements have been made to minimise this difficulty where possible.
+>The 10th. Light Horse Regiment will enter camp at Naval Base next Tuesday for one month continuous training. All members of the Cunderdin troop have received definite instructions regarding loading of mounts and gear. The members travelling by train will leave Cunderdin at 3.10 a.m. and are due to arrive a Spear wood at 10.45 a.m. No doubt a whole month away from the district during the harvest will seriously inconvenience a number of the men, but it is learned that arrangements have been made to minimise this difficulty where possible.
 
 In the end, it all
 [went swimmingly](http://nla.gov.au/nla.news-article58975406).
-
 
 Frank's
 [military record](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=6477886)
@@ -683,7 +771,7 @@ He then goes home, and waits to be called up.
 This process is shown in the main Mobilisation Attestation Form (pages 1-2). Part A is filled out at the initial enlistment (3 August 1940). Part B is a medical examination, done at Bunbury on 24 April 1941 (Frank is fully fit). Part C is the oath of enlistment, done at the same place and date. Finally there is an annotation "Called up FTD 18 Dec 1941". Presumably FTD means "full-time duties".
 
 Finally, there is an Attestation Form (page 12), 
-dated 27 July 1942, where Frank agrees to "serve in the Austrlian Military Forces within or beyond the limits of the Commonwealth". (Apparently the great majority of the Regiment made this commitment to be potentially sent overseas.)
+dated 27 July 1942, where Frank agrees to "serve in the Australian Military Forces within or beyond the limits of the Commonwealth". (Apparently the great majority of the Regiment made this commitment to be potentially sent overseas.)
 
 Finally (page 14) he is discharged on 11 November 1943, with the reason for discharge being "Essential Supply - Farming".
 
@@ -695,7 +783,6 @@ We also have two identity photographs for Frank from this time:
 [here](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=204829101).
 {{< figure src="FrankOHareArmy.jpeg"
            caption= "Frank O'Hare, 10th Light Horse Regiment. 1943" >}}
-
 
 For nearly five years (early 1944 to late 1948), Frank and Sheila lived on "Spring Dallah", sharing the farmhouse with Sheila's parents. Sheila tells us that Frank worked under some sort of share-cropping arrangement, receiving the value of the wheat crop. Presumably he helped work the farm right through the year, but did not otherwise receive a weekly wage. As the crops were generally poor, they had a low income through this time. For example, the
 *Sunday Times* of 20 October 1946 reports:
@@ -717,7 +804,6 @@ Allotment of an additional four wheat and sheep farms and two dairy farms under 
 
 For a history of Quairading, one can do no better than to note the history of the [Quairading Farmers Co-Operative Company](https://cemi.com.au/__static/jdj5jdewjg5st2dowefiaxvebgtynhm5/CEMI-CERU-Case-Study-History-CSR-2502-Quairading-Farmers-Co-operative-Ltd.pdf).
 
-
 The property itself warrants a
 [heritage listing](https://inherit.dplh.wa.gov.au/public/inventory/printsinglerecord/847dc02b-8b27-4d86-9c6b-e0ab26f83d5b). This includes:
 
@@ -727,7 +813,6 @@ Physical Description
 Red brick home with a corrugated iron roof.  
 History  
 TC Hodgeson took up 25000 acres on a pastoral lease, and later conditional purchase, and called the property "Whitehaven". Robert Barr took over part of the property from Charles Baxter who retained the homestead portion of the original Whitehaven property. In c1927 Barr built the existing homestead. An old stone dwelling on the property is used as a seed storage area. Together with Whitehaven, Nungunia was purchased by the Government after World War Two, and the property with the original dwelling was allocated to Francis J O'Hare in 1948, under the Soldier Settlement Scheme. The farm is currently farmed by his son Paul O'Hare.
-
 
 A history of the
 [war service land settlement scheme](https://library.dpird.wa.gov.au/cgi/viewcontent.cgi?article=1029&context=fse_publishedrpts)
@@ -751,10 +836,15 @@ cent. for money borrowed for development.
 
 Tragically, Frank was killed on 27 December 1971, on the farm. A newspaper report of the time:
 
->FARM DEATH. A farmer, Francis John O'Hare (54), was killed when he was run over by a tractor while harvesting on his propertry near Quairading. Police believe that Mr O'Hare was emptying a harvester when he noticed that the tractor was moving. He slipped while trying to pull on its handbrake and was crushed beneath a rear wheel.
+>FARM DEATH. A farmer, Francis John O'Hare (54), was killed when he was run over by a tractor while harvesting on his property near Quairading. Police believe that Mr O'Hare was emptying a harvester when he noticed that the tractor was moving. He slipped while trying to pull on its handbrake and was crushed beneath a rear wheel.
 
 
 ### Mary Honor O'Hare (1913-2002)
+
+The *Avon Argus and Cunderdin-Meckering-Tammin Mail* of 3 February 1945
+tells us:
+
+>Miss Honor O'Hare of Cunderdin will commence duties at the Quelagetting school on Tuesday.
 
 ### Martin Patrick O'Hare (1917-1991)
 

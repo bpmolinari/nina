@@ -7,7 +7,7 @@ draft : false
 ## Introduction
 
 My paternal grandfather is Giovan' Domenico Molinari (1882-1959). He was born in Tirano, Sondrio, Italy and emigrated to Perth, Western Australia in 1900.
-Three siblings (two brothers and a sister) migrated from Tirano to Perth in the first eight years of the twentieth century. What was the context of them leaving at that time, and why Australia?
+Three siblings (two brothers and a sister) migrated from Tirano to Perth in the first fifteen years of the twentieth century. What was the context of them leaving at that time, and why Australia?
 
 The family recorded history and oral history is rather weak. The sister died early (in 1941). The younger brother went back to Tirano in 1975. They didn't much write to one another, or at least didn't reply to letters.
 One resource we do have is some [notes](HowiesonNotes.pdf)
@@ -24,9 +24,9 @@ This is provided by
 
 Jacqueline Templeton, "From the Mountains to the Bush: Italian migrants write home from Australia, 1860-1962", University of Western Australia Press, 2003.
 
-This is a study of migration from the area of Italy. It constituted the great majority of migration in the 1880-1914 time. The area was agricultural and poor. The population was small landholders and poor. Land was in short supply. There was a tradition of younger sons working outside the area either seasonally or for a number of years. Money was sent back regularly, or accumulated until return. This happened in Europe (Switzerland, France) where unskilled farm labouring jobs were available. To some extent this system was transferred to Australia.
+This is a study of migration from this area of Italy. It constituted the great majority of migration in the 1880-1914 time. The area was agricultural and poor. The population consisted of small landholders. Land was in short supply. There was a tradition of younger sons working outside the area either seasonally or for a number of years. Money was sent back regularly, or accumulated until return. This happened in Europe (Switzerland, France) where unskilled farm labouring jobs were available. To some extent this system was transferred to Australia.
 
-The author has found access to a number of letters from the (single) sojourners in Austral back to Tirano. Many stories tell of isolation and loneliness. They tended to work together on small contacting arrangements, and the opportunities of interaction with the broader community were limited.
+The author (Templeton) has found access to a number of letters from the (single) sojourners in Australia back to Tirano. Many stories tell of isolation and loneliness. They tended to work together in small contacting arrangements, and the opportunities of interaction with the broader community were limited.
 
 There is a considerable amount of Italian-Australian studies now available.  The journal
 [Italian Historical Society](https://www.coasit.com.au/italian-historical-society/ihs-journal)
@@ -57,14 +57,14 @@ Bernardo (1842-1918) was married FOUR times. Wives and children:
 - Bernardo 1869 lived 2 days
 - unnamed girl 17 Dec 1871 "non e' vivo"
 
-Maria died  24 December 1871 in Tirano (obviously from complications), aged 30
+Maria died  24 December 1871 in Tirano (obviously from complications), aged 30.
 
 2. Marta Tudori (married 1873, age 25)
 
 - Maria Domenica 24 Nov 1874 lived 6 days
 - Domenica Marta 27 Feb 1876 lived 2 days
 
-Marta died 20 Nov 1876 in Teglio, aged 28)
+Marta died 20 Nov 1876 in Teglio, aged 28.
 
 3. Maria Reghenzani (married 01 Mar 1878, age 33)
 
@@ -76,7 +76,7 @@ Marta died 20 Nov 1876 in Teglio, aged 28)
 - Bernardo 16 Nov 1886 "lived 10 minutes"
 - Bernardo 26 Nov 1887 (Uncle Barney)
 
-Maria died 22 Oct 1902 in Tirano, aged 57
+Maria died 22 Oct 1902 in Tirano, aged 57.
 
 4. Maria Caterina Rossi (married 6 Mar 1904, age 36)
 
@@ -229,7 +229,7 @@ for naturalisation in 1911, soon after his marriage. As wife, Giacinta obtained 
 
 The
 [York Coffee Palace](yorkcoffeepalace),
-at 557-559 Wellington Street, Perth plays a key role in the affairs of Dominic, his brother Bernardo, and his brother-in-law Giacomo.
+at 557-559 Wellington Street, Perth plays a key role in the affairs of Dominic, his brother Bernardo, and his brother-in-law Giacomo Pianta.
 Clearly, it finished up in the management of Bernardo
 from about 1920.
 Family folklore has it that Dominic and Giacomo owned the business (but not the property), and that they were later bought out by Bernardo.
@@ -239,7 +239,7 @@ Giacomo used his capital to buy a dairy farm about 1915, and Dominic used his ca
 It is hard to pin this down. A starting point is 1906, when Giovanni Gettaz acquired a *colonial wine licence* and hence opened a wine saloon on the premises.
 It is possible that Dominic and Giacomo had built up some savings by then - it was certainly the Tirano ethos to do so.
 It seems clear that the York Coffee Palace, with its wine saloon and its accommodation, became a focus of the Italian community.
-My reading is that it was a three-way arrangement between Dominic, Giacomo and Giovanni Gettaz.
+My reading is that it was a three-way arrangement between Dominic, Giacomo Pianta and Giovanni Gettaz.
 In the Electoral Rolls from 1912 to 1921 Giacomo Pianta is listed as a "wine-saloon keeper", of 559 Wellington Street. In other words, once Giacomo was naturalised in 1911, he registered to vote. Dominic doesn't appear on the roll until 1921. It was not compulsory to vote until 1924, so presumably it was not compulsory to register. Similarly, the Electoral Rolls from 1910 to 1917 show Giovanni Gettaz as a "wine saloon keeper", of 559 Wellington Street. Dominic is not listed until 1921 (in Cue).
 
 The story is taken in more detail in my discussion of Bernardo.
@@ -272,7 +272,7 @@ He said that he and Dominic had been partners on a half-share basis
 
 > They kept no books. After about fourteen months he retired from the partnership, not being able to agree with his brother's wife. He had also taken over a mortgage on the hotel at a cost of £400 and this he still held.
 
-Dominic [cleared](http://nla.gov.au/nla.news-article27302908) cleared the bankruptcy in June 1917.
+Dominic [cleared](http://nla.gov.au/nla.news-article27302908) the bankruptcy in June 1917.
 
 Finally, a mortgagee sale of the hotel was
 [advertised](http://nla.gov.au/nla.news-article27306514)
@@ -343,65 +343,26 @@ on the (then) outskirts of Perth, and adopted a somewhat nostalgic lifestyle. Th
 
 My cousin Irene remembers:
 >The memory I have of going to Grandparents out at Osborne Park, is that it was a little cottage on an enormous block. (Through the eyes of a child.)
-Giacinta, always cooked Trish and self fried eggs. 
+Giacinta always cooked Trish and myself fried eggs. 
 Lots of discussion about Roma's parents. They didn't live too far away. They must have hired their house or property out to people for functions and did the catering.
 I realise now what they were talking about, but then, would have had no idea.
 
+My brother Jim remembers:
+
+>I can remember going to our grandparents’s house in Osborne Park, where the house had a tree on the left side. Lots of old scrap iron in the front area. The back door opened onto the kitchen. There was not much to explore outside, not like Uncle Barney’s place: sheds with old cars, an underground cellar with wine casks.   
+Apparently Dom buried some gold in the garden and forgot where it was. He blamed Arty, but after digging up the entire back garden, he found it.  
+ Apparently old Dom would never wear socks when he got dressed up, Uncle Barney was always telling him to wear socks. I think this was a Roma story.  
+I can remember going to the Bunbury nursing home to visit Giacinta, only the once, maybe we were together. I can remember her on the veranda, but not inside.   
+I can remember the family, including Giacinta, going to the Mayfair Theatre in Bunbury and that she complained of all the killing in the movie. She must have thought it was all true and not acted.
 
 
 They lived there until Dominic died in 1959, aged 77. Giacinta eventually moved to a nursing home in Bunbury, where she died in 1973, aged 90.
 
-### Domenica Molinari (1880-1941) and Giacomo Pianta (1877-1945)
+### Domenica Molinari (1880-1941)
 
 Domenica, Dominic's elder sister, had a tragic life. She was born in Tirano in 1880. Her father disappeared to Australia in 1888, when she was eight years old. He was still away in 1901, when she married Giacomo Pianta. Giacomo migrated to Perth in 1902, leaving her in Tirano with a very young son. She didn't join him until 1916. They then ran a successful diary farm in Perth, but in 1926 Giacomo suffered serious head injuries in an accident on the farm and never recovered, spending the next 19 years in an invalid home. Domenica was left to run the farm by herself. She committed suicide in 1941, obviously suffering from depression. 
 
 Domenica and Giacomo were married in Tirano in April 1901. Their only child Giacomo Pietro was born in Tirano in June 1901.
-
-Giacomo is on the
-[passenger list](GiacomoPiantaOphir1902.jpg)
-of the ship *Ophir* which arrived in Fremantle on 6 February 1902. The notes seem to say that he can "read and write", and that he has a "brother-in-law a brick-maker in Perth". That is presumably Dominic's occupation at that stage.
-Giacomo has left his wife of nine months, and their child, back in Tirano.
-
-It is interesting to note the two Italian passengers on the list, just above Giacomo. They cannot read and write, and have no money. None-the-less, they were allowed to land. 
-
-As far as I can tell, Giacomo did not see his wife and child for another 14 years.  On his application for naturalisation (in 1927), his son Giacomo Pietro says he arrived on the *Osterley* on March 1916. With his mother Domenica, one would presume. But they do not appear on the passenger list. Passing strange. 
-
-Luigi Pianta (Giacomo's brother) is on the
-[passenger list](LuigiPiantaOrtona1902.pdf)
-of the *Ortona*, arriving in Fremantle on 5 March 1902 (he is number 9 in the list of italians who embarked at Naples). In particular
-
-- Against each passenger is written a WA contact, the passenger's trade, and a money amount (presumably the cash that the passenger was carrying). This looks like some sort of migration agent was involved.
-
-- Luigi is a labourer, and nominates a brother in Mundaring. (Obviously, this is Giacomo). He was carrying £6, about two weeks wages. The other Italians were carrying similar amounts. They all needed to find work pretty quickly.
-
-Luigi's 
-[naturalisation application](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=14573)
-in November 1912 tells us that he lived in Greenmount for five years until 1907, and then moved to Osborne Park. We know that Dominic moved to Greenmount in about 1902, and presumably Giacomo and then Luigi joined him there, at least initially.  The Tiranese stuck together.
-
-We know Giacomo was naturalised in May 1911, but his file has not been digitised.
-That he had a close association with Dominic is clear from the fact he was the best man at Dominic's wedding. I do not have a photo of Domenica.
-
-{{< figure src="DomenicoMolinariGiacomoPianta.jpeg"
-           caption= "Domenico Molinari and Giacomo Pianta. 1911" >}}
-
-Giacomo and Domenica acquired a dairy farm on the
-[Glendalough Estate](https://en.wikipedia.org/wiki/Glendalough,_Western_Australia). 
-
-> The name honours a Catholic centre in Ireland, where a hermitage was established in the 7th Century. A crown grant for Glendalough and a portion of Herdsman Lake was made in 1837 to Thomas Helms and eventually transferred to Bishop Gibney in 1887, who leased much of it to market gardeners.
-
->The locality of Glendalough has a strong association with the Catholic Church with the northern portion passing through several orders of the Roman Catholic Church until 1921, when the Little Sisters of the Poor used it as a site for a rest home. In 1949, the State Housing Commission bought part of Glendalough for subdivision and began to develop the area.
-
-It seems that Giacomo would have leased the land (as the Catholic Church never sells unless it is forced to). A notice in *The West Australian* of 31 May 1915:
-
-> STRAYED into paddock, black and white Calf. Owner may have same by paying expenses. Pianta, Glendalough Dairy, Leederville.
-
-gives a starting date for the farm.
-
-In November 1926 he was severely injured:
-
-> James Pianta was admitted to the Perth Hospital from Osborne Park late last night suffering from severe head injuries, and soon after admission his name was placed on the danger list. No information could be obtained concerning the manner in which he received his injuries.
-
-He never recovered, and was looked after at The Little Sister's of the Poor home on the Glendalough Estate. He died in 1945.
 
 Domenica was left to run the diary farm, with Nino and hired help. Nino was married in 1928 and, presumably, sought to go his own way.
 She made two trips back to Tirano. The outward details are not recorded, but the records provide the return journeys. She arrived in Fremantle on the *Orsova* on 15 November 1932, and on the *Orama* on 10 December 1935. With no parents or siblings in Tirano she was visiting her more extended family.
@@ -480,9 +441,8 @@ and offers that
 
 The application was also referred to the Military Commandant, Perth, in what can only be interpreted as an early version of an internal security service. Who knew! The reply (page 20), from one Lieut. Colonel Peck, is surprisingly detailed. It concludes:
 
->MOLINARI'S application raises the question of naturalisation of aliens whose main idea is to get into a position to enable them to apply for a (wine saloon) license.
-
-> It has been demonstrated during the war and in the case of the recent woodline strike and disturbances at Kalgoorlie that "national" hotels and saloons are not conducive to the welfare of the country and it is submitted that naturalisation should not be conferred upon aliens whose calling is such as would tend to foster or encourage alien centres in the community. The application of MOLINARI is objected to on such grounds.
+>MOLINARI'S application raises the question of naturalisation of aliens whose main idea is to get into a position to enable them to apply for a (wine saloon) license.  
+It has been demonstrated during the war and in the case of the recent woodline strike and disturbances at Kalgoorlie that "national" hotels and saloons are not conducive to the welfare of the country and it is submitted that naturalisation should not be conferred upon aliens whose calling is such as would tend to foster or encourage alien centres in the community. The application of MOLINARI is objected to on such grounds.
 
 Not much support for multiculturalism in 1919, then! This objection is trumped by a letter from the Premier's Office which quotes from a WA Police report:
 
@@ -564,7 +524,7 @@ The following photo dates to about 1935. It shows my father as a young man, with
 {{< figure src="BarneyAndBernardoMolinari1933.jpeg"
            caption= "Barney Molinari and Bernardo Molinari. Perth 1935" >}}
 
-Bernardo remarried in 1930, to Pierina Tognolini (who was born in Tirano in 1904 and who immigrated to WA in 1921 with her parents and two siblings. It was Pierinia's second marriage as well. Her first husband Michele Bonafazzi had been killed in a mining accident in Boulder, WA, in 1924. Bernardo and Pierina had a daughter, Roma Renata, born in 1931. We have a photo of Pierina:
+Bernardo remarried in 1930, to Pierina Tognolini (who was born in Tirano in 1904 and who immigrated to WA in 1921 with her parents and two siblings). It was Pierinia's second marriage as well. Her first husband Michele Bonafazzi had been killed in a mining accident in Boulder, WA, in 1924. Bernardo and Pierina had a daughter, Roma Renata, born in 1931. We have a photo of Pierina:
 
 {{< figure src="PierinaMolinari.jpg"
            caption= "Pierina Molinari" >}}
@@ -596,7 +556,9 @@ in December 1942 (showing his employment as a machine miner at Big Bell). He mar
 
 ## The next generation
 
-### Mary Meotti (1912-2001)
+### Mary Molinari (1912-2001)
+
+Mary was born in Midland, Western Australia, in 1912. She married Robert Clement (Bob) Meotti in 1937. They had three children, all boys. Her husband died in 1984, and Mary died in 2001, both in Bunbury, WA.
 
 {{< figure src="MaryMolinari.jpeg"
            caption= "Mary Molinari" >}}
@@ -605,12 +567,13 @@ Mary attended the convent school at Day Dawn, and then at Cue (from perhaps 1920
 
 Post school, she is listed in the period 1927-1932 as a keen tennis player, representing Cue against such tennis powerhouses as Meekatharra. 
 
-Presumably, Mary lived at home until she married, at age 25, Bob Meotti. Bob was a miner at Mt. Magnet (100 km south of Cue) and they seem to have lived in Mt magnet after their marriage. Their three boys Bernie, Bobby and Francis were born in the next five years.
+Presumably, Mary lived at home until she married, at age 25, Bob Meotti. Bob was a miner at Mt. Magnet (100 km south of Cue) and they seem to have lived in
+Mt Magnet after their marriage. Their three boys Bernie, Bobby and Francis were born in the next five years.
 
 {{< figure src="BernieFrancisBobbyMeotti.jpeg"
            caption= "Bernie, Francis, Bobby Meotti. c 1952" >}}
 
-During the War, Bob was technically an Enemy Alien as he was still an Italian citizen. family legend has it that he was interned in some sense. In any event he was naturalised on 21 June 1945. The file has not been digitised so we cannot check the details.
+During the War, Bob was technically an Enemy Alien as he was still an Italian citizen. Family legend has it that he was interned in some sense. In any event he was naturalised on 21 June 1945. The file has not been digitised so we cannot check the details.
 
 By 1947 they were living in Harvey, and Bob was listed on the Electoral Roll as a "wood contractor". By the mid fifties he had a share in a timber mill at
 [Argyle](https://en.wikipedia.org/wiki/Argyle,_Western_Australia) and eventually was the sole owner. The family moved to Boyanup, to be closer to the mill.
@@ -633,7 +596,7 @@ After the war, Bob sponsored the migration in 1949 of his cousin Pietro Moles. P
 
 A personal perspective.
 
-- Bob Meotti (Uncle Bob to me) was somewhat of a force of nature. Like many first-generation migrants he knew he wouldn't make much money working for a wage, as he would be very much at the lower end of the spectrum. Rather, he sought to work as a contractor or develop his own business, where harder work and longer hours resulted (with a bit of luck) in a higher income. Mary Meotti (Auntie Mary to me) was calm and relaxed, somewhat in contrast to her husband.
+- Bob Meotti (Uncle Bob to me) was somewhat of a force of nature. Like many first-generation migrants he knew he wouldn't make much money working for a wage, as he would be very much at the lower end of the spectrum. Rather, he sought to work as a contractor or develop his own business, where harder work and longer hours resulted (with a bit of luck) in a higher income. His wife Mary (Auntie Mary to me) was calm and relaxed, somewhat in contrast to her husband.
 
 - His sawmill was not far from Bunbury where we lived. You turned off the main road, and drove a kilometre or so up a little valley. Bob had also taken up horses, and he owned and trained trotters. He kept horses next to the mill, and had a training track there. On one visit he was showing us the stables and the tack room. "What are those bottles?", Dad asked. "Horse tonic" replied Bob. "But I won't give a horse anything that I won't take myself". And he got out a teaspoon and took a couple of samples.
 
@@ -653,7 +616,7 @@ He lived in the Murchison Goldfields from about 1916 to 1948. From about 1935 to
 {{< figure src="LilyBarneyMolinari.jpeg"
            caption= "Lil and Barney Molinari. c 1950" >}}
 
-He probably started school at the Dominican Convent School in Cue, in 1920 and would have finished school at the end of 1927, having just turned 14. We have one photo of Barney during this time, as an altar boy at the Catholic Church in Cue.
+He probably started school at the Dominican Convent School in Cue in 1920 and would have finished school at the end of 1927, having just turned 14. We have one photo of Barney during this time, as an altar boy at the Catholic Church in Cue.
 
 {{< figure src="BarneyMolinari1923.jpeg"
            caption= "Altar Boys at Cue. Barney Molinari (center) 1923" >}}
@@ -670,9 +633,8 @@ of Jun 1938 shows them on opposite teams.
 
 >CUE OVERWHELMED. HEAVY GROUND MARS GAME
 
->At Big Bell on Sunday, the Bell team showed a complete reversal of the form they displayed at Reedy the previous week and simply overwhelmed Cue on what must be the heaviest ground on which football has ever been played. Apart from the interest in the number of goals O'Reilly might kick from his numerous shots, the main interest in the game was trying to solve the problem of who had the ball, as the perpetual cloud of dust during the game made vision very foggy. Although heu Cue team was a street or two behind in the scores, the play was not one-sided as might be thought. The ball was in front of the goal on numerous occasions, but lack of a forward to cope with the brilliant defence of Bill Gilbertson was responsible for the lowness of the score. At the other end of the ground Ivan O'Reilly was in a dashing mood and secured possession of the ball at will. Apart from these players the Bell had two match-winners in Giles and Howell, who were in their element plowing through the inches thick dust. Their experience underground must have stood them in good stead. Bonner was another effective man but was held in check during the second half of the game by Allan Plaisted, who is improving with each game. Barney Molinari proved a bit too much for brother Arty, but when changed to opposite wings, the latter gave his forwards plenty to do. Apart from those already picked out from the Bell team, there was not a passenger in that team, all pulling their ton of dirt, even the small men. For Cue, very few were able to get the measure of the bounce of the ball and were left standing by yards in a race for the ball. Bob Regan received a lot of attention and was interfered with on many occasions, but it must be said there was no malice attached to this attention. He gave invaluable service. Ned Doody was his usual solid self, even though he up against such a player as O'Reilly.
-
-> Norm Grenfell gave a good performance wherever placed and was invaluable. Of the others none were outstanding but came in for some useful play at times. The final scores of the game were: Big Bell 11 goals 18 behinds. Cue 3 goals 5 behinds. The game was umpired by G. Cream of Reedy, who gave a good exhibition, although some of his decisions were most unorthodox. His mistake of blowing the whistle for a mark and then calling play on was most disconcerting.
+>At Big Bell on Sunday, the Bell team showed a complete reversal of the form they displayed at Reedy the previous week and simply overwhelmed Cue on what must be the heaviest ground on which football has ever been played. Apart from the interest in the number of goals O'Reilly might kick from his numerous shots, the main interest in the game was trying to solve the problem of who had the ball, as the perpetual cloud of dust during the game made vision very foggy. Although he Cue team was a street or two behind in the scores, the play was not one-sided as might be thought. The ball was in front of the goal on numerous occasions, but lack of a forward to cope with the brilliant defence of Bill Gilbertson was responsible for the lowness of the score. At the other end of the ground Ivan O'Reilly was in a dashing mood and secured possession of the ball at will. Apart from these players the Bell had two match-winners in Giles and Howell, who were in their element plowing through the inches thick dust. Their experience underground must have stood them in good stead. Bonner was another effective man but was held in check during the second half of the game by Allan Plaisted, who is improving with each game. Barney Molinari proved a bit too much for brother Arty, but when changed to opposite wings, the latter gave his forwards plenty to do. Apart from those already picked out from the Bell team, there was not a passenger in that team, all pulling their ton of dirt, even the small men. For Cue, very few were able to get the measure of the bounce of the ball and were left standing by yards in a race for the ball. Bob Regan received a lot of attention and was interfered with on many occasions, but it must be said there was no malice attached to this attention. He gave invaluable service. Ned Doody was his usual solid self, even though he up against such a player as O'Reilly.  
+Norm Grenfell gave a good performance wherever placed and was invaluable. Of the others none were outstanding but came in for some useful play at times. The final scores of the game were: Big Bell 11 goals 18 behinds. Cue 3 goals 5 behinds. The game was umpired by G. Cream of Reedy, who gave a good exhibition, although some of his decisions were most unorthodox. His mistake of blowing the whistle for a mark and then calling play on was most disconcerting.
 
 By 1938 Barney seems to be playing for the Big Bell team in the local competition, but for the
 [Cue District team](http://nla.gov.au/nla.news-article260145514) in the district competition. 
@@ -683,7 +645,7 @@ in the Sunday morning cycling competition.
 
 Finally, both Barney and Artie were members of the Cue Fire Brigade.
 {{< figure src="BarneyArthurMolinari1934.jpeg"
-           caption= "Cue Fire Brigade. Barney (left), Arthur (right, standing). 1935" >}}
+           caption= "Cue Fire Brigade. Barney (left, standing), Arthur (right, standing). 1935" >}}
 Volunteer fire brigades have developed a range of esoteric competitions, that continue to
 [this day](https://www.vfrs.asn.au/vfrs-competition-results).
 (On that site, look at the 2024 results to get an idea of the events.)
@@ -698,8 +660,6 @@ The effects of the Depression were still being felt. *The West Australian* of 21
 >BIG BELL MINE. Warning to Unemployed. CUE, Jan. 18. Owing to false rumours being circulated of the wonderful opportunities of obtaining jobs at the Big Bell mine, numbers of men and youths continue to arrive at Cue in search of employment. In many cases these men use all their ready money to get here, and as there are practically no jobs available, they are in financial difficulties. The mine management has all the labour it needs and a long list of applications from experienced men, which is drawn on as required. Jobs on the mine are therefore few, more particularly for unskilled labour, but the men are not aware of the position until they arrive here. Business people and householders of Cue and Big Bell are being called upon every day to assist disappointed men with food and the bare necessities of life. Cases of men being stranded here could be quoted, and it is to be hoped that others who look on the Big Bell as their golden opportunity for a job will be saved the expense of the journey and the consequent disappointment by the true position being made known.
 
 In fact, Barney (who was working on the mine by then) related this situation with feeling, saying that the people were milling around the gates of the mine, begging for work.
-
-
 
 {{< figure src="BarneyMolinari1939.jpeg"
            caption= "Perth Holiday. Barney Molinari (left). c1939" >}}
@@ -759,7 +719,7 @@ After being stable for years, about 1962 his injured eye deteriorated and had to
 
 When they were visiting us in Cambridge in 1967, Dad had a major heart attack. Presumably this was preceded by years of high cholesterol and high blood pressure, but in the medical practice of the time it was not diagnosed or treated. There was little treatment for a heart attack - he spent four weeks in Addenbrooks Hospital waiting for the damaged section of heart to heal (and hoping that there was not another heart attack). He slowly recovered, and he and Mum made it back to Bunbury. He had no interest in any more travel outside Australia.
 
-Towards the end he progressively lost sight in his good eye, and suffered from slow heart failure. He took it stoically, and was not interested in pursuing any surgical options. He lived at home to the end, and died in his sleep at the age of 85. He would have greatly prefered this to living longer, and needing to move to a nursing home.
+Towards the end he progressively lost sight in his good eye, and suffered from slow heart failure. He took it stoically, and was not interested in pursuing any surgical options. He lived at home to the end, and died in his sleep at the age of 85. He would have greatly preferred this to living longer, and needing to move to a nursing home.
 
 Finally, I include the text of the
 [eulogy](BarneyMolinariEulogy1999.pdf)
@@ -821,9 +781,9 @@ Helen was born in 1920, and died in November 1920 at the age of about nine month
 
 Giacinta took the death hard. Arthur told me: "Mum was never the same again".
 
-## The cousins
+### The cousins
 
-### Jim Pianta (1901-1980)
+#### Jim Pianta (1901-1980)
 
 Giacomo Pietro Pianta was born in Tirano in 1901. He arrived in Fremantle, with his mother Domenica, in April 1916. In Australia he was known as James Peter Pianta, as Nino to his family, and as Jim to us.
 
@@ -842,16 +802,16 @@ He became interested in trotting while running his milk round (being a horse and
 example, we have a 
 [photo](http://nla.gov.au/nla.news-article38424207) on him in 1942, having won the Easter Cup.
 More details are given in
-[this report](http://nla.gov.au/nla.news-article39094604)
+[this report](http://nla.gov.au/nla.news-article39094604).
 
-In 1947 he spent six months in Italy, and
+In 1947 he spent nine months in Italy, and
 [reported](http://nla.gov.au/nla.news-article80805480)
 on Italian trotting on his return.
 
 {{< figure src="JimElainePiantaBarneyMolinari.jpeg"
            caption= "Jim and Elaine Pianta, Barney Molinari. 1966" >}}
 
-### Roma Molinari (1931-1921)
+#### Roma Molinari (1931-2021)
 
 Roma Molinari was born in Perth, in 1931. In 1975 she (and her widowed father Bernardo) left on a trip to Tirano, and stayed there. She died in Tirano in 2021.
 
@@ -868,11 +828,9 @@ Over the years various relatives from Australia on a European trip would seek to
 
 My brother Jim comments:
 
->Roma always chose not to reply to email nor answer phone calls from outside of Italy. In 2015 when I was living in Sardinia I travelled to Tirano and appeared on her door step, calling her from there.  And having an Italian phone number I was able to have her respond.
-
->Roma was very fit and well in 2015. She was very involved in teaching English to students and hiking around the Aprica Ski Resort.  She still referred to Perth as home.  
-
->Since 2015 I have sent her many emails and haven't received a reply.
+>Roma always chose not to reply to email nor answer phone calls from outside of Italy. In 2015 when I was living in Sardinia I travelled to Tirano and appeared on her door step, calling her from there.  And having an Italian phone number I was able to have her respond.  
+Roma was very fit and well in 2015. She was very involved in teaching English to students and hiking around the Aprica Ski Resort.  She still referred to Perth as home.  
+Since 2015 I have sent her many emails and haven't received a reply.
 
 {{< figure src="RomaDario2015.jpeg"
            caption= "Roma and Dario. 2015" >}}
@@ -893,3 +851,91 @@ The coverage here will be brief, perhaps aimed at giving our grandchildren an id
 
 
 ### Peter John Molinari (1952-)
+
+## Related Family: Pianta
+
+As identified above, my father's aunt Domenica was married to Giacomo Pianta.
+It is convenient to show a family tree for Giacomo's father.
+
+{{< pdf src="GiacomoPianta.pdf"
+        width="100%" height="400px" >}}
+Family tree: Giacomo Pianta [(fullscreen)](GiacomoPianta.pdf)
+
+This gives an indication of the social conditions in Tirano in the late nineteenth century. There are 11 children, of whom only four reach the age of 20 (and who marry). Two of the young children died in the space of two days, presumably from a common cause. Of the four Piantas who married, three married Molinaris (apparently from different families). 
+
+Noel Howieson indicates that the patriarch Giacomo travelled to Western Australia and worked for a while on the Mundaring dam project. Presumably this would be after the birth of the last child (in 1897). It seems that this would predate the migration of Dominic Molinari and Giacomo's two eldest sons in the period 1900-1902, and would likely be the primary reason that they chose WA. I have been unable to find a passenger arrival for old Giacomo. Passenger departures do not seem to have been systematically recorded.
+
+### Giacomo Pianta (1877-1945)
+
+Giacomo was the first child, born in 1877. As explained above, he married Domenica Molinari in Tirano, in 1901. He migrated to WA in early 1902, to join his father (we think) and his brother-in-law Dominic Molinari. 
+
+
+Giacomo is on the
+[passenger list](GiacomoPiantaOphir1902.jpg)
+of the ship *Ophir* which arrived in Fremantle on 6 February 1902. The notes seem to say that he can "read and write", and that he has a "brother-in-law a brick-maker in Perth". That is presumably Dominic's occupation at that stage.
+
+It is interesting to note the two Italian passengers on the list, just above Giacomo. They cannot read and write, and have no money. None-the-less, they were allowed to land. 
+
+As far as I can tell, Giacomo did not see his wife and child for another 14 years.  On his application for naturalisation (in 1927), his son Giacomo Pietro says he arrived on the *Osterley* on March 1916. With his mother Domenica, one would presume. But they do not appear on the passenger list. Passing strange. 
+
+He seems to be a rather uncommitted husband. The Pianta family legend has it that he did not organise the migration of his wife and  son to Perth, but rather Bernardo did. 
+
+We know Giacomo was naturalised in May 1911, but his file has not been digitised.
+That he had a close association with Dominic is clear from the fact he was the best man at Dominic's wedding. I do not have a photo of Domenica.
+
+{{< figure src="DomenicoMolinariGiacomoPianta.jpeg"
+           caption= "Domenico Molinari and Giacomo Pianta. 1911" >}}
+
+As explained above, about a year after his family arrived, they acquired a dairy farm in Harbourne Street, Osborne Park. 
+
+Giacomo and Domenica acquired a dairy farm on the
+[Glendalough Estate](https://en.wikipedia.org/wiki/Glendalough,_Western_Australia). 
+
+> The name honours a Catholic centre in Ireland, where a hermitage was established in the 7th Century. A crown grant for Glendalough and a portion of Herdsman Lake was made in 1837 to Thomas Helms and eventually transferred to Bishop Gibney in 1887, who leased much of it to market gardeners.  
+The locality of Glendalough has a strong association with the Catholic Church with the northern portion passing through several orders of the Roman Catholic Church until 1921, when the Little Sisters of the Poor used it as a site for a rest home. In 1949, the State Housing Commission bought part of Glendalough for subdivision and began to develop the area.
+
+It seems that Giacomo would have leased the land (as the Catholic Church never sells unless it is forced to). A notice in *The West Australian* of 31 May 1915:
+
+> STRAYED into paddock, black and white Calf. Owner may have same by paying expenses. Pianta, Glendalough Dairy, Leederville.
+
+gives a starting date for the farm.
+
+In November 1926 he was severely injured:
+
+> James Pianta was admitted to the Perth Hospital from Osborne Park late last night suffering from severe head injuries, and soon after admission his name was placed on the danger list. No information could be obtained concerning the manner in which he received his injuries.
+
+He never recovered, and was looked after at The Little Sister's of the Poor home on the Glendalough Estate. He died in 1945.
+
+
+### Luigi Pianta (1879-1967)
+
+Luigi was the second child, born in 1879. He
+is on the
+[passenger list](LuigiPiantaOrtona1902.pdf)
+of the *Ortona*, arriving in Fremantle on 5 March 1902 (he is number 9 in the list of italians who embarked at Naples). In particular:
+
+- Against each passenger is written a WA contact, the passenger's trade, and a money amount (presumably the cash that the passenger was carrying). This looks like some sort of migration agent was involved.
+
+- Luigi is a labourer, and nominates a brother in Mundaring. (Obviously, this is Giacomo). He was carrying £6, about two weeks wages. The other Italians were carrying similar amounts. They all needed to find work pretty quickly.
+
+Luigi's 
+[naturalisation application](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=14573)
+in November 1912 tells us that he lived in Greenmount for five years until 1907, and then moved to Osborne Park. We know that Dominic moved to Greenmount in about 1902, and presumably Giacomo and then Luigi joined him there, at least initially.  The Tiranese stuck together.
+
+In three years in Osborne Park he found and married an Australian bride, presumably meeting through the local Catholic church. This is an impressive event of assimilation, considering that he arrived in Fremantle eight years before with £6 and presumably not a word of English. The *Daily News* of 31 October 1910 tells us:
+
+>WEDDING PIANTA - FRANKLIN  
+A quiet and pretty wedding was solemnised on Monday, October 24, at 9 a.m. at St. Brigid's Church, West Perth, between Mr. Luigi Pianta of Osborne Park and Miss Cecilia Franklin, daughter of Mr. and Mrs. Franklin, of North Beach road, North Perth. The ceremony was performed by the Rev. Dr. O'Hurley, who also officiated at the Nuptial Mass. The bride, who was given away by her father, wore cream silk, trimmed with silk lace and hat trimmed with cream silk and ostrich feathers. The Misses Marion Franklin and Mary Kenny (nieces of the bride), who acted as bridesmaids, wore dresses of silver lustre with silk trimmings. Mr M. Franklin (brother of bride) acted as best man, and Mr. E. Kenny as groomsman.  
+In the evening a reception was tendered at Arranmore Schooolroom, Leederville, by Mr. and Mrs. Franklin in honour of the occasion, fully 80 guests being present. Including the Rev. Dr.O'Hurley, and Mr. and Mrs. Paul Barratt (Mayor and Mayoress of Leederville). During the evening a programme of vocal and instrumental items was carried out by friends of the bride and bridegroom when the health and happiness of Mr and Mrs. Pianta was proposed and honored, by all present. At the reception the bride wore a handsome and costly gold pendant with amethyst and pearls the gift of Mr. Giacomo Pianta (brother of bridegroom). Many beautiful presents were received from the relations and friends of the bride and bridegroom, Including a handsome afternoon tea set and wicker furniture, presented by the parishioners of Arranmore Church at a social evening given on Wednesday, October 19, in recognition of the bride's untiring and enthusiastic work in behalf of the church; also a beautiful statue of the Madonna and child by the Sodality of the Children of Mary. The Rev Dr. O'Hurley made the presentation on behalf of those present in a congratulatory speech, whilst Mr M. Franklin, suitably, responded on behalf of his sister.
+
+His brother Giacomo gives a "handsome and costly" gift to the bride, but does not act as best man at the wedding.
+
+After Luigi's naturalisation, his wife Cecelia inquired as to her status. A letter came back from External Affairs in Melbourne saying in part:
+
+>that I have the honour to inform you that a British subject who marries an alien adopts her husband's nationality and consequently is a statutory alien in the eyes of the law.  
+As your husband, an Italian, has been naturalised by the Commonwealth and is now
+a British subject, his new citizenship extends to you and therefore saves you the necessity of becoming naturalised to regain your original citizenship, namely British.
+
+So that's all right, then. A woman, as a wife, didn't have many rights on her own account. Why didn't her husband inherit *her* citizenship?
+
+Luigi and Cecelia did not have any children. Cecelia died in 1962 and Luigi died in 1967.
